@@ -1,0 +1,17 @@
+# Eicosapentaenoic Acid
+
+$$C20:5(n-3)$$
+
+---
+
+* **Abbreviation**: EPA, C20:5
+* **Synonyms**: *cis*,*cis*,*cis*,*cis*,*cis*-5,8,11,14,17-Eicosapentaenoic acid, Timnodonic acid, Omega-3 fatty acid
+* **Description**: Represents a 20-carbon polyunsaturated fatty acid with five double bonds. It is a primary marine-derived Omega-3 fatty acid, found abundantly in cold-water fatty fish (like salmon, mackerel, and sardines) and microalgae.
+    * *Nutritional Health*: EPA is highly prized for its profound health benefits. It is a critical anti-inflammatory agent, serving as a precursor to beneficial eicosanoids (such as series-3 prostaglandins and thromboxanes). It is widely recognized for its cardiovascular benefits, including significantly lowering blood triglyceride levels, reducing arterial plaque buildup, and decreasing the risk of cardiovascular events. It also plays a vital role in mental health and reducing symptoms of depression.
+    * *Biodiesel Properties*: Due to its extreme degree of polyunsaturation (five double bonds), EPA is highly problematic for biodiesel production. While its extremely low melting point (approx. -54°C) provides exceptional cold-weather operability by drastically lowering the cold filter plugging point (CFPP), it is incredibly susceptible to rapid oxidation, degradation, and polymerization (extremely poor oxidation stability, OS). Furthermore, it severely depresses the cetane number (CN), leading to poor ignition quality. Feedstocks rich in EPA (like fish oil or algae oil) require extensive processing, blending, or heavy antioxidant treatments to be viable as standard biodiesel.
+
+## References
+
+* [Kris-Etherton (2002)](https://doi.org/10.1161/01.cir.0000038493.65177.94 "Fish Consumption, Fish Oil, Omega-3 Fatty Acids, and Cardiovascular Disease")
+* [Moser (2010)](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
+* [Bhatt (2019)](https://doi.org/10.1056/NEJMoa1812792 "Cardiovascular Risk Reduction with Icosapent Ethyl for Hypertriglyceridemia")

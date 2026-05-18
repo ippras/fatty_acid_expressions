@@ -1,0 +1,30 @@
+[book]
+authors = ["kgv"]
+description = ""
+title = "Lipid expressions"
+
+[preprocessor.katex]
+after = ["links"]
+before = ["gettext"]
+renderers = ["epub", "html", "pdf"]
+
+[preprocessor.gettext]
+after = ["links"]
+
+[build]
+extra-watch-dirs = ["po"]
+
+[output.markdown]
+
+[output.html]
+additional-css = ["theme/css/language-picker.css"]
+git-repository-url = "https://github.com/ippras/docs"
+hash-files = true
+
+[output.html.fold]
+enable = true
+level = 2
+
+# [output.epub]
+
+# [output.pdf]

@@ -1,0 +1,1 @@
+* [St-Onge (2002)](https://doi.org/10.1093/jn/132.3.329 "Physiological effects of medium-chain triglycerides: potential agents in the prevention of obesity")

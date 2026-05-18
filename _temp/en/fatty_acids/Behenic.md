@@ -1,0 +1,16 @@
+# Behenic Acid
+
+$$C22:0$$
+
+---
+
+* **Abbreviation**: BA, C22:0
+* **Synonyms**: Docosanoic acid
+* **Description**: Represents a 22-carbon saturated fatty acid. It is a major component of Ben oil (or behen oil, extracted from the seeds of the *Moringa oleifera* tree) and is also found in small amounts in peanut oil and rapeseed (canola) oil.
+    * *Nutritional Health*: Behenic acid belongs to the group of very-long-chain saturated fatty acids (VLSFAs). In the human diet, it is poorly absorbed in the intestines compared to shorter-chain saturated fats like palmitic acid, meaning it has a much lower potential to raise blood cholesterol levels. Furthermore, recent epidemiological studies suggest that higher circulating levels of VLSFAs are associated with favorable metabolic profiles, including a reduced risk of incident heart failure, cardiovascular diseases, and type 2 diabetes.
+    * *Biodiesel Properties*: In fuel applications, behenic acid provides an exceptionally high cetane number (CN) and outstanding oxidation stability (OS). However, due to its extremely high melting point (approx. 80°C), it is highly problematic for cold-weather operability. Even trace amounts of behenic acid in biodiesel feedstocks can drastically raise the cold filter plugging point (CFPP) and cloud point, causing severe fuel gelling and filter clogging at ambient temperatures.
+
+## References
+
+* [Cater (2001)](https://doi.org/10.1093/ajcn/73.1.41 "Behenic acid is a cholesterol-raising saturated fatty acid in humans")
+* [Moser (2010)](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
