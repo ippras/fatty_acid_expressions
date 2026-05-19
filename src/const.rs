@@ -1,5 +1,3 @@
-use const_format::formatcp;
-
 pub const FAE: &str = "FAE";
 pub const PREFIX: &str = FAE;
 
@@ -32,48 +30,38 @@ pub mod sum {
 }
 
 pub mod ratio {
-    use super::*;
-
     pub mod biodiesel {
-        use super::*;
-
-        pub const CFPP: &str = "ColdFilterPluggingPoint";
-        pub const CN: &str = "CetaneNumber";
-        pub const DU: &str = "DegreeOfUnsaturation";
-        pub const IV: &str = "IodineValue";
-        pub const LCSF: &str = "LongChainSaturatedFactor";
-        pub const OS: &str = "OxidationStability";
-
-        pub const CETANE_NUMBER: &str = formatcp!("{FAE}_{BIODIESEL}_{CN}");
-        pub const COLD_FILTER_PLUGGING_POINT: &str = formatcp!("{FAE}_{BIODIESEL}_{CFPP}");
-        pub const DEGREE_OF_UNSATURATION: &str = formatcp!("{FAE}_{BIODIESEL}_{DU}");
-        pub const IODINE_VALUE: &str = formatcp!("{FAE}_{BIODIESEL}_{IV}");
-        pub const LONG_CHAIN_SATURATED_FACTOR: &str = formatcp!("{FAE}_{BIODIESEL}_{LCSF}");
-        pub const OXIDATION_STABILITY: &str = formatcp!("{FAE}_{BIODIESEL}_{OS}");
+        pub const CFPP: &str = "FAE_Biodiesel_ColdFilterPluggingPoint";
+        pub const CN: &str = "FAE_Biodiesel_CetaneNumber";
+        pub const DU: &str = "FAE_Biodiesel_DegreeOfUnsaturation";
+        pub const IV: &str = "FAE_Biodiesel_IodineValue";
+        pub const LCSF: &str = "FAE_Biodiesel_LongChainSaturatedFactor";
+        pub const OS: &str = "FAE_Biodiesel_OxidationStability";
     }
 
     pub mod metabolic {
-        pub const D9DI: &str = "Delta9DesaturaseIndex";
-        pub const EI: &str = "ElongaseIndex";
-        pub const KAI: &str = "KineticActivityIndex";
-        pub const TI: &str = "ThioesteraseIndex";
+        pub const D9DI: &str = "FAE_Metabolic_Delta9DesaturaseIndex";
+        pub const EI: &str = "FAE_Metabolic_ElongaseIndex";
+        pub const KAI: &str = "FAE_Metabolic_KineticActivityIndex";
+        pub const TI: &str = "FAE_Metabolic_ThioesteraseIndex";
     }
 
     pub mod nutritional {
-        pub const AI: &str = "AtherogenicIndex";
-        pub const CI: &str = "CholesterolIndex";
-        pub const FLQ: &str = "FishLipidQuality";
-        pub const HPI: &str = "HealthPromotingIndex";
-        pub const NVI: &str = "NutritionalValueIndex";
-        pub const SI: &str = "SaturationIndex";
-        pub const TI: &str = "ThrombogenicIndex";
-        pub const UI: &str = "UnsaturationIndex";
+        pub const AI: &str = "FAE_Nutritional_AtherogenicIndex";
+        pub const CI: &str = "FAE_Nutritional_CholesterolIndex";
+        pub const FLQ: &str = "FAE_Nutritional_FishLipidQuality";
+        pub const HPI: &str = "FAE_Nutritional_HealthPromotingIndex";
+        pub const NVI: &str = "FAE_Nutritional_NutritionalValueIndex";
+        pub const SI: &str = "FAE_Nutritional_SaturationIndex";
+        pub const TI: &str = "FAE_Nutritional_ThrombogenicIndex";
+        pub const UI: &str = "FAE_Nutritional_UnsaturationIndex";
 
         pub const HH: &str = CI;
         pub const HHI: &str = CI;
 
-        pub const LA_TO_ALA: &str = "LinoleicToAlphaLinolenic";
-        pub const O6PUFA_TO_O3PUFA: &str = "Omega-6PolyunsaturatedToOmega-3Polyunsaturated";
-        pub const PUFA_TO_SFA: &str = "PolyunsaturatedToSaturated";
+        pub const LA_TO_ALA: &str = "FAE_Nutritional_LinoleicToAlphaLinolenic";
+        pub const O6PUFA_TO_O3PUFA: &str =
+            "FAE_Nutritional_Omega-6PolyunsaturatedToOmega-3Polyunsaturated";
+        pub const PUFA_TO_SFA: &str = "FAE_Nutritional_PolyunsaturatedToSaturated";
     }
 }
