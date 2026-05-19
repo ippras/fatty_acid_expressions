@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Lipids\n"
-"POT-Creation-Date: 2026-05-19T14:34:16+03:00\n"
+"POT-Creation-Date: 2026-05-19T14:52:06+03:00\n"
 "PO-Revision-Date: 2026-05-05T10:29:57+03:00\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -598,8 +598,8 @@ msgid "[Hunter _et al._, 2010](https://doi.org/10.3945/ajcn.2009.27661 \"Cardiov
 msgstr "[Hunter _et al._, 2010](https://doi.org/10.3945/ajcn.2009.27661 \"Cardiovascular disease risk of dietary stearic acid compared with trans, other saturated, and unsaturated fatty acids: a systematic review\")"
 
 #: src/Primitive/c18c9.md:3
-msgid "$$\\ce{C{18:1}\\[\\\\omega-9\\]}$$"
-msgstr "$$\\ce{C{18:1}\\[\\\\omega-9\\]}$$"
+msgid "$$\\ce{C{18:1}(\\omega-9)}$$"
+msgstr "$$\\ce{C{18:1}(\\omega-9)}$$"
 
 #: src/Primitive/c18c9.md:7
 msgid "O"
@@ -626,8 +626,8 @@ msgid "[Sales-Campos et al., 2013](10.2174/1389557511313020003 \"An overview of 
 msgstr "[Sales-Campos et al., 2013](10.2174/1389557511313020003 \"An overview of the modulatory effects of oleic acid in health and disease\")"
 
 #: src/Primitive/c18c9c12.md:3
-msgid "$$\\ce{C{18:2}\\[\\\\omega-6\\]}$$"
-msgstr "$$\\ce{C{18:2}\\[\\\\omega-6\\]}$$"
+msgid "$$\\ce{C{18:2}(\\omega-6)}$$"
+msgstr "$$\\ce{C{18:2}(\\omega-6)}$$"
 
 #: src/Primitive/c18c9c12.md:7
 msgid "L"
@@ -654,8 +654,8 @@ msgid "[Farvid _et al._, 2014](https://doi.org/10.1161/circulationaha.114.010236
 msgstr "[Farvid _et al._, 2014](https://doi.org/10.1161/circulationaha.114.010236 \"Dietary linoleic acid and risk of coronary heart disease: a systematic review and meta-analysis of prospective cohort studies\")"
 
 #: src/Primitive/c18c9c12c15.md:3
-msgid "$$\\ce{C{18:3}\\[\\\\omega-3\\]}$$"
-msgstr "$$\\ce{C{18:3}\\[\\\\omega-3\\]}$$"
+msgid "$$\\ce{C{18:3}(\\omega-3)}$$"
+msgstr "$$\\ce{C{18:3}(\\omega-3)}$$"
 
 #: src/Primitive/c18c9c12c15.md:7
 msgid "ALA"
@@ -711,8 +711,8 @@ msgid "[Liu _et al._, 2020](https://doi.org/10.3390/nu12092709 \"Circulating Ver
 msgstr "[Liu _et al._, 2020](https://doi.org/10.3390/nu12092709 \"Circulating Very-Long-Chain Saturated Fatty Acids Were Inversely Associated with Cardiovascular Health: A Prospective Cohort Study and Meta-Analysis\")"
 
 #: src/Primitive/c20c5c8c11c14c17.md:3
-msgid "$$\\ce{C{20:5}\\[\\\\omega-3\\]}$$"
-msgstr "$$\\ce{C{20:5}\\[\\\\omega-3\\]}$$"
+msgid "$$\\ce{C{20:5}(\\omega-3)}$$"
+msgstr "$$\\ce{C{20:5}(\\omega-3)}$$"
 
 #: src/Primitive/c20c5c8c11c14c17.md:7
 msgid "EPA"
@@ -772,8 +772,8 @@ msgid "[Cater _et al._, 2001](https://doi.org/10.1093/ajcn/73.1.41 \"Behenic aci
 msgstr "[Cater _et al._, 2001](https://doi.org/10.1093/ajcn/73.1.41 \"Behenic acid is a cholesterol-raising saturated fatty acid in humans\")"
 
 #: src/Primitive/c22c4c7c10c13c16c19.md:3
-msgid "$$\\ce{C{22:6}\\[\\\\omega-3\\]}$$"
-msgstr "$$\\ce{C{22:6}\\[\\\\omega-3\\]}$$"
+msgid "$$\\ce{C{22:6}(\\omega-3)}$$"
+msgstr "$$\\ce{C{22:6}(\\omega-3)}$$"
 
 #: src/Primitive/c22c4c7c10c13c16c19.md:7
 msgid "DHA"
@@ -800,8 +800,8 @@ msgid "[Horrocks _et al._, 1999](https://doi.org/10.1006/phrs.1999.0495 \"Health
 msgstr "[Horrocks _et al._, 1999](https://doi.org/10.1006/phrs.1999.0495 \"Health benefits of docosahexaenoic acid (DHA)\")"
 
 #: src/Primitive/c22c13.md:3
-msgid "$$\\ce{C{22:1}\\[\\\\omega-9\\]}$$"
-msgstr "$$\\ce{C{22:1}\\[\\\\omega-9\\]}$$"
+msgid "$$\\ce{C{22:1}(\\omega-9)}$$"
+msgstr "$$\\ce{C{22:1}(\\omega-9)}$$"
 
 #: src/Primitive/c22c13.md:7
 msgid "EA"
@@ -852,8 +852,8 @@ msgid "In fuel applications, lignoceric acid provides an exceptionally high ceta
 msgstr "В качестве топлива лигноцериновая кислота обеспечивает исключительно высокое цетановое число (CN) и выдающуюся окислительную стабильность (OS). Однако из-за чрезвычайно высокой температуры плавления (около 84°C) она крайне негативно влияет на эксплуатационные характеристики в холодную погоду. Даже следовые количества лигноцериновой кислоты в сырье для биодизеля резко повысят предельную температуру фильтруемости (CFPP) и температуру помутнения, вызывая сильное загустевание (гелеобразование) топлива и засорение фильтров при температуре окружающей среды."
 
 #: src/Primitive/c24c15.md:3
-msgid "$$\\ce{C{24:1}\\[\\\\omega-9\\]}$$"
-msgstr "$$\\ce{C{24:1}\\[\\\\omega-9\\]}$$"
+msgid "$$\\ce{C{24:1}(\\omega-9)}$$"
+msgstr "$$\\ce{C{24:1}(\\omega-9)}$$"
 
 #: src/Primitive/c24c15.md:7
 msgid "NA"
@@ -880,8 +880,8 @@ msgid "[Lewkowicz _et al._, 2019](https://doi.org/10.3390/cells8080786 \"Natural
 msgstr "[Lewkowicz _et al._, 2019](https://doi.org/10.3390/cells8080786 \"Naturally Occurring Nervonic Acid Ester Improves Myelin Synthesis by Human Oligodendrocytes\")"
 
 #: src/Sum/EicosapentaenoicAndDocosahexaenoic.md:3
-msgid "$$\\ce{C{20:5}\\[\\\\omega-3\\]} + \\ce{C{22:6}\\[\\\\omega-3\\]}$$"
-msgstr "$$\\ce{C{20:5}\\[\\\\omega-3\\]} + \\ce{C{22:6}\\[\\\\omega-3\\]}$$"
+msgid "$$\\ce{C{20:5}(\\omega-3)} + \\ce{C{22:6}(\\omega-3)}$$"
+msgstr "$$\\ce{C{20:5}(\\omega-3)} + \\ce{C{22:6}(\\omega-3)}$$"
 
 #: src/Sum/EicosapentaenoicAndDocosahexaenoic.md:7
 msgid "EPA + DHA"
@@ -1334,8 +1334,8 @@ msgid "[Mensink _et al._, 2003](https://doi.org/10.1093/ajcn/77.5.1146 \"Effects
 msgstr "[Mensink _et al._, 2003](https://doi.org/10.1093/ajcn/77.5.1146 \"Effects of dietary fatty acids and carbohydrates on the ratio of serum total to HDL cholesterol and on serum lipids and apolipoproteins: a meta-analysis of 60 controlled trials\")"
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:3
-msgid "$$\\sum \\ce{UFA\\[\\\\Delta{9}\\]}$$"
-msgstr "$$\\sum \\ce{UFA\\[\\\\Delta{9}\\]}$$"
+msgid "$$\\sum \\ce{UFA(\\Delta{9})}$$"
+msgstr "$$\\sum \\ce{UFA(\\Delta{9})}$$"
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:7
 msgid "$\\Delta^9$"
@@ -1343,10 +1343,6 @@ msgstr ""
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:8
 msgid "$\\Delta9$"
-msgstr ""
-
-#: src/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:12
-msgid "Represents a broad class of unsaturated fatty acids that contain a double bond at the 9th carbon from the carboxyl end. This is the most common position for a double bond in nature, introduced by the $\\Delta9$-desaturase enzyme (SCD1). The most prominent member is oleic acid ($C18:1\\[\\\\Delta9\\]$), but the class also includes palmitoleic acid ($C16:1\\[\\\\Delta9\\]$) and others."
 msgstr ""
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:16
@@ -1362,8 +1358,8 @@ msgid "[Ntambi _et al._, 2004](https://doi.org/10.1016/j.plipres.2003.10.001 \"R
 msgstr "[Ntambi _et al._, 2004](https://doi.org/10.1016/j.plipres.2003.10.001 \"Role of stearoyl-CoA desaturase in lipid metabolism\")"
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:3
-msgid "$$\\sum \\ce{UFA\\[\\\\Delta{12}\\]}$$"
-msgstr "$$\\sum \\ce{UFA\\[\\\\Delta{12}\\]}$$"
+msgid "$$\\sum \\ce{UFA(\\Delta{12})}$$"
+msgstr "$$\\sum \\ce{UFA(\\Delta{12})}$$"
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:7
 msgid "$\\Delta^{12}$"
@@ -1374,8 +1370,8 @@ msgid "$\\Delta12$"
 msgstr ""
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:12
-msgid "Represents unsaturated fatty acids that contain a double bond at the 12th carbon from the carboxyl end. The most prominent and abundant example in nature is linoleic acid ($C18:2\\[\\\\Delta9,12\\]$), which is also the primary omega -6 fatty acid."
-msgstr "Представляет собой ненасыщенные жирные кислоты, содержащие двойную связь у 12-го атома углерода от карбоксильного конца. Наиболее известным и распространенным в природе примером является линолевая кислота ($C18:2\\[\\\\Delta9,12\\]$), которая также является основной омега -6 жирной кислотой."
+msgid "Represents unsaturated fatty acids that contain a double bond at the 12th carbon from the carboxyl end. The most prominent and abundant example in nature is linoleic acid ($C18:2(\\Delta9,12)$), which is also the primary omega -6 fatty acid."
+msgstr "Представляет собой ненасыщенные жирные кислоты, содержащие двойную связь у 12-го атома углерода от карбоксильного конца. Наиболее известным и распространенным в природе примером является линолевая кислота ($C18:2(\\Delta9,12)$), которая также является основной омега -6 жирной кислотой."
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:16
 msgid "Mammals, including humans, lack the $\\Delta12$-desaturase enzyme required to insert a double bond at this specific position. As a result, delta 12 fatty acids like linoleic acid are strictly essential and must be obtained through the diet (primarily from plant oils). They are critical for maintaining cell membrane fluidity, skin barrier function, and serving as precursors for biologically active signaling molecules (eicosanoids)."
@@ -1414,8 +1410,8 @@ msgid "Due to their high degree of polyunsaturation, omega -3 fatty acids presen
 msgstr "Из-за высокой степени полиненасыщенности омега -3 жирные кислоты создают серьезные проблемы при производстве биодизеля. Хотя они радикально улучшают характеристики в холодную погоду за счет снижения предельной температуры фильтруемости (CFPP), их множественные двойные связи делают топливо крайне уязвимым к быстрому окислению, деградации и полимеризации (очень низкая окислительная стабильность, OS). Кроме того, они значительно снижают цетановое число (CN), что приводит к ухудшению качества воспламенения. Поэтому сырье с высоким содержанием омега -3 (например, рыбий жир или льняное масло), как правило, менее предпочтительно или требует смешивания и добавления антиоксидантов для использования в качестве стандартного биодизеля."
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:3
-msgid "$$\\sum \\ce{UFA\\[\\\\omega-6\\]}$$"
-msgstr "$$\\sum \\ce{UFA\\[\\\\omega-6\\]}$$"
+msgid "$$\\sum \\ce{UFA(\\omega-6)}$$"
+msgstr "$$\\sum \\ce{UFA(\\omega-6)}$$"
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:7
 msgid "$\\omega-6$"
@@ -1442,8 +1438,8 @@ msgid "[Simopoulos _et al._, 2002](https://doi.org/10.1016/S0753-3322(02)00253-6
 msgstr "[Simopoulos _et al._, 2002](https://doi.org/10.1016/S0753-3322(02)00253-6 \"The importance of the ratio of omega-6/omega-3 essential fatty acids\")"
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:3
-msgid "$$\\sum \\ce{UFA\\[\\\\omega-9\\]}$$"
-msgstr "$$\\sum \\ce{UFA\\[\\\\omega-9\\]}$$"
+msgid "$$\\sum \\ce{UFA(\\omega-9)}$$"
+msgstr "$$\\sum \\ce{UFA(\\omega-9)}$$"
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:7
 msgid "$\\omega-9$"
@@ -1770,12 +1766,12 @@ msgid "`metabolic`"
 msgstr "`метаболическое`"
 
 #: src/Ratio/Metabolic/Delta9DesaturaseIndex.md:5
-msgid "$$\\frac{C18:1\\[\\\\omega-9\\]}{C18:0 + C18:1\\[\\\\omega-9\\]} \\tag{1, 2, 3}$$"
-msgstr "$$\\frac{C18:1\\[\\\\omega-9\\]}{C18:0 + C18:1\\[\\\\omega-9\\]} \\tag{1, 2, 3}$$"
+msgid "$$\\frac{C18:1(\\omega-9)}{C18:0 + C18:1(\\omega-9)} \\tag{1, 2, 3}$$"
+msgstr "$$\\frac{C18:1(\\omega-9)}{C18:0 + C18:1(\\omega-9)} \\tag{1, 2, 3}$$"
 
 #: src/Ratio/Metabolic/Delta9DesaturaseIndex.md:7
-msgid "$$\\frac{C16:1\\[\\\\omega-7\\] + C18:1\\[\\\\omega-9\\]}{C16:0 + C18:0 + C16:1\\[\\\\omega-7\\] + C18:1\\[\\\\omega-9\\]} \\tag{3, 4}$$"
-msgstr "$$\\frac{C16:1\\[\\\\omega-7\\] + C18:1\\[\\\\omega-9\\]}{C16:0 + C18:0 + C16:1\\[\\\\omega-7\\] + C18:1\\[\\\\omega-9\\]} \\tag{3, 4}$$"
+msgid "$$\\frac{C16:1(\\omega-7) + C18:1(\\omega-9)}{C16:0 + C18:0 + C16:1(\\omega-7) + C18:1(\\omega-9)} \\tag{3, 4}$$"
+msgstr "$$\\frac{C16:1(\\omega-7) + C18:1(\\omega-9)}{C16:0 + C18:0 + C16:1(\\omega-7) + C18:1(\\omega-9)} \\tag{3, 4}$$"
 
 #: src/Ratio/Metabolic/Delta9DesaturaseIndex.md:9
 msgid "\\[!NOTE\\] There are different versions of this index calculation. The first version calculates only the conversion from $\\ce{C{18:0}}$ to $\\ce{C{18:1}}$, while the second calculates the total conversion of $\\ce{C{16:0}}$ and $\\ce{C{18:0}}$."
@@ -1786,7 +1782,7 @@ msgid "$\\Delta 9$-DI"
 msgstr ""
 
 #: src/Ratio/Metabolic/Delta9DesaturaseIndex.md:18
-msgid "Represents the estimated activity of the delta 9 desaturase enzyme (also known as stearoyl-CoA desaturase) in tissues, calculated using the product/substrate ratio approach. This enzyme catalyzes the introduction of a double bond at the delta-9 position of saturated fatty acids, primarily converting palmitic acid ($\\ce{C{16:0}}$) and stearic acid ($\\ce{C{18:0}}$) into their corresponding monounsaturated fatty acids, palmitoleic acid ($\\ce{C{16:1}\\[\\\\omega-7\\]}$) and oleic acid ($\\ce{C{18:1}\\[\\\\omega-9\\]}$)."
+msgid "Represents the estimated activity of the delta 9 desaturase enzyme (also known as stearoyl-CoA desaturase) in tissues, calculated using the product/substrate ratio approach. This enzyme catalyzes the introduction of a double bond at the delta-9 position of saturated fatty acids, primarily converting palmitic acid ($\\ce{C{16:0}}$) and stearic acid ($\\ce{C{18:0}}$) into their corresponding monounsaturated fatty acids, palmitoleic acid ($\\ce{C{16:1}(\\omega-7)}$) and oleic acid ($\\ce{C{18:1}(\\omega-9)}$)."
 msgstr ""
 
 #: src/Ratio/Metabolic/Delta9DesaturaseIndex.md:20
@@ -1844,8 +1840,8 @@ msgid "Unlike nutritional indices (such as AI or HPI), the elongase index is pri
 msgstr ""
 
 #: src/Ratio/Metabolic/KineticActivityIndex.md:5
-msgid "$$\\frac{\\sum \\ce{PUFA\\[\\\\omega-3\\]}}{\\ce{C{18:3}\\[\\\\omega-3\\]}}$$"
-msgstr "$$\\frac{\\sum \\ce{PUFA\\[\\\\omega-3\\]}}{\\ce{C{18:3}\\[\\\\omega-3\\]}}$$"
+msgid "$$\\frac{\\sum \\ce{PUFA(\\omega-3)}}{\\ce{C{18:3}(\\omega-3)}}$$"
+msgstr "$$\\frac{\\sum \\ce{PUFA(\\omega-3)}}{\\ce{C{18:3}(\\omega-3)}}$$"
 
 #: src/Ratio/Metabolic/KineticActivityIndex.md:9
 msgid "KAI"
@@ -1856,7 +1852,7 @@ msgid "Activity index"
 msgstr ""
 
 #: src/Ratio/Metabolic/KineticActivityIndex.md:17
-msgid "Represents the activity index (also referred to as the kinetic activity index, KAI), which is based on the indirect evaluation of $\\beta$-oxidation activity in muscles to estimate energy expenditure. It is calculated as the ratio of total omega-3 polyunsaturated fatty acids ($\\sum PUFA\\[\\\\omega-3\\]$) to $\\alpha$-linolenic acid (ALA, $C18:3\\[\\\\omega-3\\]$)."
+msgid "Represents the activity index (also referred to as the kinetic activity index, KAI), which is based on the indirect evaluation of $\\beta$-oxidation activity in muscles to estimate energy expenditure. It is calculated as the ratio of total omega-3 polyunsaturated fatty acids ($\\sum PUFA(\\omega-3)$) to $\\alpha$-linolenic acid (ALA, $C18:3(\\omega-3)$)."
 msgstr ""
 
 #: src/Ratio/Metabolic/KineticActivityIndex.md:19
@@ -1935,12 +1931,12 @@ msgid "`nutritional`"
 msgstr "`нутритивное`"
 
 #: src/Ratio/Nutritional/AtherogenicIndex.md:5
-msgid "$$\\frac{\\ce{C{12:0}} + 4 \\times \\ce{C{14:0}} + \\ce{C{16:0}}}{\\sum \\ce{MUFA} + \\sum \\ce{PUFA\\[\\\\omega-6\\]} + \\sum \\ce{PUFA\\[\\\\omega-3\\]}} \\tag{1, 3-5}$$"
-msgstr "$$\\frac{\\ce{C{12:0}} + 4 \\times \\ce{C{14:0}} + \\ce{C{16:0}}}{\\sum \\ce{MUFA} + \\sum \\ce{PUFA\\[\\\\omega-6\\]} + \\sum \\ce{PUFA\\[\\\\omega-3\\]}} \\tag{1, 3-5}$$"
+msgid "$$\\frac{\\ce{C{12:0}} + 4 \\times \\ce{C{14:0}} + \\ce{C{16:0}}}{\\sum \\ce{MUFA} + \\sum \\ce{PUFA(\\omega-6)} + \\sum \\ce{PUFA(\\omega-3)}} \\tag{1, 3-5}$$"
+msgstr "$$\\frac{\\ce{C{12:0}} + 4 \\times \\ce{C{14:0}} + \\ce{C{16:0}}}{\\sum \\ce{MUFA} + \\sum \\ce{PUFA(\\omega-6)} + \\sum \\ce{PUFA(\\omega-3)}} \\tag{1, 3-5}$$"
 
 #: src/Ratio/Nutritional/AtherogenicIndex.md:7
-msgid "\\[!NOTE\\] $$\\sum \\ce{MUFA} + \\sum \\ce{PUFA\\[\\\\omega-6\\]} + \\sum \\ce{PUFA\\[\\\\omega-3\\]} \\ne \\sum \\ce{UFA} \\tag{2}$$"
-msgstr "\\[!NOTE\\] $$\\sum \\ce{MUFA} + \\sum \\ce{PUFA\\[\\\\omega-6\\]} + \\sum \\ce{PUFA\\[\\\\omega-3\\]} \\ne \\sum \\ce{UFA} \\tag{2}$$"
+msgid "\\[!NOTE\\] $$\\sum \\ce{MUFA} + \\sum \\ce{PUFA(\\omega-6)} + \\sum \\ce{PUFA(\\omega-3)} \\ne \\sum \\ce{UFA} \\tag{2}$$"
+msgstr "\\[!NOTE\\] $$\\sum \\ce{MUFA} + \\sum \\ce{PUFA(\\omega-6)} + \\sum \\ce{PUFA(\\omega-3)} \\ne \\sum \\ce{UFA} \\tag{2}$$"
 
 #: src/Ratio/Nutritional/AtherogenicIndex.md:12
 msgid "AI"
@@ -1982,8 +1978,8 @@ msgid "[Chen and Liu, 2020](https://doi.org/10.3390/ijms21165695 \"Nutritional I
 msgstr "[Chen and Liu, 2020](https://doi.org/10.3390/ijms21165695 \"Nutritional Indices for Assessing Fatty Acids: A Mini-Review\")"
 
 #: src/Ratio/Nutritional/CholesterolIndex.md:5
-msgid "$$\\frac{\\ce{C{18:1}\\[\\\\omega-9\\]} + \\sum \\ce{PUFA}}{\\ce{C{12:0}} + \\ce{C{14:0}} + \\ce{C{16:0}}}$$"
-msgstr "$$\\frac{\\ce{C{18:1}\\[\\\\omega-9\\]} + \\sum \\ce{PUFA}}{\\ce{C{12:0}} + \\ce{C{14:0}} + \\ce{C{16:0}}}$$"
+msgid "$$\\frac{\\ce{C{18:1}(\\omega-9)} + \\sum \\ce{PUFA}}{\\ce{C{12:0}} + \\ce{C{14:0}} + \\ce{C{16:0}}}$$"
+msgstr "$$\\frac{\\ce{C{18:1}(\\omega-9)} + \\sum \\ce{PUFA}}{\\ce{C{12:0}} + \\ce{C{14:0}} + \\ce{C{16:0}}}$$"
 
 #: src/Ratio/Nutritional/CholesterolIndex.md:9
 msgid "CI"
@@ -2022,8 +2018,8 @@ msgid "[Williams _et al._, 2000](https://doi.org/10.1051/animres:2000116 \"Dieta
 msgstr "[Williams _et al._, 2000](https://doi.org/10.1051/animres:2000116 \"Dietary fatty acids and human health\")"
 
 #: src/Ratio/Nutritional/FishLipidQuality.md:5
-msgid "$$\\frac{\\ce{C{20:5}\\[\\\\omega-3\\]} + \\ce{C{22:6}\\[\\\\omega-3\\]}}{\\sum \\ce{FA}}$$"
-msgstr "$$\\frac{\\ce{C{20:5}\\[\\\\omega-3\\]} + \\ce{C{22:6}\\[\\\\omega-3\\]}}{\\sum \\ce{FA}}$$"
+msgid "$$\\frac{\\ce{C{20:5}(\\omega-3)} + \\ce{C{22:6}(\\omega-3)}}{\\sum \\ce{FA}}$$"
+msgstr "$$\\frac{\\ce{C{20:5}(\\omega-3)} + \\ce{C{22:6}(\\omega-3)}}{\\sum \\ce{FA}}$$"
 
 #: src/Ratio/Nutritional/FishLipidQuality.md:9
 msgid "FLQ"
@@ -2034,7 +2030,7 @@ msgid "Flesh lipid quality"
 msgstr ""
 
 #: src/Ratio/Nutritional/FishLipidQuality.md:17
-msgid "Represents the fish/flesh lipid quality index, originally used to assess the lipid quality of fish or flesh. It evaluates the proportion of the two most critical marine omega -3 long-chain polyunsaturated fatty acids: eicosapentaenoic acid (EPA, $\\ce{C{20:5}\\[\\\\omega-3\\]}$) and docosahexaenoic acid (DHA, $\\ce{C{22:6}\\[\\\\omega-3\\]}$)."
+msgid "Represents the fish/flesh lipid quality index, originally used to assess the lipid quality of fish or flesh. It evaluates the proportion of the two most critical marine omega -3 long-chain polyunsaturated fatty acids: eicosapentaenoic acid (EPA, $\\ce{C{20:5}(\\omega-3)}$) and docosahexaenoic acid (DHA, $\\ce{C{22:6}(\\omega-3)}$)."
 msgstr ""
 
 #: src/Ratio/Nutritional/FishLipidQuality.md:19
@@ -2058,12 +2054,12 @@ msgid "[Łuczyńska _et al._, 2019](https://doi.org/10.3390/ijerph16193780 \"Hea
 msgstr "[Łuczyńska _et al._, 2019](https://doi.org/10.3390/ijerph16193780 \"Health Risk Assessment of Heavy Metals and Lipid Quality Indexes in Freshwater Fish from Lakes of Warmia and Mazury Region, Poland\")"
 
 #: src/Ratio/Nutritional/HealthPromotingIndex.md:5
-msgid "$$\\frac{\\sum \\ce{MUFA} + \\sum \\ce{PUFA\\[\\\\omega-6\\]} + \\sum \\ce{PUFA\\[\\\\omega-3\\]}}{\\ce{C{12:0}} + 4 \\times \\ce{C{14:0}} + \\ce{C{16:0}}}$$"
-msgstr "$$\\frac{\\sum \\ce{MUFA} + \\sum \\ce{PUFA\\[\\\\omega-6\\]} + \\sum \\ce{PUFA\\[\\\\omega-3\\]}}{\\ce{C{12:0}} + 4 \\times \\ce{C{14:0}} + \\ce{C{16:0}}}$$"
+msgid "$$\\frac{\\sum \\ce{MUFA} + \\sum \\ce{PUFA(\\omega-6)} + \\sum \\ce{PUFA(\\omega-3)}}{\\ce{C{12:0}} + 4 \\times \\ce{C{14:0}} + \\ce{C{16:0}}}$$"
+msgstr "$$\\frac{\\sum \\ce{MUFA} + \\sum \\ce{PUFA(\\omega-6)} + \\sum \\ce{PUFA(\\omega-3)}}{\\ce{C{12:0}} + 4 \\times \\ce{C{14:0}} + \\ce{C{16:0}}}$$"
 
 #: src/Ratio/Nutritional/HealthPromotingIndex.md:7
-msgid "\\[!NOTE\\] $$\\sum \\ce{MUFA} + \\sum \\ce{PUFA\\[\\\\omega-6\\]} + \\sum \\ce{PUFA\\[\\\\omega-3\\]} \\ne \\sum \\ce{UFA}$$"
-msgstr "\\[!NOTE\\] $$\\sum \\ce{MUFA} + \\sum \\ce{PUFA\\[\\\\omega-6\\]} + \\sum \\ce{PUFA\\[\\\\omega-3\\]} \\ne \\sum \\ce{UFA}$$"
+msgid "\\[!NOTE\\] $$\\sum \\ce{MUFA} + \\sum \\ce{PUFA(\\omega-6)} + \\sum \\ce{PUFA(\\omega-3)} \\ne \\sum \\ce{UFA}$$"
+msgstr "\\[!NOTE\\] $$\\sum \\ce{MUFA} + \\sum \\ce{PUFA(\\omega-6)} + \\sum \\ce{PUFA(\\omega-3)} \\ne \\sum \\ce{UFA}$$"
 
 #: src/Ratio/Nutritional/HealthPromotingIndex.md:10
 msgid "\\[!TIP\\] $$\\frac{3 \\times \\sum {1|2|3:\\ce{UFA}} + {2:\\ce{C{16:0}}}}{3 \\times {1|2|3:\\ce{C{12:0}}} + 12 \\times {1|2|3:\\ce{C{14:0}}} + 2 \\times {1|3:\\ce{C{16:0}}}}$$"
@@ -2103,8 +2099,8 @@ msgid "[Chen _et al._, 2020](https://doi.org/10.3390/ijms21165695 \"Nutritional 
 msgstr "[Chen _et al._, 2020](https://doi.org/10.3390/ijms21165695 \"Nutritional Indices for Assessing Fatty Acids: A Mini-Review\")"
 
 #: src/Ratio/Nutritional/LinoleicToAlphaLinolenic.md:5
-msgid "$$\\frac{\\ce{C{18:2}\\[\\\\omega-6\\]}}{\\ce{C{18:3}\\[\\\\omega-3\\]}}$$"
-msgstr "$$\\frac{\\ce{C{18:2}\\[\\\\omega-6\\]}}{\\ce{C{18:3}\\[\\\\omega-3\\]}}$$"
+msgid "$$\\frac{\\ce{C{18:2}(\\omega-6)}}{\\ce{C{18:3}(\\omega-3)}}$$"
+msgstr "$$\\frac{\\ce{C{18:2}(\\omega-6)}}{\\ce{C{18:3}(\\omega-3)}}$$"
 
 #: src/Ratio/Nutritional/LinoleicToAlphaLinolenic.md:9
 msgid "LA/ALA"
@@ -2148,19 +2144,19 @@ msgid "[Einerhand _et al._, 2023](https://doi.org/10.3390/nu15092187 \"The Impac
 msgstr ""
 
 #: src/Ratio/Nutritional/NutritionalValueIndex.md:5
-msgid "$$\\frac{\\ce{C{18:0}} + \\ce{C{18:1}\\[\\\\omega-9\\]}}{\\ce{C{16:0}}}$$"
-msgstr "$$\\frac{\\ce{C{18:0}} + \\ce{C{18:1}\\[\\\\omega-9\\]}}{\\ce{C{16:0}}}$$"
+msgid "$$\\frac{\\ce{C{18:0}} + \\ce{C{18:1}(\\omega-9)}}{\\ce{C{16:0}}}$$"
+msgstr "$$\\frac{\\ce{C{18:0}} + \\ce{C{18:1}(\\omega-9)}}{\\ce{C{16:0}}}$$"
 
 #: src/Ratio/Nutritional/NutritionalValueIndex.md:9
 msgid "NVI"
 msgstr "NVI"
 
 #: src/Ratio/Nutritional/NutritionalValueIndex.md:13
-msgid "Represents the nutritional value index, a metric developed to evaluate the nutritional quality of lipids, particularly in foods of animal origin where stearic, oleic, and palmitic fatty acids are dominant. It is calculated as the ratio of the sum of stearic acid ($\\ce{C{18:0}}$) and oleic acid ($C18:1\\[\\\\omega-9\\]$) to palmitic acid ($\\ce{C{16:0}}$)."
+msgid "Represents the nutritional value index, a metric developed to evaluate the nutritional quality of lipids, particularly in foods of animal origin where stearic, oleic, and palmitic fatty acids are dominant. It is calculated as the ratio of the sum of stearic acid ($\\ce{C{18:0}}$) and oleic acid ($C18:1(\\omega-9)$) to palmitic acid ($\\ce{C{16:0}}$)."
 msgstr ""
 
 #: src/Ratio/Nutritional/NutritionalValueIndex.md:15
-msgid "From a human health perspective, a higher NVI value is considered more favorable. Palmitic acid ($\\ce{C{16:0}}$) is known to be atherogenic and is associated with increased levels of LDL cholesterol. In contrast, stearic acid ($\\ce{C{18:0}}$) is generally considered to have a neutral effect on blood cholesterol metabolism, while oleic acid ($C18:1\\[\\\\omega-9\\]$), a monounsaturated fatty acid, has beneficial hypocholesterolemic properties. Therefore, a higher ratio of these neutral/beneficial fatty acids to the atherogenic palmitic acid indicates a healthier lipid profile."
+msgid "From a human health perspective, a higher NVI value is considered more favorable. Palmitic acid ($\\ce{C{16:0}}$) is known to be atherogenic and is associated with increased levels of LDL cholesterol. In contrast, stearic acid ($\\ce{C{18:0}}$) is generally considered to have a neutral effect on blood cholesterol metabolism, while oleic acid ($C18:1(\\omega-9)$), a monounsaturated fatty acid, has beneficial hypocholesterolemic properties. Therefore, a higher ratio of these neutral/beneficial fatty acids to the atherogenic palmitic acid indicates a healthier lipid profile."
 msgstr ""
 
 #: src/Ratio/Nutritional/NutritionalValueIndex.md:19
@@ -2304,12 +2300,12 @@ msgid "[Winiarska-Mieczan _et al._, 2020](https://doi.org/10.1071/AN19305 \"48\"
 msgstr "[Winiarska-Mieczan _et al._, 2020](https://doi.org/10.1071/AN19305 \"48\")"
 
 #: src/Ratio/Nutritional/Omega-6PolyunsaturatedToOmega-3Polyunsaturated.md:3
-msgid "$$\\frac{\\sum \\ce{PUFA\\[\\\\omega-6\\]}}{\\sum \\ce{PUFA\\[\\\\omega-3\\]}}$$"
-msgstr "$$\\frac{\\sum \\ce{PUFA\\[\\\\omega-6\\]}}{\\sum \\ce{PUFA\\[\\\\omega-3\\]}}$$"
+msgid "$$\\frac{\\sum \\ce{PUFA(\\omega-6)}}{\\sum \\ce{PUFA(\\omega-3)}}$$"
+msgstr "$$\\frac{\\sum \\ce{PUFA(\\omega-6)}}{\\sum \\ce{PUFA(\\omega-3)}}$$"
 
 #: src/Ratio/Nutritional/Omega-6PolyunsaturatedToOmega-3Polyunsaturated.md:7
-msgid "$\\ce{PUFA\\[\\\\omega-6\\]}/\\ce{PUFA\\[\\\\omega-3\\]}$"
-msgstr "$\\ce{PUFA\\[\\\\omega-6\\]}/\\ce{PUFA\\[\\\\omega-3\\]}$"
+msgid "$\\ce{PUFA(\\omega-6)}/\\ce{PUFA(\\omega-3)}$"
+msgstr "$\\ce{PUFA(\\omega-6)}/\\ce{PUFA(\\omega-3)}$"
 
 #: src/Ratio/Nutritional/Omega-6PolyunsaturatedToOmega-3Polyunsaturated.md:11
 msgid "Indicates the balance between these two types of essential polyunsaturated fatty acids in the body."
@@ -2372,8 +2368,8 @@ msgid "From a nutritional point of view, the SI value should be as low as possib
 msgstr ""
 
 #: src/Ratio/Nutritional/ThrombogenicIndex.md:5
-msgid "$$\\frac{\\ce{C{14:0}} + \\ce{C{16:0}} + \\ce{C{18:0}}}{0.5 \\times \\sum \\ce{MUFA} + 0.5 \\times \\sum \\ce{PUFA\\[\\\\omega-6\\]} + 3 \\times \\sum \\ce{PUFA\\[\\\\omega-3\\]} + \\frac{\\sum \\ce{PUFA\\[\\\\omega-3\\]}}{\\sum \\ce{PUFA\\[\\\\omega-6\\]}}}$$"
-msgstr "$$\\frac{\\ce{C{14:0}} + \\ce{C{16:0}} + \\ce{C{18:0}}}{0.5 \\times \\sum \\ce{MUFA} + 0.5 \\times \\sum \\ce{PUFA\\[\\\\omega-6\\]} + 3 \\times \\sum \\ce{PUFA\\[\\\\omega-3\\]} + \\frac{\\sum \\ce{PUFA\\[\\\\omega-3\\]}}{\\sum \\ce{PUFA\\[\\\\omega-6\\]}}}$$"
+msgid "$$\\frac{\\ce{C{14:0}} + \\ce{C{16:0}} + \\ce{C{18:0}}}{0.5 \\times \\sum \\ce{MUFA} + 0.5 \\times \\sum \\ce{PUFA(\\omega-6)} + 3 \\times \\sum \\ce{PUFA(\\omega-3)} + \\frac{\\sum \\ce{PUFA(\\omega-3)}}{\\sum \\ce{PUFA(\\omega-6)}}}$$"
+msgstr "$$\\frac{\\ce{C{14:0}} + \\ce{C{16:0}} + \\ce{C{18:0}}}{0.5 \\times \\sum \\ce{MUFA} + 0.5 \\times \\sum \\ce{PUFA(\\omega-6)} + 3 \\times \\sum \\ce{PUFA(\\omega-3)} + \\frac{\\sum \\ce{PUFA(\\omega-3)}}{\\sum \\ce{PUFA(\\omega-6)}}}$$"
 
 #: src/Ratio/Nutritional/ThrombogenicIndex.md:9
 msgid "TI"
@@ -2472,3 +2468,9 @@ msgstr "Фактор селективности (SF) количественно 
 #: src/Ratio/Triacylglycerols/SelectivityFactor.md:15
 msgid "It provides a comparative measure of how strongly a specific fatty acid competes for the sn-2 position relative to other fatty acids that show a preference for it."
 msgstr "Он обеспечивает сравнительную оценку того, насколько сильно конкретная жирная кислота конкурирует за положение sn-2 по сравнению с другими жирными кислотами, которые проявляют предпочтение к нему."
+
+#~ msgid "$$\\sum \\ce{UFA\\[\\\\omega-6\\]}$$"
+#~ msgstr "$$\\sum \\ce{UFA\\[\\\\omega-6\\]}$$"
+
+#~ msgid "$$\\sum \\ce{UFA\\[\\\\omega-9\\]}$$"
+#~ msgstr "$$\\sum \\ce{UFA\\[\\\\omega-9\\]}$$"

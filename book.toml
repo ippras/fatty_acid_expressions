@@ -23,7 +23,7 @@ hash-files = true
 enable = true
 level = 2
 
-[output.markdown]
+# [output.markdown]
 
 # [output.epub]
 
