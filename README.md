@@ -63,12 +63,12 @@ for language in en ru; do
     # 2. Копирование файлов
     cp -r "book/$language/markdown/"* "book/markdown/$language/"
 
-    # 3. Замена в файлах
-    if [ "$language" != "en" ]; then
-        # find "book/markdown/$language" -type f -name "*.md" -print0 | xargs -0 perl -pi -e 's|\\\[|[|g; s|\\\]|]|g; s|\\\\|\\|g;'
-        find "book/markdown/$language" -type f -name "*.md" -print0 | xargs -0 perl -pi -e 's|\\\[|[|g; s|\\\]|]|g;'
-    fi
-    find "book/markdown/$language" -type f -name "*.md" -print0 | xargs -0 perl -pi -e 's|([{}*])|{"$1"}|g; s|\n|\n |g;'
+    # # 3. Замена в файлах
+    # if [ "$language" != "en" ]; then
+    #     # find "book/markdown/$language" -type f -name "*.md" -print0 | xargs -0 perl -pi -e 's|\\\[|[|g; s|\\\]|]|g; s|\\\\|\\|g;'
+    #     find "book/markdown/$language" -type f -name "*.md" -print0 | xargs -0 perl -pi -e 's|\\\[|[|g; s|\\\]|]|g;'
+    # fi
+    # find "book/markdown/$language" -type f -name "*.md" -print0 | xargs -0 perl -pi -e 's|([{}*])|{"$1"}|g; s|\n|\n |g;'
 
     echo "End postprocess translation"
 done
