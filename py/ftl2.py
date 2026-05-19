@@ -3,8 +3,8 @@ import re
 from pathlib import Path
 
 # === НАСТРОЙКИ ===
-SOURCE_DIR = './book/markdown/ru'  # Путь к корневой директории
-OUTPUT_FTL = 'output.ftl'
+SOURCE_DIR = './book/ru/markdown'  # Путь к корневой директории
+OUTPUT_FTL = './ftl/ru.ftl'
 
 # Список папок, которые нужно оставлять в ИД. 
 # Папки, которых здесь нет, будут проигнорированы при формировании ИД.
