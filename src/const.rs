@@ -72,7 +72,7 @@ pub mod ratio {
         pub const HHI: &str = CI;
 
         pub const LA_TO_ALA: &str = "LinoleicToAlphaLinolenic";
+        pub const O6PUFA_TO_O3PUFA: &str = "Omega-6PolyunsaturatedToOmega-3Polyunsaturated";
         pub const PUFA_TO_SFA: &str = "PolyunsaturatedToSaturated";
-        pub const PUFAO6_TO_PUFAO3: &str = "PolyunsaturatedOmega-6ToPolyunsaturatedOmega-3";
     }
 }

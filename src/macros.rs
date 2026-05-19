@@ -69,7 +69,7 @@ macro_rules! sources {
             // Nutritional
             const_format::formatcp!("{FAE}_{NUTRITIONAL}_{} = {}", nutritional::LA_TO_ALA, markdown!($language, "Ratio/Nutritional/LinoleicToAlphaLinolenic.md")),
             const_format::formatcp!("{FAE}_{NUTRITIONAL}_{} = {}", nutritional::PUFA_TO_SFA, markdown!($language, "Ratio/Nutritional/PolyunsaturatedToSaturated.md")),
-            const_format::formatcp!("{FAE}_{NUTRITIONAL}_{} = {}", nutritional::PUFAO6_TO_PUFAO3, markdown!($language, "Ratio/Nutritional/PolyunsaturatedToSaturated.md")),
+            const_format::formatcp!("{FAE}_{NUTRITIONAL}_{} = {}", nutritional::O6PUFA_TO_O3PUFA, markdown!($language, "Ratio/Nutritional/PolyunsaturatedToSaturated.md")),
 
             const_format::formatcp!("{FAE}_{NUTRITIONAL}_{} = {}", nutritional::AI, markdown!($language, "Ratio/Nutritional/AtherogenicIndex.md")),
             const_format::formatcp!("{FAE}_{NUTRITIONAL}_{} = {}", nutritional::CI, markdown!($language, "Ratio/Nutritional/CholesterolIndex.md")),
