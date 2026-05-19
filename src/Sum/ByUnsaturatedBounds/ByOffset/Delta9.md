@@ -1,6 +1,6 @@
 # Delta 9 fatty acids
 
-$$\sum \ce{UFA[\Delta{9}]}$$
+$$\sum \ce{UFA(\Delta{9})}$$
 
 ## Abbreviations
 
@@ -9,7 +9,7 @@ $$\sum \ce{UFA[\Delta{9}]}$$
 
 ## Description
 
-Represents a broad class of unsaturated fatty acids that contain a double bond at the 9th carbon from the carboxyl end. This is the most common position for a double bond in nature, introduced by the $\Delta9$-desaturase enzyme (SCD1). The most prominent member is oleic acid ($C18:1[\Delta9]$), but the class also includes palmitoleic acid ($C16:1[\Delta9]$) and others.
+Represents a broad class of unsaturated fatty acids that contain a double bond at the 9th carbon from the carboxyl end. This is the most common position for a double bond in nature, introduced by the $\Delta9$-desaturase enzyme (SCD1). The most prominent member is oleic acid ($C18:1(\Delta9)$), but the class also includes palmitoleic acid ($C16:1(\Delta9)$) and others.
 
 **Nutritional potential**:
 
