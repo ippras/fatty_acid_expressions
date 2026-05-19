@@ -67,6 +67,7 @@ pub mod ratio {
         pub const NVI: &str = "NutritionalValueIndex";
         pub const SI: &str = "SaturationIndex";
         pub const TI: &str = "ThrombogenicIndex";
+        pub const UI: &str = "UnsaturationIndex";
 
         pub const HH: &str = CI;
         pub const HHI: &str = CI;
