@@ -2,7 +2,7 @@
 
 `nutritional`
 
-$$\frac{\ce{C{18:1}[\omega-9]} + \sum \ce{PUFA}}{\ce{C{12:0}} + \ce{C{14:0}} + \ce{C{16:0}}}$$
+$$\frac{\ce{C{18:1}(\omega-9)} + \sum \ce{PUFA}}{\ce{C{12:0}} + \ce{C{14:0}} + \ce{C{16:0}}}$$
 
 ## Abbreviations
 

@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Lipids\n"
-"POT-Creation-Date: 2026-05-19T12:26:53+03:00\n"
+"POT-Creation-Date: 2026-05-19T14:30:46+03:00\n"
 "PO-Revision-Date: 2026-05-05T10:29:57+03:00\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1617,7 +1617,7 @@ msgstr "**Стандарты биодизеля**:"
 #: src/Ratio/Biodiesel/CetaneNumber.md:15 src/Ratio/Biodiesel/IodineValue.md:15
 #: src/Ratio/Biodiesel/OxidationStability.md:13
 msgid "Biodiesel standard"
-msgstr "**Стандарт биодизеля**:"
+msgstr "Стандарт биодизеля"
 
 #: src/Ratio/Biodiesel/CetaneNumber.md:15 src/Ratio/Biodiesel/IodineValue.md:15
 #: src/Ratio/Biodiesel/OxidationStability.md:13

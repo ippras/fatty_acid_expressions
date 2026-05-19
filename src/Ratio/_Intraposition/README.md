@@ -15,6 +15,6 @@ The ratio between fatty acids in the same stereospecific position.
 - Linoleic fatty acid to α-Linolenic fatty acid
   - LA/ALA
 - Polyunsaturated omega -6 to polyunsaturated omega -3 fatty acids
-  - $PUFA[\omega-6]/PUFA[\omega-3]$
+  - $PUFA(\omega-6)/PUFA(\omega-3)$
 - Polyunsaturated to saturated fatty acids
   - PUFA/SFA

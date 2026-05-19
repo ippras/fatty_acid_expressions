@@ -13,7 +13,7 @@ The architecture of this book is built on a bottom-up principle—moving from th
 ### Primitive
 
 These are the basic "building blocks" of lipidomics—individual molecules that cannot be decomposed into simpler components within our framework. 
-In the **Fatty Acids** section, primitives are specific acids with precise indications of carbon chain length and double bond positions: palmitic ($\ce{C{16:0}}$), oleic ($C18:1[\omega-9]$), eicosapentaenoic ($C20:5[\omega-3]$), and others. Primitives represent the raw data obtained directly from chromatographic analysis.
+In the **Fatty Acids** section, primitives are specific acids with precise indications of carbon chain length and double bond positions: palmitic ($\ce{C{16:0}}$), oleic ($C18:1(\omega-9)$), eicosapentaenoic ($C20:5(\omega-3)$), and others. Primitives represent the raw data obtained directly from chromatographic analysis.
 
 ### Sum
 
