@@ -2,10 +2,10 @@
  
  `nutritional`
  
- $$\frac{"{"}\ce{"{"}C{"{"}12:0{"}"}{"}"} + 4 \times \ce{"{"}C{"{"}14:0{"}"}{"}"} + \ce{"{"}C{"{"}16:0{"}"}{"}"}{"}"}{"{"}\sum \ce{"{"}MUFA{"}"} + \sum \ce{"{"}PUFA[\omega-6]{"}"} + \sum \ce{"{"}PUFA[\omega-3]{"}"}{"}"} \tag{"{"}1, 3-5{"}"}$$
+ $$\frac{"{"}\ce{"{"}C{"{"}12:0{"}"}{"}"} + 4 \times \ce{"{"}C{"{"}14:0{"}"}{"}"} + \ce{"{"}C{"{"}16:0{"}"}{"}"}{"}"}{"{"}\sum \ce{"{"}MUFA{"}"} + \sum \ce{"{"}PUFA(\omega-6){"}"} + \sum \ce{"{"}PUFA(\omega-3){"}"}{"}"} \tag{"{"}1, 3-5{"}"}$$
  
  > [!NOTE]
- > $$\sum \ce{"{"}MUFA{"}"} + \sum \ce{"{"}PUFA[\omega-6]{"}"} + \sum \ce{"{"}PUFA[\omega-3]{"}"} \ne \sum \ce{"{"}UFA{"}"} \tag{"{"}2{"}"}$$
+ > $$\sum \ce{"{"}MUFA{"}"} + \sum \ce{"{"}PUFA(\omega-6){"}"} + \sum \ce{"{"}PUFA(\omega-3){"}"} \ne \sum \ce{"{"}UFA{"}"} \tag{"{"}2{"}"}$$
  
  ## Abbreviations
  

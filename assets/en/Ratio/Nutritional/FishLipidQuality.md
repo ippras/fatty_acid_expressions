@@ -2,7 +2,7 @@
  
  `nutritional`
  
- $$\frac{"{"}\ce{"{"}C{"{"}20:5{"}"}[\omega-3]{"}"} + \ce{"{"}C{"{"}22:6{"}"}[\omega-3]{"}"}{"}"}{"{"}\sum \ce{"{"}FA{"}"}{"}"}$$
+ $$\frac{"{"}\ce{"{"}C{"{"}20:5{"}"}(\omega-3){"}"} + \ce{"{"}C{"{"}22:6{"}"}(\omega-3){"}"}{"}"}{"{"}\sum \ce{"{"}FA{"}"}{"}"}$$
  
  ## Abbreviations
  
@@ -14,7 +14,7 @@
  
  ## Description
  
- Represents the fish/flesh lipid quality index, originally used to assess the lipid quality of fish or flesh. It evaluates the proportion of the two most critical marine omega -3 long-chain polyunsaturated fatty acids: eicosapentaenoic acid (EPA, $\ce{"{"}C{"{"}20:5{"}"}[\omega-3]{"}"}$) and docosahexaenoic acid (DHA, $\ce{"{"}C{"{"}22:6{"}"}[\omega-3]{"}"}$). 
+ Represents the fish/flesh lipid quality index, originally used to assess the lipid quality of fish or flesh. It evaluates the proportion of the two most critical marine omega -3 long-chain polyunsaturated fatty acids: eicosapentaenoic acid (EPA, $\ce{"{"}C{"{"}20:5{"}"}(\omega-3){"}"}$) and docosahexaenoic acid (DHA, $\ce{"{"}C{"{"}22:6{"}"}(\omega-3){"}"}$). 
  
  From a human health perspective, a higher FLQ value is more desirable. EPA and DHA play essential roles in biological processes, including reducing the risk of cardiovascular diseases, hypertension, and inflammation. Because this index specifically highlights these two fatty acids, it is particularly suitable for evaluating marine products or foods enriched with marine lipids. Higher values indicate a better nutritional quality of the lipid fraction.
  

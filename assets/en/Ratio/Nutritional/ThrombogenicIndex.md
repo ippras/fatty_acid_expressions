@@ -2,7 +2,7 @@
  
  `nutritional`
  
- $$\frac{"{"}\ce{"{"}C{"{"}14:0{"}"}{"}"} + \ce{"{"}C{"{"}16:0{"}"}{"}"} + \ce{"{"}C{"{"}18:0{"}"}{"}"}{"}"}{"{"}0.5 \times \sum \ce{"{"}MUFA{"}"} + 0.5 \times \sum \ce{"{"}PUFA[\omega-6]{"}"} + 3 \times \sum \ce{"{"}PUFA[\omega-3]{"}"} + \frac{"{"}\sum \ce{"{"}PUFA[\omega-3]{"}"}{"}"}{"{"}\sum \ce{"{"}PUFA[\omega-6]{"}"}{"}"}{"}"}$$
+ $$\frac{"{"}\ce{"{"}C{"{"}14:0{"}"}{"}"} + \ce{"{"}C{"{"}16:0{"}"}{"}"} + \ce{"{"}C{"{"}18:0{"}"}{"}"}{"}"}{"{"}0.5 \times \sum \ce{"{"}MUFA{"}"} + 0.5 \times \sum \ce{"{"}PUFA(\omega-6){"}"} + 3 \times \sum \ce{"{"}PUFA(\omega-3){"}"} + \frac{"{"}\sum \ce{"{"}PUFA(\omega-3){"}"}{"}"}{"{"}\sum \ce{"{"}PUFA(\omega-6){"}"}{"}"}{"}"}$$
  
  ## Abbreviations
  

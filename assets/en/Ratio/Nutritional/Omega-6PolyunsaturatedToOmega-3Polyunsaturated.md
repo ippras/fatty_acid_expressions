@@ -1,10 +1,10 @@
 # Omega -6 polyunsaturated fatty acids to omega -3 polyunsaturated fatty acids ratio
  
- $$\frac{"{"}\sum \ce{"{"}PUFA[\omega-6]{"}"}{"}"}{"{"}\sum \ce{"{"}PUFA[\omega-3]{"}"}{"}"}$$
+ $$\frac{"{"}\sum \ce{"{"}PUFA(\omega-6){"}"}{"}"}{"{"}\sum \ce{"{"}PUFA(\omega-3){"}"}{"}"}$$
  
  ## Abbreviations
  
- - $\ce{"{"}PUFA[\omega-6]{"}"}/\ce{"{"}PUFA[\omega-3]{"}"}$
+ - $\ce{"{"}PUFA(\omega-6){"}"}/\ce{"{"}PUFA(\omega-3){"}"}$
  
  ## Description
  

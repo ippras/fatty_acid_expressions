@@ -1,6 +1,6 @@
 # Omega -6 fatty acids
  
- $$\sum \ce{"{"}UFA[\omega-6]{"}"}$$
+ $$\sum \ce{"{"}UFA(\omega-6){"}"}$$
  
  ## Abbreviations
  
