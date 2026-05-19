@@ -1,6 +1,6 @@
 # Delta 12 fatty acids
  
- $$\sum \ce{"{"}UFA[\Delta{"{"}12{"}"}]{"}"}$$
+ $$\sum \ce{"{"}UFA(\Delta{"{"}12{"}"}){"}"}$$
  
  ## Abbreviations
  
@@ -9,7 +9,7 @@
  
  ## Description
  
- Represents unsaturated fatty acids that contain a double bond at the 12th carbon from the carboxyl end. The most prominent and abundant example in nature is linoleic acid ($C18:2[\Delta9,12]$), which is also the primary omega -6 fatty acid.
+ Represents unsaturated fatty acids that contain a double bond at the 12th carbon from the carboxyl end. The most prominent and abundant example in nature is linoleic acid ($C18:2(\Delta9,12)$), which is also the primary omega -6 fatty acid.
  
  {"*"}{"*"}Nutritional potential{"*"}{"*"}:
  

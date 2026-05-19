@@ -1,6 +1,6 @@
 # Дельта 9 жирные кислоты
  
- $$\sum \ce{"{"}UFA\[\\Delta{"{"}9{"}"}\]{"}"}$$
+ $$\sum \ce{"{"}UFA(\Delta{"{"}9{"}"}){"}"}$$
  
  ## Сокращения
  
@@ -9,7 +9,7 @@
  
  ## Описание
  
- Represents a broad class of unsaturated fatty acids that contain a double bond at the 9th carbon from the carboxyl end. This is the most common position for a double bond in nature, introduced by the $\Delta9$-desaturase enzyme (SCD1). The most prominent member is oleic acid ($C18:1\[\\Delta9\]$), but the class also includes palmitoleic acid ($C16:1\[\\Delta9\]$) and others.
+ Представляет собой широкий класс ненасыщенных жирных кислот, содержащих двойную связь у 9-го атома углерода от карбоксильного конца. Это наиболее распространенное в природе положение двойной связи, образуемое ферментом $\Delta9$-десатуразой (SCD1). Наиболее известным представителем является олеиновая кислота ($C18:1(\Delta9)$), но в этот класс также входит пальмитолеиновая кислота ($C16:1(\Delta9)$) и другие.
  
  {"*"}{"*"}Пищевой потенциал{"*"}{"*"}:
  
