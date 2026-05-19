@@ -3,13 +3,10 @@ import re
 from pathlib import Path
 
 # === НАСТРОЙКИ ===
-SOURCE_DIR = './book/ru/markdown'  # Путь к корневой директории
-OUTPUT_FTL = './ftl/ru.ftl'
-
+LANGUAGES = ['en', 'ru']
 # Список папок, которые нужно оставлять в ИД. 
 # Папки, которых здесь нет, будут проигнорированы при формировании ИД.
-ALLOWED_DIRS = {'Biodiesel', 'Metabolic', 'Nutritional', 'Triacylglycerols'}
-
+ALLOWED_DIRS = {'Biodiesel', 'Metabolic', 'Nutritional', 'Triacylglycerols', 'Primitive', 'Ratio', 'Sum'}
 
 def sanitize_id(name):
     """
@@ -46,7 +43,12 @@ def escape_fluent_text(text):
 def create_ftl_from_dir(directory_path, output_file, allowed_dirs):
     directory = Path(directory_path)
     allowed_dirs_set = set(allowed_dirs) # Используем set для быстрого поиска
-    
+    # Проверяем, существует ли исходная директория
+    if not directory.exists():
+        print(f"  [Пропуск] Папка {directory_path} не найдена.")
+        return
+    # Создаем папку для выходного файла (например, ./ftl/), если её нет
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
     with open(output_file, 'w', encoding='utf-8') as out_ftl:
         
         for file_path in directory.rglob('*'):
@@ -69,7 +71,7 @@ def create_ftl_from_dir(directory_path, output_file, allowed_dirs):
             lines = content.splitlines()
             
             # 1. Значение: первая строка файла
-            first_line = escape_fluent_text(re.sub(r'#\s+', '', lines[0].strip()))
+            first_line = escape_fluent_text(re.sub(r'#+\s+', '', lines[0].strip()))
             
             # 2. ИД: фильтруем папки и соединяем через _
             rel_path = file_path.relative_to(directory)
@@ -99,16 +101,24 @@ def create_ftl_from_dir(directory_path, output_file, allowed_dirs):
                     markdown_attr_lines.append("") 
             
             markdown_attr = "\n".join(markdown_attr_lines)
-            
+
             # Записываем в FTL
-            out_ftl.write(f"{msg_id} = {first_line}\n")
+            out_ftl.write(f"FAE_{msg_id} = {first_line}\n")
             out_ftl.write(f"    .markdown =\n{markdown_attr}\n\n")
             
     print(f"Готово! Файл сохранен как {output_file}")
 
 # === ЗАПУСК ===
-if not os.path.exists(SOURCE_DIR):
-    os.makedirs(SOURCE_DIR)
-    print(f"Создана папка '{SOURCE_DIR}'. Положите туда файлы и запустите скрипт снова.")
-else:
-    create_ftl_from_dir(SOURCE_DIR, OUTPUT_FTL, ALLOWED_DIRS)
+for lang in LANGUAGES:
+    source_dir = f'./book/{lang}/markdown'
+    output_ftl = f'./ftl/{lang}.ftl'
+    
+    print(f"Обработка языка: {lang.upper()}...")
+    create_ftl_from_dir(source_dir, output_ftl, ALLOWED_DIRS)
+
+# # === ЗАПУСК ===
+# if not os.path.exists(SOURCE_DIR):
+#     os.makedirs(SOURCE_DIR)
+#     print(f"Создана папка '{SOURCE_DIR}'. Положите туда файлы и запустите скрипт снова.")
+# else:
+#     create_ftl_from_dir(SOURCE_DIR, OUTPUT_FTL, ALLOWED_DIRS)
