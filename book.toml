@@ -16,7 +16,7 @@ extra-watch-dirs = ["po"]
 
 [output.html]
 additional-css = ["theme/css/language-picker.css"]
-git-repository-url = "https://github.com/ippras/docs"
+git-repository-url = "https://github.com/ippras/fatty_acid_expressions"
 hash-files = true
 
 [output.html.fold]
