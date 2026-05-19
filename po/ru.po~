@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Lipids\n"
-"POT-Creation-Date: 2026-05-19T14:52:06+03:00\n"
+"POT-Creation-Date: 2026-05-19T14:57:10+03:00\n"
 "PO-Revision-Date: 2026-05-05T10:29:57+03:00\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1344,6 +1344,10 @@ msgstr ""
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:8
 msgid "$\\Delta9$"
 msgstr ""
+
+#: src/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:12
+msgid "Represents a broad class of unsaturated fatty acids that contain a double bond at the 9th carbon from the carboxyl end. This is the most common position for a double bond in nature, introduced by the $\\Delta9$-desaturase enzyme (SCD1). The most prominent member is oleic acid ($C18:1(\\Delta9)$), but the class also includes palmitoleic acid ($C16:1(\\Delta9)$) and others."
+msgstr "Представляет собой широкий класс ненасыщенных жирных кислот, содержащих двойную связь у 9-го атома углерода от карбоксильного конца. Это наиболее распространенное в природе положение двойной связи, образуемое ферментом $\\Delta9$-десатуразой (SCD1). Наиболее известным представителем является олеиновая кислота ($C18:1(\\Delta9)$), но в этот класс также входит пальмитолеиновая кислота ($C16:1(\\Delta9)$) и другие."
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:16
 msgid "Delta 9 monounsaturated fatty acids are widely recognized for their cardiovascular benefits. They help lower LDL cholesterol, improve insulin sensitivity, and reduce inflammation. Because the human body can synthesize delta 9 double bonds, these are not considered essential fatty acids, but they are highly beneficial when replacing saturated fats in the diet."

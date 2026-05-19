@@ -58,10 +58,10 @@ for language in en ru; do
     echo "Start postprocess $language translation"
     
     # 1. Создание целевой папки
-    mkdir -p "book/assets/$language"
+    mkdir -p "book/markdown/$language"
 
     # 2. Копирование файлов
-    cp -r "book/$language/markdown/"* "book/assets/$language/"
+    cp -r "book/$language/markdown/"* "book/markdown/$language/"
 
     # 3. Замена в файлах
     if [ "$language" != "en" ]; then
