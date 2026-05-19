@@ -17,18 +17,12 @@ pub const fn sources(language: Language) -> &'static [&'static str] {
             env!("CARGO_MANIFEST_DIR"),
             "/ftl/ru.ftl"
         ))],
-        _ => &sources!("en"),
+        _ => &[include_str!(concat!(
+            env!("CARGO_MANIFEST_DIR"),
+            "/ftl/en.ftl"
+        ))],
     }
 }
-// pub const fn sources(language: Language) -> &'static [&'static str] {
-//     match language {
-//         #[cfg(feature = "en")]
-//         EN => &sources!("en"),
-//         #[cfg(feature = "ru")]
-//         RU => &sources!("ru"),
-//         _ => &sources!("en"),
-//     }
-// }
 
 pub mod r#const;
 
