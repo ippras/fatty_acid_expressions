@@ -2,7 +2,7 @@
  
  `нутритивное`
  
- $$\frac{"{"}\ce{"{"}C{"{"}18:0{"}"}{"}"} + \ce{"{"}C{"{"}18:1{"}"}\[\\omega-9\]{"}"}{"}"}{"{"}\ce{"{"}C{"{"}16:0{"}"}{"}"}{"}"}$$
+ $$\frac{"{"}\ce{"{"}C{"{"}18:0{"}"}{"}"} + \ce{"{"}C{"{"}18:1{"}"}[\omega-9]{"}"}{"}"}{"{"}\ce{"{"}C{"{"}16:0{"}"}{"}"}{"}"}$$
  
  ## Сокращения
  
@@ -10,9 +10,9 @@
  
  ## Описание
  
- Represents the nutritional value index, a metric developed to evaluate the nutritional quality of lipids, particularly in foods of animal origin where stearic, oleic, and palmitic fatty acids are dominant. It is calculated as the ratio of the sum of stearic acid ($\ce{"{"}C{"{"}18:0{"}"}{"}"}$) and oleic acid ($C18:1\[\\omega-9\]$) to palmitic acid ($\ce{"{"}C{"{"}16:0{"}"}{"}"}$).
+ Represents the nutritional value index, a metric developed to evaluate the nutritional quality of lipids, particularly in foods of animal origin where stearic, oleic, and palmitic fatty acids are dominant. It is calculated as the ratio of the sum of stearic acid ($\ce{"{"}C{"{"}18:0{"}"}{"}"}$) and oleic acid ($C18:1[\omega-9]$) to palmitic acid ($\ce{"{"}C{"{"}16:0{"}"}{"}"}$).
  
- From a human health perspective, a higher NVI value is considered more favorable. Palmitic acid ($\ce{"{"}C{"{"}16:0{"}"}{"}"}$) is known to be atherogenic and is associated with increased levels of LDL cholesterol. In contrast, stearic acid ($\ce{"{"}C{"{"}18:0{"}"}{"}"}$) is generally considered to have a neutral effect on blood cholesterol metabolism, while oleic acid ($C18:1\[\\omega-9\]$), a monounsaturated fatty acid, has beneficial hypocholesterolemic properties. Therefore, a higher ratio of these neutral/beneficial fatty acids to the atherogenic palmitic acid indicates a healthier lipid profile.
+ From a human health perspective, a higher NVI value is considered more favorable. Palmitic acid ($\ce{"{"}C{"{"}16:0{"}"}{"}"}$) is known to be atherogenic and is associated with increased levels of LDL cholesterol. In contrast, stearic acid ($\ce{"{"}C{"{"}18:0{"}"}{"}"}$) is generally considered to have a neutral effect on blood cholesterol metabolism, while oleic acid ($C18:1[\omega-9]$), a monounsaturated fatty acid, has beneficial hypocholesterolemic properties. Therefore, a higher ratio of these neutral/beneficial fatty acids to the atherogenic palmitic acid indicates a healthier lipid profile.
  
  ## Ссылки
  
