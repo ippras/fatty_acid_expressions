@@ -12,12 +12,13 @@ $$\frac{\ce{C{14:0}} + \ce{C{16:0}} + \ce{C{18:0}}}{0.5 \times \sum \ce{MUFA} + 
 ## Synonyms
 
 - Index of thrombogenicity
+- Prothrombogenic fatty acids to antithrombogenic fatty acids ratio
 
 ## Description
 
-Represents the thrombogenic index, which characterizes the thrombogenic potential of fatty acids. It defines the ratio between pro-thrombogenic saturated fatty acids and anti-thrombogenic unsaturated fatty acids.
+Represents the thrombogenic index, which characterizes the thrombogenic potential of fatty acids. It defines the ratio between prothrombogenic saturated fatty acids and antithrombogenic unsaturated fatty acids.
 
-From a human health perspective, the TI value should be as low as possible. This index separates fatty acids into pro-thrombogenic ones (myristic C14:0, palmitic C16:0, and stearic C18:0), which promote clot formation in blood vessels, and anti-thrombogenic ones (MUFAs, n-3 and n-6 PUFAs), which prevent it. A lower TI indicates better nutritional properties of the lipids and is associated with a reduced risk of cardiovascular diseases. Furthermore, consuming foods with a lower TI can help in lowering the risk of atrial fibrillation and other heart-related conditions.
+From a human health perspective, the TI value should be as low as possible. This index separates fatty acids into prothrombogenic ones (myristic C14:0, palmitic C16:0, and stearic C18:0), which promote clot formation in blood vessels, and antithrombogenic ones (MUFAs, n-3 and n-6 PUFAs), which prevent it. A lower TI indicates better nutritional properties of the lipids and is associated with a reduced risk of cardiovascular diseases. Furthermore, consuming foods with a lower TI can help in lowering the risk of atrial fibrillation and other heart-related conditions.
 
 ## References
 

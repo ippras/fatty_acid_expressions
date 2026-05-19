@@ -1,4 +1,4 @@
-# Hypo to hypercholesterolemic index
+# Cholesterol index
 
 `nutritional`
 
@@ -6,8 +6,13 @@ $$\frac{\ce{C{18:1}[\omega-9]} + \sum \ce{PUFA}}{\ce{C{12:0}} + \ce{C{14:0}} + \
 
 ## Abbreviations
 
-- HHI
+- CI
 - HH
+- HHI
+
+## Synonyms
+
+- Hypocholesterolemic fatty acids to hypercholesterolemic fatty acids ratio
 
 ## Description
 

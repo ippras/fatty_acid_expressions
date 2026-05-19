@@ -1,15 +1,3 @@
-# Index of thrombogenicity
-
-$$\frac{C14:0 + C16:0 + C18:0}{0.5 \times \sum MUFA + 0.5 \times \sum PUFA[\omega-6] + 3 \times \sum PUFA[\omega-3] + \frac{\sum PUFA[\omega-3]}{\sum PUFA[\omega-6]}}$$
-
-## Abbreviations
-
-- IT
-
-## Description
-
-Characterizes the thrombogenic potential of fatty acids.
-
 ## References
 
 [Ulbricht1991]: http://doi.org/10.1016/0140-6736(91)91846-M "Ulbricht1991"

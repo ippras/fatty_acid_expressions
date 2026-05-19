@@ -15,10 +15,11 @@ $$\frac{\ce{C{12:0}} + 4 \times \ce{C{14:0}} + \ce{C{16:0}}}{\sum \ce{MUFA} + \s
 ## Synonyms
 
 - Index of atherogenicity
+- Proatherogenic fatty acids to antiatherogenic fatty acids ratio
 
 ## Description
 
-Represents the atherogenic index, which indicates the relationship between the main saturated fatty acids (which have a pro-atherogenic effect) and unsaturated fatty acids (which have an anti-atherogenic effect). 
+Represents the atherogenic index, which indicates the relationship between the main saturated fatty acids (which have a proatherogenic effect) and unsaturated fatty acids (which have an antiatherogenic effect). 
 
 From a human health perspective, the AI value should be as low as possible. This index evaluates the risk of cardiovascular diseases by comparing fatty acids that promote lipid and plaque accumulation in blood vessels (such as lauric $\ce{C{12:0}}$, myristic $\ce{C{14:0}}$, and palmitic $\ce{C{16:0}}$ acids) against those that inhibit plaque accumulation and lower levels of phospholipids and cholesterol (MUFAs and PUFAs). Consuming foods with a lower AI is highly recommended as it can contribute to the reduction of total cholesterol and low-density lipoprotein (LDL) cholesterol in human plasma.
 

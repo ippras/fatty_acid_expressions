@@ -1,15 +1,3 @@
-# Index of atherogenicity
-
-$$\frac{C12:0 + 4 \times C14:0 + C16:0}{\sum UFA}$$
-
-## Abbreviations
-
-- IA
-
-## Description
-
-Characterizes the atherogenic potential of fatty acids.
-
 ## References
 
 [Ulbricht1991]: http://doi.org/10.1016/0140-6736(91)91846-M "Ulbricht1991"

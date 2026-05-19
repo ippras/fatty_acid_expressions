@@ -31,11 +31,11 @@ msgmerge --update po/ru.po po/messages.pot
 ```
 
 ```
-msgcat po/ru.po -o po/ru.po
+msgcat --no-wrap po/ru.po -o po/ru.po
 ```
 
 ```
-msgcat --no-wrap po/ru.po -o po/ru.po
+msgcat po/ru.po -o po/ru.po
 ```
 
 ```

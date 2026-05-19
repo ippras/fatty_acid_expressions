@@ -1,15 +1,3 @@
-# Hypocholesterolemic to hypercholesterolemic fatty acids
-
-$$\frac{C18:1[\omega-9] + \sum PUFA}{C12:0 + C14:0 + C16:0}$$
-
-## Abbreviations
-
-- HH
-
-## Description
-
-Characterizes the relationship between hypocholesterolemic and hypercholesterolemic fatty acids.
-
 ## References
 
 - [Ahmad _et al._, 2019](https://doi.org/10.1002/fsn3.1302 "86")

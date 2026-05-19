@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Lipids\n"
-"POT-Creation-Date: 2026-05-18T16:53:27+03:00\n"
+"POT-Creation-Date: 2026-05-19T12:26:53+03:00\n"
 "PO-Revision-Date: 2026-05-05T10:29:57+03:00\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -244,42 +244,55 @@ msgstr ""
 
 #: src/SUMMARY.md:58 src/Ratio/Nutritional/AtherogenicIndex.md:1
 msgid "Atherogenic index"
-msgstr ""
+msgstr "Атерогенный индекс"
 
-#: src/SUMMARY.md:59 src/Ratio/Nutritional/FishLipidQuality.md:1
+#: src/SUMMARY.md:59 src/Ratio/Nutritional/CholesterolIndex.md:1
+msgid "Cholesterol index"
+msgstr "Холестериновый индекс"
+
+#: src/SUMMARY.md:60 src/Ratio/Nutritional/FishLipidQuality.md:1
 msgid "Fish lipid quality"
-msgstr ""
+msgstr "Качество рыбьего жира"
 
-#: src/SUMMARY.md:60 src/Ratio/Nutritional/HealthPromotingIndex.md:1
+#: src/SUMMARY.md:61 src/Ratio/Nutritional/HealthPromotingIndex.md:1
 msgid "Health promoting index"
-msgstr ""
+msgstr "Индекс укрепления здоровья"
 
-#: src/SUMMARY.md:61 src/Ratio/Nutritional/HypoToHypercholesterolemicIndex.md:1
-msgid "Hypo to hypercholesterolemic index"
-msgstr "Гипо к гиперхолестеринемическим жирным кислотам"
+#: src/SUMMARY.md:62 src/Ratio/Nutritional/LinoleicToAlphaLinolenic.md:1
+msgid "Linoleic fatty acid to α-Linolenic fatty acid ratio"
+msgstr "Отношение линолевой жирной кислоты к α-линоленовой жирной кислоте"
 
-#: src/SUMMARY.md:62 src/Ratio/Nutritional/NutritionalValueIndex.md:1
+#: src/SUMMARY.md:63 src/Ratio/Nutritional/NutritionalValueIndex.md:1
 msgid "Nutritional value index"
-msgstr ""
+msgstr "Индекс пищевой ценности"
 
-#: src/SUMMARY.md:63 src/Ratio/Nutritional/SaturationIndex.md:1
-msgid "Saturation index"
-msgstr ""
-
-#: src/SUMMARY.md:64 src/Ratio/Nutritional/ThrombogenicIndex.md:1
-msgid "Thrombogenic index"
-msgstr ""
+#: src/SUMMARY.md:64 src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:1
+msgid "Polyunsaturated fatty acids to saturated fatty acids ratio"
+msgstr "Отношение полинеасыщенных жирных кислот к насыщенным жирным кислотам"
 
 #: src/SUMMARY.md:65
+#: src/Ratio/Nutritional/Omega-6PolyunsaturatedToOmega-3Polyunsaturated.md:1
+msgid "Omega -6 polyunsaturated fatty acids to omega -3 polyunsaturated fatty acids ratio"
+msgstr "Отношение  омега -6 полинеасыщенных жирных кислот к омега -3 полинеасыщенным жирным кислотам"
+
+#: src/SUMMARY.md:66 src/Ratio/Nutritional/SaturationIndex.md:1
+msgid "Saturation index"
+msgstr "Индекс насыщенности"
+
+#: src/SUMMARY.md:67 src/Ratio/Nutritional/ThrombogenicIndex.md:1
+msgid "Thrombogenic index"
+msgstr "Индекс тромбогенности"
+
+#: src/SUMMARY.md:68
 msgid "Triacylglycerols"
 msgstr "Триацилглицерины"
 
-#: src/SUMMARY.md:66 src/Ratio/Triacylglycerols/index.md:5
+#: src/SUMMARY.md:69 src/Ratio/Triacylglycerols/index.md:5
 #: src/Ratio/Triacylglycerols/EnrichmentFactor.md:1
 msgid "Enrichment factor"
 msgstr "Коэффициент обогащения"
 
-#: src/SUMMARY.md:67 src/Ratio/Triacylglycerols/index.md:6
+#: src/SUMMARY.md:70 src/Ratio/Triacylglycerols/index.md:6
 #: src/Ratio/Triacylglycerols/SelectivityFactor.md:1
 msgid "Selectivity factor"
 msgstr "Коэффициент селективности"
@@ -290,15 +303,15 @@ msgstr "Выражения жирных кислот"
 
 #: src/index.md:3
 msgid "[Primitive](Primitive/README.md)"
-msgstr "[Primitive](Primitive/README.md)"
+msgstr ""
 
 #: src/index.md:4
 msgid "[Sum](Sum/README.md)"
-msgstr "[Sum](Sum/README.md)"
+msgstr ""
 
 #: src/index.md:5
 msgid "[Ratio](Ratio/README.md)"
-msgstr "[Ratio](Ratio/README.md)"
+msgstr ""
 
 #: src/Primitive/c16.md:3
 msgid "$$\\ce{C{16:0}}$$"
@@ -335,10 +348,13 @@ msgstr "$$\\ce{C{16:0}}$$"
 #: src/Ratio/Metabolic/KineticActivityIndex.md:7
 #: src/Ratio/Metabolic/ThioesteraseIndex.md:7
 #: src/Ratio/Nutritional/AtherogenicIndex.md:10
+#: src/Ratio/Nutritional/CholesterolIndex.md:7
 #: src/Ratio/Nutritional/FishLipidQuality.md:7
 #: src/Ratio/Nutritional/HealthPromotingIndex.md:13
-#: src/Ratio/Nutritional/HypoToHypercholesterolemicIndex.md:7
+#: src/Ratio/Nutritional/LinoleicToAlphaLinolenic.md:7
 #: src/Ratio/Nutritional/NutritionalValueIndex.md:7
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:5
+#: src/Ratio/Nutritional/Omega-6PolyunsaturatedToOmega-3Polyunsaturated.md:5
 #: src/Ratio/Nutritional/SaturationIndex.md:7
 #: src/Ratio/Nutritional/ThrombogenicIndex.md:7
 #: src/Ratio/Triacylglycerols/EnrichmentFactor.md:7
@@ -366,6 +382,7 @@ msgstr "П"
 #: src/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:10
 #: src/Ratio/Metabolic/KineticActivityIndex.md:11
 #: src/Ratio/Nutritional/AtherogenicIndex.md:15
+#: src/Ratio/Nutritional/CholesterolIndex.md:13
 #: src/Ratio/Nutritional/FishLipidQuality.md:11
 #: src/Ratio/Nutritional/SaturationIndex.md:12
 #: src/Ratio/Nutritional/ThrombogenicIndex.md:12
@@ -406,13 +423,16 @@ msgstr "гексадекановая кислота"
 #: src/Ratio/Metabolic/ElongaseIndex.md:11
 #: src/Ratio/Metabolic/KineticActivityIndex.md:15
 #: src/Ratio/Metabolic/ThioesteraseIndex.md:11
-#: src/Ratio/Nutritional/AtherogenicIndex.md:19
+#: src/Ratio/Nutritional/AtherogenicIndex.md:20
+#: src/Ratio/Nutritional/CholesterolIndex.md:17
 #: src/Ratio/Nutritional/FishLipidQuality.md:15
 #: src/Ratio/Nutritional/HealthPromotingIndex.md:17
-#: src/Ratio/Nutritional/HypoToHypercholesterolemicIndex.md:12
+#: src/Ratio/Nutritional/LinoleicToAlphaLinolenic.md:11
 #: src/Ratio/Nutritional/NutritionalValueIndex.md:11
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:9
+#: src/Ratio/Nutritional/Omega-6PolyunsaturatedToOmega-3Polyunsaturated.md:9
 #: src/Ratio/Nutritional/SaturationIndex.md:16
-#: src/Ratio/Nutritional/ThrombogenicIndex.md:16
+#: src/Ratio/Nutritional/ThrombogenicIndex.md:17
 #: src/Ratio/Triacylglycerols/EnrichmentFactor.md:11
 #: src/Ratio/Triacylglycerols/SelectivityFactor.md:11
 msgid "Description"
@@ -502,13 +522,16 @@ msgstr "В качестве топлива пальмитиновая кисло
 #: src/Ratio/Metabolic/ElongaseIndex.md:17
 #: src/Ratio/Metabolic/KineticActivityIndex.md:21
 #: src/Ratio/Metabolic/ThioesteraseIndex.md:17
-#: src/Ratio/Nutritional/AtherogenicIndex.md:25
+#: src/Ratio/Nutritional/AtherogenicIndex.md:26
+#: src/Ratio/Nutritional/CholesterolIndex.md:23
 #: src/Ratio/Nutritional/FishLipidQuality.md:21
 #: src/Ratio/Nutritional/HealthPromotingIndex.md:23
-#: src/Ratio/Nutritional/HypoToHypercholesterolemicIndex.md:18
+#: src/Ratio/Nutritional/LinoleicToAlphaLinolenic.md:20
 #: src/Ratio/Nutritional/NutritionalValueIndex.md:17
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:13
+#: src/Ratio/Nutritional/Omega-6PolyunsaturatedToOmega-3Polyunsaturated.md:21
 #: src/Ratio/Nutritional/SaturationIndex.md:22
-#: src/Ratio/Nutritional/ThrombogenicIndex.md:22
+#: src/Ratio/Nutritional/ThrombogenicIndex.md:23
 #: src/Ratio/Triacylglycerols/index.md:15
 #: src/Ratio/Triacylglycerols/EnrichmentFactor.md:21
 #: src/Ratio/Triacylglycerols/SelectivityFactor.md:23
@@ -893,10 +916,12 @@ msgid "[Mozanzadeh _et al._, 2015](https://doi.org/10.1016/j.aquaculture.2015.06
 msgstr "[Mozanzadeh _et al._, 2015](https://doi.org/10.1016/j.aquaculture.2015.06.007 \"105\")"
 
 #: src/Sum/EicosapentaenoicAndDocosahexaenoic.md:21
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:45
 msgid "[Rincón-Cervera _et al._, 2020](https://doi.org/10.3390/foods9020233 \"34\")"
 msgstr "[Rincón-Cervera _et al._, 2020](https://doi.org/10.3390/foods9020233 \"34\")"
 
 #: src/Sum/EicosapentaenoicAndDocosahexaenoic.md:22
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:36
 msgid "[Rombenso _et al._, 2016](https://doi.org/10.1016/j.aquaculture.2016.03.009 \"40\")"
 msgstr "[Rombenso _et al._, 2016](https://doi.org/10.1016/j.aquaculture.2016.03.009 \"40\")"
 
@@ -1536,39 +1561,39 @@ msgstr "[Bhattacharya _et al._, 2006](https://doi.org/10.1016/j.jnutbio.2006.02.
 
 #: src/Ratio/index.md:3
 msgid "[Biodiesel](Biodiesel/README.md)"
-msgstr "[Biodiesel](Biodiesel/README.md)"
+msgstr ""
 
 #: src/Ratio/index.md:4
 msgid "[Metabolic](Metabolic/README.md)"
-msgstr "[Metabolic](Metabolic/README.md)"
+msgstr ""
 
 #: src/Ratio/index.md:5
 msgid "[Nutritional](Nutritional/README.md)"
-msgstr "[Nutritional](Nutritional/README.md)"
+msgstr ""
 
 #: src/Ratio/Biodiesel/index.md:3
 msgid "[Cetane number](CetaneNumber.md)"
-msgstr "[Cetane number](CetaneNumber.md)"
+msgstr ""
 
 #: src/Ratio/Biodiesel/index.md:4
 msgid "[Cold filter plugging point](ColdFilterPluggingPoint.md)"
-msgstr "[Cold filter plugging point](ColdFilterPluggingPoint.md)"
+msgstr ""
 
 #: src/Ratio/Biodiesel/index.md:5
 msgid "[Degree of unsaturation](DegreeOfUnsaturation.md)"
-msgstr "[Degree of unsaturation](DegreeOfUnsaturation.md)"
+msgstr ""
 
 #: src/Ratio/Biodiesel/index.md:6
 msgid "[Iodine value](IodineValue.md)"
-msgstr "[Iodine value](IodineValue.md)"
+msgstr ""
 
 #: src/Ratio/Biodiesel/index.md:7
 msgid "[Long chain saturated factor](LongChainSaturatedFactor.md)"
-msgstr "[Long chain saturated factor](LongChainSaturatedFactor.md)"
+msgstr ""
 
 #: src/Ratio/Biodiesel/index.md:8
 msgid "[Oxidation stability](OxidationStability.md)"
-msgstr "[Oxidation stability](OxidationStability.md)"
+msgstr ""
 
 #: src/Ratio/Biodiesel/CetaneNumber.md:3
 msgid "$$CN = -0.1209 \\times DU + 65.0958$$"
@@ -1723,19 +1748,19 @@ msgstr ""
 
 #: src/Ratio/Metabolic/index.md:3
 msgid "[Delta 9 desaturase index](Delta9DesaturaseIndex.md)"
-msgstr "[Delta 9 desaturase index](Delta9DesaturaseIndex.md)"
+msgstr ""
 
 #: src/Ratio/Metabolic/index.md:4
 msgid "[Elongase index](ElongaseIndex.md)"
-msgstr "[Elongase index](ElongaseIndex.md)"
+msgstr ""
 
 #: src/Ratio/Metabolic/index.md:5
 msgid "[Kinetic activity index](KineticActivityIndex.md)"
-msgstr "[Kinetic activity index](KineticActivityIndex.md)"
+msgstr ""
 
 #: src/Ratio/Metabolic/index.md:6
 msgid "[Thioesterase index](ThioesteraseIndex.md)"
-msgstr "[Thioesterase index](ThioesteraseIndex.md)"
+msgstr ""
 
 #: src/Ratio/Metabolic/Delta9DesaturaseIndex.md:3
 #: src/Ratio/Metabolic/ElongaseIndex.md:3
@@ -1782,10 +1807,10 @@ msgstr "[Zhang _et al._, 2007](https://doi.org/10.2527/jas.2006-239 \"Effects of
 #: src/Ratio/Metabolic/ElongaseIndex.md:20
 #: src/Ratio/Metabolic/KineticActivityIndex.md:24
 #: src/Ratio/Metabolic/ThioesteraseIndex.md:20
-#: src/Ratio/Nutritional/AtherogenicIndex.md:30
+#: src/Ratio/Nutritional/AtherogenicIndex.md:31
+#: src/Ratio/Nutritional/CholesterolIndex.md:28
 #: src/Ratio/Nutritional/FishLipidQuality.md:28
 #: src/Ratio/Nutritional/HealthPromotingIndex.md:30
-#: src/Ratio/Nutritional/HypoToHypercholesterolemicIndex.md:23
 msgid "[Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 \"Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals\")"
 msgstr "[Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 \"Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals\")"
 
@@ -1793,12 +1818,12 @@ msgstr "[Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 \"Indexing
 #: src/Ratio/Metabolic/ElongaseIndex.md:21
 #: src/Ratio/Metabolic/KineticActivityIndex.md:25
 #: src/Ratio/Metabolic/ThioesteraseIndex.md:21
-#: src/Ratio/Nutritional/AtherogenicIndex.md:31
+#: src/Ratio/Nutritional/AtherogenicIndex.md:32
+#: src/Ratio/Nutritional/CholesterolIndex.md:29
 #: src/Ratio/Nutritional/HealthPromotingIndex.md:31
-#: src/Ratio/Nutritional/HypoToHypercholesterolemicIndex.md:24
 #: src/Ratio/Nutritional/NutritionalValueIndex.md:21
 #: src/Ratio/Nutritional/SaturationIndex.md:25
-#: src/Ratio/Nutritional/ThrombogenicIndex.md:27
+#: src/Ratio/Nutritional/ThrombogenicIndex.md:28
 msgid "[Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 \"A Fatty acid profile and THE Health Lipid Indices in Table Eggs\")"
 msgstr "[Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 \"A Fatty acid profile and THE Health Lipid Indices in Table Eggs\")"
 
@@ -1860,36 +1885,49 @@ msgstr ""
 
 #: src/Ratio/Nutritional/index.md:3
 msgid "[Atherogenic index](AtherogenicIndex.md)"
-msgstr "[Atherogenic index](AtherogenicIndex.md)"
+msgstr ""
 
 #: src/Ratio/Nutritional/index.md:4
-msgid "[Fish lipid quality](FishLipidQuality.md)"
-msgstr "[Fish lipid quality](FishLipidQuality.md)"
+msgid "[Cholesterol index](CholesterolIndex.md)"
+msgstr ""
 
 #: src/Ratio/Nutritional/index.md:5
-msgid "[Health promoting index](HealthPromotingIndex.md)"
-msgstr "[Health promoting index](HealthPromotingIndex.md)"
+msgid "[Fish lipid quality](FishLipidQuality.md)"
+msgstr ""
 
 #: src/Ratio/Nutritional/index.md:6
-msgid "[Hypo to hypercholesterolemic index](HypocholesterolemicToHypercholesterolemicIndex.md)"
-msgstr "[Hypo to hypercholesterolemic index](HypocholesterolemicToHypercholesterolemicIndex.md)"
+msgid "[Health promoting index](HealthPromotingIndex.md)"
+msgstr ""
 
 #: src/Ratio/Nutritional/index.md:7
-msgid "[Nutritional value index](NutritionalValueIndex.md)"
-msgstr "[Nutritional value index](NutritionalValueIndex.md)"
+msgid "[Linoleic fatty acid to α-Linolenic fatty acid ratio](LinoleicToAlphaLinolenic.md)"
+msgstr ""
 
 #: src/Ratio/Nutritional/index.md:8
-msgid "[Saturation index](SaturationIndex.md)"
-msgstr "[Saturation index](SaturationIndex.md)"
+msgid "[Nutritional value index](NutritionalValueIndex.md)"
+msgstr ""
 
 #: src/Ratio/Nutritional/index.md:9
+msgid "[Polyunsaturated fatty acids to saturated fatty acids ratio](PolyunsaturatedToSaturated.md)"
+msgstr ""
+
+#: src/Ratio/Nutritional/index.md:10
+msgid "[Omega -6 polyunsaturated fatty acids to omega -3 polyunsaturated fatty acids ratio](Omega-6PolyunsaturatedToOmega-3Polyunsaturated.md)"
+msgstr ""
+
+#: src/Ratio/Nutritional/index.md:11
+msgid "[Saturation index](SaturationIndex.md)"
+msgstr ""
+
+#: src/Ratio/Nutritional/index.md:12
 msgid "[Thrombogenic index](ThrombogenicIndex.md)"
-msgstr "[Thrombogenic index](ThrombogenicIndex.md)"
+msgstr ""
 
 #: src/Ratio/Nutritional/AtherogenicIndex.md:3
+#: src/Ratio/Nutritional/CholesterolIndex.md:3
 #: src/Ratio/Nutritional/FishLipidQuality.md:3
 #: src/Ratio/Nutritional/HealthPromotingIndex.md:3
-#: src/Ratio/Nutritional/HypoToHypercholesterolemicIndex.md:3
+#: src/Ratio/Nutritional/LinoleicToAlphaLinolenic.md:3
 #: src/Ratio/Nutritional/NutritionalValueIndex.md:3
 #: src/Ratio/Nutritional/SaturationIndex.md:3
 #: src/Ratio/Nutritional/ThrombogenicIndex.md:3
@@ -1916,28 +1954,72 @@ msgstr "IA"
 msgid "Index of atherogenicity"
 msgstr "Индекс атерогенности"
 
-#: src/Ratio/Nutritional/AtherogenicIndex.md:21
-msgid "Represents the atherogenic index, which indicates the relationship between the main saturated fatty acids (which have a pro-atherogenic effect) and unsaturated fatty acids (which have an anti-atherogenic effect)."
+#: src/Ratio/Nutritional/AtherogenicIndex.md:18
+msgid "Proatherogenic fatty acids to antiatherogenic fatty acids ratio"
+msgstr "Отношение проатерогенных жирных кислот к антиатерогенных жирным кислотам"
+
+#: src/Ratio/Nutritional/AtherogenicIndex.md:22
+msgid "Represents the atherogenic index, which indicates the relationship between the main saturated fatty acids (which have a proatherogenic effect) and unsaturated fatty acids (which have an antiatherogenic effect)."
 msgstr ""
 
-#: src/Ratio/Nutritional/AtherogenicIndex.md:23
+#: src/Ratio/Nutritional/AtherogenicIndex.md:24
 msgid "From a human health perspective, the AI value should be as low as possible. This index evaluates the risk of cardiovascular diseases by comparing fatty acids that promote lipid and plaque accumulation in blood vessels (such as lauric $\\ce{C{12:0}}$, myristic $\\ce{C{14:0}}$, and palmitic $\\ce{C{16:0}}$ acids) against those that inhibit plaque accumulation and lower levels of phospholipids and cholesterol (MUFAs and PUFAs). Consuming foods with a lower AI is highly recommended as it can contribute to the reduction of total cholesterol and low-density lipoprotein (LDL) cholesterol in human plasma."
 msgstr ""
 
-#: src/Ratio/Nutritional/AtherogenicIndex.md:27
+#: src/Ratio/Nutritional/AtherogenicIndex.md:28
 #: src/Ratio/Nutritional/SaturationIndex.md:24
-#: src/Ratio/Nutritional/ThrombogenicIndex.md:24
+#: src/Ratio/Nutritional/ThrombogenicIndex.md:25
 msgid "[Ulbricht _et al._, 1991](https://doi.org/10.1016/0140-6736(91)91846-M \"Coronary heart disease: seven dietary factors\")"
 msgstr "[Ulbricht _et al._, 1991](https://doi.org/10.1016/0140-6736(91)91846-M \"Coronary heart disease: seven dietary factors\")"
 
-#: src/Ratio/Nutritional/AtherogenicIndex.md:28
+#: src/Ratio/Nutritional/AtherogenicIndex.md:29
 msgid "[Eynard _et al._, 1998](https://doi.org/10.1016/s0952-3278(98)90098-9 \"Eicosatrienoic acid (20:3 n-9) inhibits the expression of E-cadherin and desmoglein in human squamous cell carcinoma in vitro\")"
 msgstr "[Eynard _et al._, 1998](https://doi.org/10.1016/s0952-3278(98)90098-9 \"Eicosatrienoic acid (20:3 n-9) inhibits the expression of E-cadherin and desmoglein in human squamous cell carcinoma in vitro\")"
 
-#: src/Ratio/Nutritional/AtherogenicIndex.md:29
+#: src/Ratio/Nutritional/AtherogenicIndex.md:30
 #: src/Ratio/Nutritional/FishLipidQuality.md:27
 msgid "[Chen and Liu, 2020](https://doi.org/10.3390/ijms21165695 \"Nutritional Indices for Assessing Fatty Acids: A Mini-Review\")"
 msgstr "[Chen and Liu, 2020](https://doi.org/10.3390/ijms21165695 \"Nutritional Indices for Assessing Fatty Acids: A Mini-Review\")"
+
+#: src/Ratio/Nutritional/CholesterolIndex.md:5
+msgid "$$\\frac{\\ce{C{18:1}\\[\\\\omega-9\\]} + \\sum \\ce{PUFA}}{\\ce{C{12:0}} + \\ce{C{14:0}} + \\ce{C{16:0}}}$$"
+msgstr "$$\\frac{\\ce{C{18:1}\\[\\\\omega-9\\]} + \\sum \\ce{PUFA}}{\\ce{C{12:0}} + \\ce{C{14:0}} + \\ce{C{16:0}}}$$"
+
+#: src/Ratio/Nutritional/CholesterolIndex.md:9
+msgid "CI"
+msgstr ""
+
+#: src/Ratio/Nutritional/CholesterolIndex.md:10
+msgid "HH"
+msgstr "HH"
+
+#: src/Ratio/Nutritional/CholesterolIndex.md:11
+msgid "HHI"
+msgstr "HHI"
+
+#: src/Ratio/Nutritional/CholesterolIndex.md:15
+msgid "Hypocholesterolemic fatty acids to hypercholesterolemic fatty acids ratio"
+msgstr "Отношение снижающих уровень холестерина жирных кислот к повышающим уровень холестерина жирным кислотам"
+
+#: src/Ratio/Nutritional/CholesterolIndex.md:19
+msgid "Represents the hypocholesterolemic/hypercholesterolemic index, which evaluates the specific effect of fatty acids on cholesterol metabolism. It calculates the ratio of hypocholesterolemic fatty acids (which help lower blood cholesterol, such as oleic acid and polyunsaturated fatty acids) to hypercholesterolemic fatty acids (which raise blood cholesterol, such as lauric $\\ce{C{12:0}}$, myristic $\\ce{C{14:0}}$, and palmitic $\\ce{C{16:0}}$ acids)."
+msgstr ""
+
+#: src/Ratio/Nutritional/CholesterolIndex.md:21
+msgid "From a nutritional point of view, **high** HHI values are highly desirable. Unlike the atherogenic (AI) and thrombogenic (TI) indices where lower values are better, a higher HHI indicates a healthier lipid profile with a greater proportion of beneficial fatty acids that contribute to the reduction of plasma cholesterol levels. It is considered a highly suitable metric for assessing the health benefits of lipids in food products and their protective role against cardiovascular diseases."
+msgstr ""
+
+#: src/Ratio/Nutritional/CholesterolIndex.md:25
+msgid "[Santos-Silva _et al._, 2002](https://doi.org/10.1016/S0301-6226(02)00059-3 \"Effect of genotype, feeding system and slaughter weight on the quality of light lambs: II. Fatty acid composition of meat\")"
+msgstr "[Santos-Silva _et al._, 2002](https://doi.org/10.1016/S0301-6226(02)00059-3 \"Effect of genotype, feeding system and slaughter weight on the quality of light lambs: II. Fatty acid composition of meat\")"
+
+#: src/Ratio/Nutritional/CholesterolIndex.md:26
+msgid "[Dietschy, 1998](https://doi.org/10.1093/jn/128.2.444S \"Dietary Fatty Acids and the Regulation of Plasma Low Density Lipoprotein Cholesterol Concentrations\")"
+msgstr "[Dietschy, 1998](https://doi.org/10.1093/jn/128.2.444S \"Dietary Fatty Acids and the Regulation of Plasma Low Density Lipoprotein Cholesterol Concentrations\")"
+
+#: src/Ratio/Nutritional/CholesterolIndex.md:27
+msgid "[Williams _et al._, 2000](https://doi.org/10.1051/animres:2000116 \"Dietary fatty acids and human health\")"
+msgstr "[Williams _et al._, 2000](https://doi.org/10.1051/animres:2000116 \"Dietary fatty acids and human health\")"
 
 #: src/Ratio/Nutritional/FishLipidQuality.md:5
 msgid "$$\\frac{\\ce{C{20:5}\\[\\\\omega-3\\]} + \\ce{C{22:6}\\[\\\\omega-3\\]}}{\\sum \\ce{FA}}$$"
@@ -2016,41 +2098,54 @@ msgid "[Giorgio _et al._, 2019](https://doi.org/10.3168/jds.2018-15857 \"Compari
 msgstr ""
 
 #: src/Ratio/Nutritional/HealthPromotingIndex.md:29
-#: src/Ratio/Nutritional/ThrombogenicIndex.md:26
+#: src/Ratio/Nutritional/ThrombogenicIndex.md:27
 msgid "[Chen _et al._, 2020](https://doi.org/10.3390/ijms21165695 \"Nutritional Indices for Assessing Fatty Acids: A Mini-Review\")"
 msgstr "[Chen _et al._, 2020](https://doi.org/10.3390/ijms21165695 \"Nutritional Indices for Assessing Fatty Acids: A Mini-Review\")"
 
-#: src/Ratio/Nutritional/HypoToHypercholesterolemicIndex.md:5
-msgid "$$\\frac{\\ce{C{18:1}\\[\\\\omega-9\\]} + \\sum \\ce{PUFA}}{\\ce{C{12:0}} + \\ce{C{14:0}} + \\ce{C{16:0}}}$$"
-msgstr "$$\\frac{\\ce{C{18:1}\\[\\\\omega-9\\]} + \\sum \\ce{PUFA}}{\\ce{C{12:0}} + \\ce{C{14:0}} + \\ce{C{16:0}}}$$"
+#: src/Ratio/Nutritional/LinoleicToAlphaLinolenic.md:5
+msgid "$$\\frac{\\ce{C{18:2}\\[\\\\omega-6\\]}}{\\ce{C{18:3}\\[\\\\omega-3\\]}}$$"
+msgstr "$$\\frac{\\ce{C{18:2}\\[\\\\omega-6\\]}}{\\ce{C{18:3}\\[\\\\omega-3\\]}}$$"
 
-#: src/Ratio/Nutritional/HypoToHypercholesterolemicIndex.md:9
-msgid "HHI"
-msgstr "HHI"
+#: src/Ratio/Nutritional/LinoleicToAlphaLinolenic.md:9
+msgid "LA/ALA"
+msgstr "LA/ALA"
 
-#: src/Ratio/Nutritional/HypoToHypercholesterolemicIndex.md:10
-msgid "HH"
-msgstr "HH"
-
-#: src/Ratio/Nutritional/HypoToHypercholesterolemicIndex.md:14
-msgid "Represents the hypocholesterolemic/hypercholesterolemic index, which evaluates the specific effect of fatty acids on cholesterol metabolism. It calculates the ratio of hypocholesterolemic fatty acids (which help lower blood cholesterol, such as oleic acid and polyunsaturated fatty acids) to hypercholesterolemic fatty acids (which raise blood cholesterol, such as lauric $\\ce{C{12:0}}$, myristic $\\ce{C{14:0}}$, and palmitic $\\ce{C{16:0}}$ acids)."
+#: src/Ratio/Nutritional/LinoleicToAlphaLinolenic.md:13
+msgid "Used for guiding infant formula development."
 msgstr ""
 
-#: src/Ratio/Nutritional/HypoToHypercholesterolemicIndex.md:16
-msgid "From a nutritional point of view, **high** HHI values are highly desirable. Unlike the atherogenic (AI) and thrombogenic (TI) indices where lower values are better, a higher HHI indicates a healthier lipid profile with a greater proportion of beneficial fatty acids that contribute to the reduction of plasma cholesterol levels. It is considered a highly suitable metric for assessing the health benefits of lipids in food products and their protective role against cardiovascular diseases."
+#: src/Ratio/Nutritional/LinoleicToAlphaLinolenic.md:15
+#: src/Ratio/Nutritional/Omega-6PolyunsaturatedToOmega-3Polyunsaturated.md:17
+msgid "**Limits**:"
+msgstr "**Пределы**:"
+
+#: src/Ratio/Nutritional/LinoleicToAlphaLinolenic.md:17
+msgid "below 4:1 is not recommended [\\[1\\]](#references)"
 msgstr ""
 
-#: src/Ratio/Nutritional/HypoToHypercholesterolemicIndex.md:20
-msgid "[Santos-Silva _et al._, 2002](https://doi.org/10.1016/S0301-6226(02)00059-3 \"Effect of genotype, feeding system and slaughter weight on the quality of light lambs: II. Fatty acid composition of meat\")"
-msgstr "[Santos-Silva _et al._, 2002](https://doi.org/10.1016/S0301-6226(02)00059-3 \"Effect of genotype, feeding system and slaughter weight on the quality of light lambs: II. Fatty acid composition of meat\")"
+#: src/Ratio/Nutritional/LinoleicToAlphaLinolenic.md:18
+msgid "from 5:1 to 15:1 [\\[5\\]](#references)"
+msgstr ""
 
-#: src/Ratio/Nutritional/HypoToHypercholesterolemicIndex.md:21
-msgid "[Dietschy, 1998](https://doi.org/10.1093/jn/128.2.444S \"Dietary Fatty Acids and the Regulation of Plasma Low Density Lipoprotein Cholesterol Concentrations\")"
-msgstr "[Dietschy, 1998](https://doi.org/10.1093/jn/128.2.444S \"Dietary Fatty Acids and the Regulation of Plasma Low Density Lipoprotein Cholesterol Concentrations\")"
+#: src/Ratio/Nutritional/LinoleicToAlphaLinolenic.md:22
+msgid "[Clark _et al._, 1992](https://doi.org/10.1016/s0022-3476(05)81250-8 \"Determination of the optimal ratio of linoleic acid to α-linolenic acid in infant formulas\")"
+msgstr "[Clark _et al._, 1992](https://doi.org/10.1016/s0022-3476(05)81250-8 \"Determination of the optimal ratio of linoleic acid to α-linolenic acid in infant formulas\")"
 
-#: src/Ratio/Nutritional/HypoToHypercholesterolemicIndex.md:22
-msgid "[Williams _et al._, 2000](https://doi.org/10.1051/animres:2000116 \"Dietary fatty acids and human health\")"
-msgstr "[Williams _et al._, 2000](https://doi.org/10.1051/animres:2000116 \"Dietary fatty acids and human health\")"
+#: src/Ratio/Nutritional/LinoleicToAlphaLinolenic.md:23
+msgid "[Majdoub-Mathlouthi _et al._, 2015](https://doi.org/10.1017/S1751731115001731 \"Carcass traits and meat fatty acid composition of Barbarine lambs reared on rangelands or indoors on hay and concentrate\")"
+msgstr ""
+
+#: src/Ratio/Nutritional/LinoleicToAlphaLinolenic.md:24
+msgid "[Mierliță _et al._, 2018](https://doi.org/10.4314/sajas.v48i3.11 \"Effects of diets containing hemp seeds or hemp cake on fatty acid composition and oxidative stability of sheep milk\")"
+msgstr "[Mierliță _et al._, 2018](https://doi.org/10.4314/sajas.v48i3.11 \"Effects of diets containing hemp seeds or hemp cake on fatty acid composition and oxidative stability of sheep milk\")"
+
+#: src/Ratio/Nutritional/LinoleicToAlphaLinolenic.md:25
+msgid "[Sharma _et al._, 2018](https://doi.org/10.1007/s13197-018-3360-2 \"Comparative milk metabolite profiling for exploring superiority of indigenous Indian cow milk over exotic and crossbred counterparts\")"
+msgstr ""
+
+#: src/Ratio/Nutritional/LinoleicToAlphaLinolenic.md:26
+msgid "[Einerhand _et al._, 2023](https://doi.org/10.3390/nu15092187 \"The Impact of Linoleic Acid on Infant Health in the Absence or Presence of DHA in Infant Formulas\")"
+msgstr ""
 
 #: src/Ratio/Nutritional/NutritionalValueIndex.md:5
 msgid "$$\\frac{\\ce{C{18:0}} + \\ce{C{18:1}\\[\\\\omega-9\\]}}{\\ce{C{16:0}}}$$"
@@ -2075,6 +2170,182 @@ msgstr "[Banskalieva _et al._, 2000](https://doi.org/10.1016/s0921-4488(00)00128
 #: src/Ratio/Nutritional/NutritionalValueIndex.md:20
 msgid "[Chen _et al._, 2016](https://doi.org/10.5713/ajas.15.0840 \"Differences in Physicochemical and Nutritional Properties of Breast and Thigh Meat from Crossbred Chickens, Commercial Broilers, and Spent Hens\")"
 msgstr "[Chen _et al._, 2016](https://doi.org/10.5713/ajas.15.0840 \"Differences in Physicochemical and Nutritional Properties of Breast and Thigh Meat from Crossbred Chickens, Commercial Broilers, and Spent Hens\")"
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:3
+msgid "$$\\frac{\\sum \\ce{PUFA}}{\\sum \\ce{SFA}}$$"
+msgstr "$$\\frac{\\sum \\ce{PUFA}}{\\sum \\ce{SFA}}$$"
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:7
+msgid "PUFA/SFA"
+msgstr "ПНЖК/НЖК"
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:11
+msgid "Assesses the impact of diet on cardiovascular health (CVH)."
+msgstr ""
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:15
+msgid "[Fernández _et al._, 2007](https://doi.org/10.1016/j.foodchem.2006.01.006 \"Fatty acid compositions of selected varieties of Spanish dry ham related to their nutritional implications\")"
+msgstr "[Fernández _et al._, 2007](https://doi.org/10.1016/j.foodchem.2006.01.006 \"Fatty acid compositions of selected varieties of Spanish dry ham related to their nutritional implications\")"
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:16
+msgid "[Brogna _et al._, 2011](https://doi.org/10.1017/S1751731111000048 \"Effect of dietary saponins from Quillaja saponaria L. on fatty acid composition and cholesterol content in muscle Longissimus dorsi of lambs\")"
+msgstr ""
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:17
+msgid "[Filip _et al._, 2011](https://doi.org/10.1002/ejlt.200900231 \"Influence of natural antioxidants on the formation of trans-fatty-acid isomers during heat treatment of sunflower oil\")"
+msgstr ""
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:18
+msgid "[Kumar _et al._, 2011](https://doi.org/10.1007/s10811-010-9578-7 \"Minerals, PUFAs and antioxidant properties of some tropical seaweeds from Saurashtra coast of India\")"
+msgstr ""
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:19
+msgid "[Turner _et al._, 2011](https://doi.org/10.1080/09064702.2011.560179 \"Silage-concentrate finishing of bulls versus silage or fresh forage finishing of steers: Effects on fatty acids and meat tenderness\")"
+msgstr ""
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:20
+msgid "[Yousefi _et al._, 2012](https://doi.org/10.1016/j.meatsci.2012.05.004 \"Comparison of the meat quality and fatty acid composition of traditional fat-tailed (Chall) and tailed (Zel) Iranian sheep breeds\")"
+msgstr "[Yousefi _et al._, 2012](https://doi.org/10.1016/j.meatsci.2012.05.004 \"Comparison of the meat quality and fatty acid composition of traditional fat-tailed (Chall) and tailed (Zel) Iranian sheep breeds\")"
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:21
+msgid "[Correa _et al._, 2012](https://doi.org/10.1016/j.meatsci.2012.02.033 \"Effect of supplementation of two sources and two levels of copper on lipid metabolism in Nellore beef cattle\")"
+msgstr "[Correa _et al._, 2012](https://doi.org/10.1016/j.meatsci.2012.02.033 \"Effect of supplementation of two sources and two levels of copper on lipid metabolism in Nellore beef cattle\")"
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:22
+msgid "[Realini _et al._, 2013](https://doi.org/10.1016/j.meatsci.2013.03.007 \"Characterization of Longissimus thoracis, Semitendinosus and Masseter muscles and relationships with technological quality in pigs. 2. Composition of muscles\")"
+msgstr ""
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:23
+msgid "[Alvarenga _et al._, 2014](https://doi.org/10.1017/S1751731114000093 \"Fatty acid proﬁle, oxidative stability of pork lipids and meat quality indicators are not affected by birth weight\")"
+msgstr ""
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:24
+msgid "[Fernandes _et al._, 2014](https://doi.org/10.1016/j.foodchem.2014.03.055 \"Nutritional and lipid profiles in marine fish species from Brazil\")"
+msgstr "[Fernandes _et al._, 2014](https://doi.org/10.1016/j.foodchem.2014.03.055 \"Nutritional and lipid profiles in marine fish species from Brazil\")"
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:25
+msgid "[Hosseini _et al._, 2014](https://doi.org/10.1016/j.foodchem.2013.10.012 \"Effect of different cooking methods on minerals, vitamins and nutritional quality indices of kutum roach (Rutilus frisii kutum)\")"
+msgstr ""
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:26
+msgid "[Lorenzo _et al._, 2014](https://doi.org/10.1017/S175173111300236X \"The effect of livestock production system and concentrate level on carcass traits and meat quality of foals slaughtered at 18 months of age\")"
+msgstr ""
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:27
+msgid "[Nantapo _et al._, 2014](https://doi.org/10.1016/j.foodchem.2013.09.009 \"Atherogenicity index and health-related fatty acids in different stages of lactation from Friesian, Jersey and Friesian × Jersey cross cow milk under a pasture-based dairy system\")"
+msgstr ""
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:28
+msgid "[Tonial _et al._, 2014](https://doi.org/10.5539/jfr.v3n3p105 \"Quantification of Essential Fatty Acids and Assessment of the Nutritional Quality Indexes of Lipids in Tilapia Alevins and Juvenile Tilapia Fish (Oreochromis niloticus)\")"
+msgstr ""
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:29
+msgid "[Calabrò _et al._, 2015](https://doi.org/10.1002/jsfa.7049 \"Characterization and effect of year of harvest on the nutritional properties of three varieties of white lupine (Lupinus albus L.)\")"
+msgstr ""
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:31
+msgid "[Majdoub-Mathlouthi _et al._, 2015](https://doi.org/10.1017/S1751731115001731 \"43\")"
+msgstr "[Majdoub-Mathlouthi _et al._, 2015](https://doi.org/10.1017/S1751731115001731 \"43\")"
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:32
+msgid "[Sinanoglou _et al._, 2015](https://doi.org/10.1007/s13594-015-0234-5 \"54\")"
+msgstr "[Sinanoglou _et al._, 2015](https://doi.org/10.1007/s13594-015-0234-5 \"54\")"
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:33
+msgid "[Bonanno _et al._, 2016](https://doi.org/10.1017/S1751731116001130 \"57\")"
+msgstr "[Bonanno _et al._, 2016](https://doi.org/10.1017/S1751731116001130 \"57\")"
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:34
+msgid "[Castro _et al._, 2016](https://doi.org/10.1017/S1751731115002554 \"42\")"
+msgstr "[Castro _et al._, 2016](https://doi.org/10.1017/S1751731115002554 \"42\")"
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:35
+msgid "[Chen _et al._, 2016](https://doi.org/10.3390/md14040068 \"29\")"
+msgstr "[Chen _et al._, 2016](https://doi.org/10.3390/md14040068 \"29\")"
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:37
+msgid "[Chan _et al._, 2017](https://doi.org/10.1016/j.foodchem.2016.10.066 \"28\")"
+msgstr "[Chan _et al._, 2017](https://doi.org/10.1016/j.foodchem.2016.10.066 \"28\")"
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:38
+msgid "[Chiofalo _et al._, 2018](https://doi.org/10.1111/jpn.12687 \"31\")"
+msgstr "[Chiofalo _et al._, 2018](https://doi.org/10.1111/jpn.12687 \"31\")"
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:39
+msgid "[Mierliță _et al._, 2018](https://doi.org/10.4314/sajas.v48i3.11 \"55\")"
+msgstr "[Mierliță _et al._, 2018](https://doi.org/10.4314/sajas.v48i3.11 \"55\")"
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:40
+msgid "[Mir _et al._, 2018](https://doi.org/10.1002/ejlt.201700470 \"50\")"
+msgstr "[Mir _et al._, 2018](https://doi.org/10.1002/ejlt.201700470 \"50\")"
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:41
+msgid "[Farajzadeh Alan _et al._, 2019](https://doi.org/10.1002/fsn3.1231 \"32\")"
+msgstr "[Farajzadeh Alan _et al._, 2019](https://doi.org/10.1002/fsn3.1231 \"32\")"
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:42
+msgid "[Hao _et al._, 2019](https://doi.org/10.1111/asj.13266 \"41\")"
+msgstr "[Hao _et al._, 2019](https://doi.org/10.1111/asj.13266 \"41\")"
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:43
+msgid "[Sreelakshmi _et al._, 2019](https://doi.org/10.1080/10498850.2018.1559905 \"38\")"
+msgstr "[Sreelakshmi _et al._, 2019](https://doi.org/10.1080/10498850.2018.1559905 \"38\")"
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:44
+msgid "[Pires _et al._, 2020](https://doi.org/10.1002/jsfa.10070 \"53\")"
+msgstr "[Pires _et al._, 2020](https://doi.org/10.1002/jsfa.10070 \"53\")"
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:46
+msgid "[Skałecki _et al._, 2020](https://doi.org/10.3390/ani10050778 \"35\")"
+msgstr "[Skałecki _et al._, 2020](https://doi.org/10.3390/ani10050778 \"35\")"
+
+#: src/Ratio/Nutritional/PolyunsaturatedToSaturated.md:47
+msgid "[Winiarska-Mieczan _et al._, 2020](https://doi.org/10.1071/AN19305 \"48\")"
+msgstr "[Winiarska-Mieczan _et al._, 2020](https://doi.org/10.1071/AN19305 \"48\")"
+
+#: src/Ratio/Nutritional/Omega-6PolyunsaturatedToOmega-3Polyunsaturated.md:3
+msgid "$$\\frac{\\sum \\ce{PUFA\\[\\\\omega-6\\]}}{\\sum \\ce{PUFA\\[\\\\omega-3\\]}}$$"
+msgstr "$$\\frac{\\sum \\ce{PUFA\\[\\\\omega-6\\]}}{\\sum \\ce{PUFA\\[\\\\omega-3\\]}}$$"
+
+#: src/Ratio/Nutritional/Omega-6PolyunsaturatedToOmega-3Polyunsaturated.md:7
+msgid "$\\ce{PUFA\\[\\\\omega-6\\]}/\\ce{PUFA\\[\\\\omega-3\\]}$"
+msgstr "$\\ce{PUFA\\[\\\\omega-6\\]}/\\ce{PUFA\\[\\\\omega-3\\]}$"
+
+#: src/Ratio/Nutritional/Omega-6PolyunsaturatedToOmega-3Polyunsaturated.md:11
+msgid "Indicates the balance between these two types of essential polyunsaturated fatty acids in the body."
+msgstr ""
+
+#: src/Ratio/Nutritional/Omega-6PolyunsaturatedToOmega-3Polyunsaturated.md:13
+msgid "_Inflammatory Balance_: Omega -6 and omega -3 fatty acids are precursors to molecules that regulate inflammation. While omega -6 fatty acids are generally pro-inflammatory, omega -3 fatty acids have anti-inflammatory effects. An imbalance with a high proportion of omega -6 to omega -3 can lead to chronic low-grade inflammation, which is associated with various chronic diseases."
+msgstr ""
+
+#: src/Ratio/Nutritional/Omega-6PolyunsaturatedToOmega-3Polyunsaturated.md:14
+msgid "_Risk of Chronic Diseases_: A high n-6/n-3 ratio is linked to an increased risk of cardiovascular disease, obesity, and other inflammatory conditions. Conversely, a lower, more balanced ratio is considered beneficial for preventing these health issues."
+msgstr ""
+
+#: src/Ratio/Nutritional/Omega-6PolyunsaturatedToOmega-3Polyunsaturated.md:15
+msgid "_Cellular Health_: Both omega -6 and omega -3 fatty acids are crucial components of cell membranes and are necessary for regulating blood pressure and other bodily functions. The balance between them is vital for optimal cellular function."
+msgstr ""
+
+#: src/Ratio/Nutritional/Omega-6PolyunsaturatedToOmega-3Polyunsaturated.md:19
+msgid "from 1:1 to 5:1 [\\[3\\]](#references)"
+msgstr ""
+
+#: src/Ratio/Nutritional/Omega-6PolyunsaturatedToOmega-3Polyunsaturated.md:23
+msgid "[Russo, 2009](https://doi.org/10.1016/j.bcp.2008.10.020 \"Dietary n − 6 and n − 3 polyunsaturated fatty acids: From biochemistry to clinical implications in cardiovascular prevention\")"
+msgstr ""
+
+#: src/Ratio/Nutritional/Omega-6PolyunsaturatedToOmega-3Polyunsaturated.md:24
+msgid "[Strobel _et al._, 2012](https://doi.org/10.1186/1476-511X-11-144 \"Survey of n- 3 and n-6 polyunsaturated fatty acids in fish and fish products\")"
+msgstr "[Strobel _et al._, 2012](https://doi.org/10.1186/1476-511X-11-144 \"Survey of n- 3 and n-6 polyunsaturated fatty acids in fish and fish products\")"
+
+#: src/Ratio/Nutritional/Omega-6PolyunsaturatedToOmega-3Polyunsaturated.md:25
+msgid "[Gonzalez-Becerra _et al._, 2023](https://doi.org/10.3390/healthcare11162333 \"A Balanced Dietary Ratio of n-6:n-3 Polyunsaturated Fatty Acids Exerts an Effect on Total Fatty Acid Profile in RBCs and Inflammatory Markers in Subjects with Obesity\")"
+msgstr ""
+
+#: src/Ratio/Nutritional/Omega-6PolyunsaturatedToOmega-3Polyunsaturated.md:26
+msgid "[Yang _et al._, 2023](https://doi.org/10.3389/fnut.2023.1166702 \"Effects of different n-6/n-3 polyunsaturated fatty acids ratios on lipid metabolism in patients with hyperlipidemia: a randomized controlled clinical trial\")"
+msgstr ""
 
 #: src/Ratio/Nutritional/SaturationIndex.md:5
 msgid "$$\\frac{\\ce{C{14:0}} + \\ce{C{16:0}} + \\ce{C{18:0}}}{\\sum \\ce{UFA}}$$"
@@ -2116,26 +2387,29 @@ msgstr "IT"
 msgid "Index of thrombogenicity"
 msgstr "Индекс тромбогенности"
 
-#: src/Ratio/Nutritional/ThrombogenicIndex.md:18
-msgid "Represents the thrombogenic index, which characterizes the thrombogenic potential of fatty acids. It defines the ratio between pro-thrombogenic saturated fatty acids and anti-thrombogenic unsaturated fatty acids."
+#: src/Ratio/Nutritional/ThrombogenicIndex.md:15
+msgid "Prothrombogenic fatty acids to antithrombogenic fatty acids ratio"
+msgstr "Отношение протромбогенных жирных кислот к антитромбогенным жирным кислотам"
+
+#: src/Ratio/Nutritional/ThrombogenicIndex.md:19
+msgid "Represents the thrombogenic index, which characterizes the thrombogenic potential of fatty acids. It defines the ratio between prothrombogenic saturated fatty acids and antithrombogenic unsaturated fatty acids."
 msgstr ""
 
-#: src/Ratio/Nutritional/ThrombogenicIndex.md:20
-msgid "From a human health perspective, the TI value should be as low as possible. This index separates fatty acids into pro-thrombogenic ones (myristic C14:0, palmitic C16:0, and stearic C18:0), which promote clot formation in blood vessels, and anti-thrombogenic ones (MUFAs, n-3 and n-6 PUFAs), which prevent it. A lower TI indicates better nutritional properties of the lipids and is associated with a reduced risk of cardiovascular diseases. Furthermore, consuming foods with a lower TI can help in lowering the risk of atrial fibrillation and other heart-related conditions."
+#: src/Ratio/Nutritional/ThrombogenicIndex.md:21
+msgid "From a human health perspective, the TI value should be as low as possible. This index separates fatty acids into prothrombogenic ones (myristic C14:0, palmitic C16:0, and stearic C18:0), which promote clot formation in blood vessels, and antithrombogenic ones (MUFAs, n-3 and n-6 PUFAs), which prevent it. A lower TI indicates better nutritional properties of the lipids and is associated with a reduced risk of cardiovascular diseases. Furthermore, consuming foods with a lower TI can help in lowering the risk of atrial fibrillation and other heart-related conditions."
 msgstr ""
 
-#: src/Ratio/Nutritional/ThrombogenicIndex.md:25
+#: src/Ratio/Nutritional/ThrombogenicIndex.md:26
 msgid "[Watson _et al._, 2009](https://doi.org/10.1016/S0140-6736(09)60040-4 \"Mechanisms of thrombogenesis in atrial fibrillation: Virchow's triad revisited\")"
 msgstr "[Watson _et al._, 2009](https://doi.org/10.1016/S0140-6736(09)60040-4 \"Mechanisms of thrombogenesis in atrial fibrillation: Virchow's triad revisited\")"
 
 #: src/Ratio/Triacylglycerols/index.md:1
-#, fuzzy
-msgid "Fatty acids interposition ratio"
-msgstr "Выражения жирных кислот"
+msgid "Fatty acids in triacylglycerides"
+msgstr "Жирные кислоты в триацилглицеридах"
 
 #: src/Ratio/Triacylglycerols/index.md:3
-msgid "The ratio between fatty acids in different stereospecific positions."
-msgstr ""
+msgid "The ratio between fatty acids in different stereospecific positions of triacylglycerides."
+msgstr "Отношения между жирными кислотами в различных стереоспецифических положениях триацилглицеридов."
 
 #: src/Ratio/Triacylglycerols/index.md:12
 msgid "\\[!NOTE\\] Все эффекты $\\ce{C{16:0}}$ в индесксах негативные, но $X\\_{{2:C16:0}}$ жизненно необходим для младенцев в перод вскармливания, так и для взрослых людей. Поэтому нутрицевтические индексы должны быть уточнены путем разбиения $X\\_{{C16:0}}$ на $X\\_{{1:C16:0 | 3:C16:0}}$ и $X\\_{{2:C16:0}}$"
@@ -2198,200 +2472,3 @@ msgstr "Фактор селективности (SF) количественно 
 #: src/Ratio/Triacylglycerols/SelectivityFactor.md:15
 msgid "It provides a comparative measure of how strongly a specific fatty acid competes for the sn-2 position relative to other fatty acids that show a preference for it."
 msgstr "Он обеспечивает сравнительную оценку того, насколько сильно конкретная жирная кислота конкурирует за положение sn-2 по сравнению с другими жирными кислотами, которые проявляют предпочтение к нему."
-
-#, fuzzy
-#~ msgid "Intraposition"
-#~ msgstr "Внутрипозиционные отношения"
-
-#~ msgid "Hypocholesterolemic to hypercholesterolemic fatty acids"
-#~ msgstr "Снижающие уровень холестерина жирные кислоты к повышающим уровень холестерина жирным кислотам"
-
-#~ msgid "Linoleic fatty acid to α-Linolenic fatty acid"
-#~ msgstr "Линолевая жирная кислота к α-линоленовой жирной кислоте"
-
-#~ msgid "Polyunsaturated omega -6 to polyunsaturated omega -3 fatty acids"
-#~ msgstr "Полинеасыщенные омега -6 жирные кислоты к полинеасыщенные омега -3 жирным кислотам"
-
-#~ msgid "Polyunsaturated to saturated fatty acids"
-#~ msgstr "Полинеасыщенные жирные кислоты к насыщенным жирным кислотам"
-
-#, fuzzy
-#~ msgid "Interposition metrics"
-#~ msgstr "Межпозиционные отношения"
-
-#~ msgid "Delta 9 desaturase"
-#~ msgstr "Дельта 9 десатураза"
-
-#~ msgid "$$\\frac{\\sum UFA}{C12:0 + 4 \\times C14:0 + C16:0} \\tag{1}$$ $$\\frac{\\sum MUFA + \\sum PUFA\\[\\\\omega-6\\] + \\sum PUFA\\[\\\\omega-3\\]}{C12:0 + 4 \\times C14:0 + C16:0} \\tag{2}$$"
-#~ msgstr "$$\\frac{\\sum UFA}{C12:0 + 4 \\times C14:0 + C16:0} \\tag{1}$$ $$\\frac{\\sum MUFA + \\sum PUFA\\[\\\\omega-6\\] + \\sum PUFA\\[\\\\omega-3\\]}{C12:0 + 4 \\times C14:0 + C16:0} \\tag{2}$$"
-
-#~ msgid "$$\\frac{C18:1\\[\\\\omega-9\\] + \\sum PUFA\\[\\\\omega-6\\] + \\sum PUFA\\[\\\\omega-9\\]}{C12:0 + C14:0 + C16:0}$$ $$\\frac{C18:1\\[\\\\omega-9\\] + \\sum PUFA}{C12:0 + C14:0 + C16:0}$$"
-#~ msgstr "$$\\frac{C18:1\\[\\\\omega-9\\] + \\sum PUFA\\[\\\\omega-6\\] + \\sum PUFA\\[\\\\omega-9\\]}{C12:0 + C14:0 + C16:0}$$ $$\\frac{C18:1\\[\\\\omega-9\\] + \\sum PUFA}{C12:0 + C14:0 + C16:0}$$"
-
-#~ msgid "H/H"
-#~ msgstr "H/H"
-
-#~ msgid "LA/ALA"
-#~ msgstr "LA/ALA"
-
-#~ msgid "PUFA/SFA"
-#~ msgstr "ПНЖК/НЖК"
-
-#~ msgid "[Abrami _et al._, 1992](https://doi.org/10.1016/0305-0491(92)90161-J \"107\")"
-#~ msgstr "[Abrami _et al._, 1992](https://doi.org/10.1016/0305-0491(92)90161-J \"107\")"
-
-#~ msgid "[Krajnović-Ozretic _et al._, 1994](https://doi.org/10.1016/0300-9629(94)90200-3 \"108\")"
-#~ msgstr "[Krajnović-Ozretic _et al._, 1994](https://doi.org/10.1016/0300-9629(94)90200-3 \"108\")"
-
-#~ msgid "[Łuczyńska _et al._, 2017](https://doi.org/10.3390/ijerph14101120 \"66\")"
-#~ msgstr "[Łuczyńska _et al._, 2017](https://doi.org/10.3390/ijerph14101120 \"66\")"
-
-#~ msgid "[Łuczyńska _et al._, 2019](https://doi.org/10.3390/ijerph16193780 \"65\")"
-#~ msgstr "[Łuczyńska _et al._, 2019](https://doi.org/10.3390/ijerph16193780 \"65\")"
-
-#~ msgid "[Senso _et al._, 2007](https://doi.org/10.1016/j.foodchem.2006.01.036 \"73\")"
-#~ msgstr "[Senso _et al._, 2007](https://doi.org/10.1016/j.foodchem.2006.01.036 \"73\")"
-
-#~ msgid "$$\\frac{\\sum UFA}{C12:0 + 4 \\times C14:0 + C16:0}$$"
-#~ msgstr "$$\\frac{\\sum UFA}{C12:0 + 4 \\times C14:0 + C16:0}$$"
-
-#~ msgid "[Ahmad _et al._, 2019](https://doi.org/10.1002/fsn3.1302 \"86\")"
-#~ msgstr "[Ahmad _et al._, 2019](https://doi.org/10.1002/fsn3.1302 \"86\")"
-
-#~ msgid "[Correa _et al._, 2012](https://doi.org/10.1016/j.meatsci.2012.02.033 \"46\")"
-#~ msgstr "[Correa _et al._, 2012](https://doi.org/10.1016/j.meatsci.2012.02.033 \"46\")"
-
-#~ msgid "[Dal Bosco et al. (2013)](## \"72\")"
-#~ msgstr "[Dal Bosco et al. (2013)](## \"72\")"
-
-#~ msgid "[Fernández _et al._, 2007](https://doi.org/10.1016/j.foodchem.2006.01.006 \"47\")"
-#~ msgstr "[Fernández _et al._, 2007](https://doi.org/10.1016/j.foodchem.2006.01.006 \"47\")"
-
-#~ msgid "[Ivanova _et al._, 2017](https://doi.org/10.11648/j.mc.20170506.11 \"78\")"
-#~ msgstr "[Ivanova _et al._, 2017](https://doi.org/10.11648/j.mc.20170506.11 \"78\")"
-
-#~ msgid "[Lorenzo _et al._, 2014](https://doi.org/10.1017/S175173111300236X \"52\")"
-#~ msgstr "[Lorenzo _et al._, 2014](https://doi.org/10.1017/S175173111300236X \"52\")"
-
-#~ msgid "[Mierliță _et al._, 2018](https://doi.org/10.4314/sajas.v48i3.11 \"55\")"
-#~ msgstr "[Mierliță _et al._, 2018](https://doi.org/10.4314/sajas.v48i3.11 \"55\")"
-
-#~ msgid "[Paiva _et al._, 2016](https://doi.org/10.1016/j.foodres.2016.08.007 \"90\")"
-#~ msgstr "[Paiva _et al._, 2016](https://doi.org/10.1016/j.foodres.2016.08.007 \"90\")"
-
-#~ msgid "[Ratusz _et al._, 2018](https://doi.org/10.3390/app8122606 \"62\")"
-#~ msgstr "[Ratusz _et al._, 2018](https://doi.org/10.3390/app8122606 \"62\")"
-
-#~ msgid "[Salles _et al._, 2019](https://doi.org/10.3390/nu11020481 \"87\")"
-#~ msgstr "[Salles _et al._, 2019](https://doi.org/10.3390/nu11020481 \"87\")"
-
-#~ msgid "[Santos-Silva _et al._, 2002](https://doi.org/10.1016/S0301-6226(02)00059-3 \"91\")"
-#~ msgstr "[Santos-Silva _et al._, 2002](https://doi.org/10.1016/S0301-6226(02)00059-3 \"91\")"
-
-#~ msgid "[Sinanoglou _et al._, 2015](https://doi.org/10.1007/s13594-015-0234-5 \"54\")"
-#~ msgstr "[Sinanoglou _et al._, 2015](https://doi.org/10.1007/s13594-015-0234-5 \"54\")"
-
-#~ msgid "[Sreelakshmi _et al._, 2019](https://doi.org/10.1080/10498850.2018.1559905 \"38\")"
-#~ msgstr "[Sreelakshmi _et al._, 2019](https://doi.org/10.1080/10498850.2018.1559905 \"38\")"
-
-#~ msgid "[Tonial _et al._, 2014](https://doi.org/10.5539/jfr.v3n3p105 \"39\")"
-#~ msgstr "[Tonial _et al._, 2014](https://doi.org/10.5539/jfr.v3n3p105 \"39\")"
-
-#~ msgid "[Winiarska-Mieczan _et al._, 2020](https://doi.org/10.1071/AN19305 \"48\")"
-#~ msgstr "[Winiarska-Mieczan _et al._, 2020](https://doi.org/10.1071/AN19305 \"48\")"
-
-#~ msgid "[Wójciak _et al._, 2019](https://doi.org/10.1016/j.meatsci.2018.10.010 \"77\")"
-#~ msgstr "[Wójciak _et al._, 2019](https://doi.org/10.1016/j.meatsci.2018.10.010 \"77\")"
-
-#~ msgid "$$\\frac{C12:0 + 4 \\times C14:0 + C16:0}{\\sum UFA}$$"
-#~ msgstr "$$\\frac{C12:0 + 4 \\times C14:0 + C16:0}{\\sum UFA}$$"
-
-#~ msgid "$$\\frac{C18:2\\[\\\\omega-6\\]}{C18:3\\[\\\\omega-3\\]}$$"
-#~ msgstr "$$\\frac{C18:2\\[\\\\omega-6\\]}{C18:3\\[\\\\omega-3\\]}$$"
-
-#~ msgid "[Majdoub-Mathlouthi _et al._, 2015](https://doi.org/10.1017/S1751731115001731 \"43\")"
-#~ msgstr "[Majdoub-Mathlouthi _et al._, 2015](https://doi.org/10.1017/S1751731115001731 \"43\")"
-
-#~ msgid "[Sharma _et al._, 2018](https://doi.org/10.1007/s13197-018-3360-2 \"109\")"
-#~ msgstr "[Sharma _et al._, 2018](https://doi.org/10.1007/s13197-018-3360-2 \"109\")"
-
-#~ msgid "[Clark _et al._, 1992](https://doi.org/10.1016/s0022-3476(05)81250-8 \"Clark1992\")"
-#~ msgstr "[Clark _et al._, 1992](https://doi.org/10.1016/s0022-3476(05)81250-8 \"Clark1992\")"
-
-#~ msgid "[Einerhand _et al._, 2023](https://doi.org/10.3390/nu15092187 \"Einerhand2023\")"
-#~ msgstr "[Einerhand _et al._, 2023](https://doi.org/10.3390/nu15092187 \"Einerhand2023\")"
-
-#~ msgid "Omega -6 to omega -3"
-#~ msgstr "Омега -6 жирные кислоты к омега -3 жирным кислотам"
-
-#~ msgid "[Gonzalez-Becerra _et al._, 2023](https://doi.org/10.3390/healthcare11162333 \"Gonzalez-Becerra2023\")"
-#~ msgstr "[Gonzalez-Becerra _et al._, 2023](https://doi.org/10.3390/healthcare11162333 \"Gonzalez-Becerra2023\")"
-
-#~ msgid "[Russo _et al._, 2009](https://doi.org/10.1016/j.bcp.2008.10.020 \"Russo2009\")"
-#~ msgstr "[Russo _et al._, 2009](https://doi.org/10.1016/j.bcp.2008.10.020 \"Russo2009\")"
-
-#~ msgid "[Strobel _et al._, 2012](https://doi.org/10.1186/1476-511X-11-144 \"Strobel2012\")"
-#~ msgstr "[Strobel _et al._, 2012](https://doi.org/10.1186/1476-511X-11-144 \"Strobel2012\")"
-
-#~ msgid "[Yang _et al._, 2023](https://doi.org/10.3389/fnut.2023.1166702 \"Yang2023\")"
-#~ msgstr "[Yang _et al._, 2023](https://doi.org/10.3389/fnut.2023.1166702 \"Yang2023\")"
-
-#~ msgid "$$\\frac{\\sum PUFA}{\\sum SFA}$$"
-#~ msgstr "$$\\frac{\\sum PUFA}{\\sum SFA}$$"
-
-#~ msgid "[Yousefi _et al._, 2012](https://doi.org/10.1016/j.meatsci.2012.05.004)"
-#~ msgstr "[Yousefi _et al._, 2012](https://doi.org/10.1016/j.meatsci.2012.05.004)"
-
-#~ msgid "[Alvarenga _et al._, 2014](https://doi.org/10.1017/S1751731114000093 \"49\")"
-#~ msgstr "[Alvarenga _et al._, 2014](https://doi.org/10.1017/S1751731114000093 \"49\")"
-
-#~ msgid "[Bonanno _et al._, 2016](https://doi.org/10.1017/S1751731116001130 \"57\")"
-#~ msgstr "[Bonanno _et al._, 2016](https://doi.org/10.1017/S1751731116001130 \"57\")"
-
-#~ msgid "[Brogna _et al._, 2011](https://doi.org/10.1017/S1751731111000048 \"45\")"
-#~ msgstr "[Brogna _et al._, 2011](https://doi.org/10.1017/S1751731111000048 \"45\")"
-
-#~ msgid "[Calabrò _et al._, 2015](https://doi.org/10.1002/jsfa.7049 \"30\")"
-#~ msgstr "[Calabrò _et al._, 2015](https://doi.org/10.1002/jsfa.7049 \"30\")"
-
-#~ msgid "[Castro _et al._, 2016](https://doi.org/10.1017/S1751731115002554 \"42\")"
-#~ msgstr "[Castro _et al._, 2016](https://doi.org/10.1017/S1751731115002554 \"42\")"
-
-#~ msgid "[Chan _et al._, 2017](https://doi.org/10.1016/j.foodchem.2016.10.066 \"28\")"
-#~ msgstr "[Chan _et al._, 2017](https://doi.org/10.1016/j.foodchem.2016.10.066 \"28\")"
-
-#~ msgid "[Chen _et al._, 2016](https://doi.org/10.3390/md14040068 \"29\")"
-#~ msgstr "[Chen _et al._, 2016](https://doi.org/10.3390/md14040068 \"29\")"
-
-#~ msgid "[Chiofalo _et al._, 2018](https://doi.org/10.1111/jpn.12687 \"31\")"
-#~ msgstr "[Chiofalo _et al._, 2018](https://doi.org/10.1111/jpn.12687 \"31\")"
-
-#~ msgid "[Farajzadeh Alan _et al._, 2019](https://doi.org/10.1002/fsn3.1231 \"32\")"
-#~ msgstr "[Farajzadeh Alan _et al._, 2019](https://doi.org/10.1002/fsn3.1231 \"32\")"
-
-#~ msgid "[Filip _et al._, 2011](https://doi.org/10.1002/ejlt.200900231 \"33\")"
-#~ msgstr "[Filip _et al._, 2011](https://doi.org/10.1002/ejlt.200900231 \"33\")"
-
-#~ msgid "[Hao _et al._, 2019](https://doi.org/10.1111/asj.13266 \"41\")"
-#~ msgstr "[Hao _et al._, 2019](https://doi.org/10.1111/asj.13266 \"41\")"
-
-#~ msgid "[Kumar _et al._, 2011](https://doi.org/10.1007/s10811-010-9578-7 \"27\")"
-#~ msgstr "[Kumar _et al._, 2011](https://doi.org/10.1007/s10811-010-9578-7 \"27\")"
-
-#~ msgid "[Mir _et al._, 2018](https://doi.org/10.1002/ejlt.201700470 \"50\")"
-#~ msgstr "[Mir _et al._, 2018](https://doi.org/10.1002/ejlt.201700470 \"50\")"
-
-#~ msgid "[Nantapo _et al._, 2014](https://doi.org/10.1016/j.foodchem.2013.09.009 \"56\")"
-#~ msgstr "[Nantapo _et al._, 2014](https://doi.org/10.1016/j.foodchem.2013.09.009 \"56\")"
-
-#~ msgid "[Pires _et al._, 2020](https://doi.org/10.1002/jsfa.10070 \"53\")"
-#~ msgstr "[Pires _et al._, 2020](https://doi.org/10.1002/jsfa.10070 \"53\")"
-
-#~ msgid "[Realini _et al._, 2013](https://doi.org/10.1016/j.meatsci.2013.03.007 \"44\")"
-#~ msgstr "[Realini _et al._, 2013](https://doi.org/10.1016/j.meatsci.2013.03.007 \"44\")"
-
-#~ msgid "[Skałecki _et al._, 2020](https://doi.org/10.3390/ani10050778 \"35\")"
-#~ msgstr "[Skałecki _et al._, 2020](https://doi.org/10.3390/ani10050778 \"35\")"
-
-#~ msgid "[Turner _et al._, 2011](https://doi.org/10.1080/09064702.2011.560179 \"51\")"
-#~ msgstr "[Turner _et al._, 2011](https://doi.org/10.1080/09064702.2011.560179 \"51\")"
