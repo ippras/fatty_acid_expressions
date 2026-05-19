@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Lipids\n"
-"POT-Creation-Date: 2026-05-19T14:30:46+03:00\n"
+"POT-Creation-Date: 2026-05-19T14:34:16+03:00\n"
 "PO-Revision-Date: 2026-05-05T10:29:57+03:00\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1390,8 +1390,8 @@ msgid "[Okuley _et al._, 1994](https://doi.org/10.1105/tpc.6.1.147 \"Arabidopsis
 msgstr "[Okuley _et al._, 1994](https://doi.org/10.1105/tpc.6.1.147 \"Arabidopsis FAD2 gene encodes the enzyme that is essential for polyunsaturated lipid synthesis\")"
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:3
-msgid "$$\\sum \\ce{UFA\\[\\\\omega-3\\]}$$"
-msgstr "$$\\sum \\ce{UFA\\[\\\\omega-3\\]}$$"
+msgid "$$\\sum \\ce{UFA(\\omega-3)}$$"
+msgstr "$$\\sum \\ce{UFA(\\omega-3)}$$"
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:7
 msgid "$\\omega-3$"
