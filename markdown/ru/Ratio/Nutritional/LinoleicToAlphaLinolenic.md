@@ -14,8 +14,8 @@
  
  {"*"}{"*"}Пределы{"*"}{"*"}:
  
- - below 4:1 is not recommended [\[1\]](#references)
- - from 5:1 to 15:1 [\[5\]](#references)
+ - below 4:1 is not recommended [[1]](#references)
+ - from 5:1 to 15:1 [[5]](#references)
  
  ## Ссылки
  

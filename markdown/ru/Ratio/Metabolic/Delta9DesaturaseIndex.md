@@ -7,7 +7,7 @@
  $$\frac{"{"}C16:1(\omega-7) + C18:1(\omega-9){"}"}{"{"}C16:0 + C18:0 + C16:1(\omega-7) + C18:1(\omega-9){"}"} \tag{"{"}3, 4{"}"}$$
  
   > 
-  > \[!NOTE\] There are different versions of this index calculation. The first version calculates only the conversion from $\ce{"{"}C{"{"}18:0{"}"}{"}"}$ to $\ce{"{"}C{"{"}18:1{"}"}{"}"}$, while the second calculates the total conversion of $\ce{"{"}C{"{"}16:0{"}"}{"}"}$ and $\ce{"{"}C{"{"}18:0{"}"}{"}"}$.
+  > [!NOTE] There are different versions of this index calculation. The first version calculates only the conversion from $\ce{"{"}C{"{"}18:0{"}"}{"}"}$ to $\ce{"{"}C{"{"}18:1{"}"}{"}"}$, while the second calculates the total conversion of $\ce{"{"}C{"{"}16:0{"}"}{"}"}$ and $\ce{"{"}C{"{"}18:0{"}"}{"}"}$.
  
  ## Сокращения
  
