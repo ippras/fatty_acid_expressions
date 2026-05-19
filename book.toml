@@ -9,6 +9,7 @@ before = ["gettext"]
 renderers = ["epub", "html", "pdf"]
 
 [preprocessor.gettext]
+before = ["admonish"]
 after = ["links"]
 
 [build]
