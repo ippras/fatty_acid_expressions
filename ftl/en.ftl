@@ -1,4 +1,4 @@
-c16 = Palmitic fatty acid
+FAE_Primitive_c16 = Palmitic fatty acid
     .markdown =
         # Palmitic fatty acid
 
@@ -30,7 +30,7 @@ c16 = Palmitic fatty acid
         2. [Sanders _et al._, 2011](https://doi.org/10.3945/ajcn.111.017459 "Palmitic acid in the sn-2 position of triacylglycerols acutely influences postprandial lipid metabolism")
         3. [Mancini _et al._, 2015](https://doi.org/10.3390/molecules200917339 "Biological and Nutritional Properties of Palm Oil and Palmitic Acid: Effects on Health")
 
-c18 = Stearic fatty acid
+FAE_Primitive_c18 = Stearic fatty acid
     .markdown =
         # Stearic fatty acid
 
@@ -61,7 +61,7 @@ c18 = Stearic fatty acid
         1. [Hunter _et al._, 2010](https://doi.org/10.3945/ajcn.2009.27661 "Cardiovascular disease risk of dietary stearic acid compared with trans, other saturated, and unsaturated fatty acids: a systematic review")
         2. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-c18c9 = Oleic fatty acid
+FAE_Primitive_c18c9 = Oleic fatty acid
     .markdown =
         # Oleic fatty acid
 
@@ -92,7 +92,7 @@ c18c9 = Oleic fatty acid
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         2. [Sales-Campos et al., 2013](10.2174/1389557511313020003 "An overview of the modulatory effects of oleic acid in health and disease")
 
-c18c9c12 = Linoleic fatty acid
+FAE_Primitive_c18c9c12 = Linoleic fatty acid
     .markdown =
         # Linoleic fatty acid
 
@@ -123,7 +123,7 @@ c18c9c12 = Linoleic fatty acid
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         2. [Farvid _et al._, 2014](https://doi.org/10.1161/circulationaha.114.010236 "Dietary linoleic acid and risk of coronary heart disease: a systematic review and meta-analysis of prospective cohort studies")
 
-c18c9c12c15 = α-Linolenic fatty acid
+FAE_Primitive_c18c9c12c15 = α-Linolenic fatty acid
     .markdown =
         # α-Linolenic fatty acid
 
@@ -154,7 +154,7 @@ c18c9c12c15 = α-Linolenic fatty acid
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         2. [Pan _et al._, 2012](https://doi.org/10.3945/ajcn.112.044040 "alpha-Linolenic acid and risk of cardiovascular disease: a systematic review and meta-analysis")
 
-c20 = Arachidic fatty acid
+FAE_Primitive_c20 = Arachidic fatty acid
     .markdown =
         # Arachidic fatty acid
 
@@ -185,7 +185,7 @@ c20 = Arachidic fatty acid
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         2. [Liu _et al._, 2020](https://doi.org/10.3390/nu12092709 "Circulating Very-Long-Chain Saturated Fatty Acids Were Inversely Associated with Cardiovascular Health: A Prospective Cohort Study and Meta-Analysis")
 
-c20c5c8c11c14c17 = Eicosapentaenoic fatty acid
+FAE_Primitive_c20c5c8c11c14c17 = Eicosapentaenoic fatty acid
     .markdown =
         # Eicosapentaenoic fatty acid
 
@@ -217,7 +217,7 @@ c20c5c8c11c14c17 = Eicosapentaenoic fatty acid
         2. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         3. [Bhatt _et al._, 2019](https://doi.org/10.1056/NEJMoa1812792 "Cardiovascular Risk Reduction with Icosapent Ethyl for Hypertriglyceridemia")
 
-c22 = Behenic fatty acid
+FAE_Primitive_c22 = Behenic fatty acid
     .markdown =
         # Behenic fatty acid
 
@@ -248,7 +248,7 @@ c22 = Behenic fatty acid
         1. [Cater _et al._, 2001](https://doi.org/10.1093/ajcn/73.1.41 "Behenic acid is a cholesterol-raising saturated fatty acid in humans")
         2. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-c22c13 = Erucic fatty acid
+FAE_Primitive_c22c13 = Erucic fatty acid
     .markdown =
         # Erucic fatty acid
 
@@ -279,7 +279,7 @@ c22c13 = Erucic fatty acid
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         2. [EFSA _et al._, 2016](https://doi.org/10.2903/j.efsa.2016.4593 "Erucic acid in feed and food")
 
-c22c4c7c10c13c16c19 = Docosahexaenoic fatty acid
+FAE_Primitive_c22c4c7c10c13c16c19 = Docosahexaenoic fatty acid
     .markdown =
         # Docosahexaenoic fatty acid
 
@@ -310,7 +310,7 @@ c22c4c7c10c13c16c19 = Docosahexaenoic fatty acid
         1. [Horrocks _et al._, 1999](https://doi.org/10.1006/phrs.1999.0495 "Health benefits of docosahexaenoic acid (DHA)")
         2. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-c24 = Lignoceric fatty acid
+FAE_Primitive_c24 = Lignoceric fatty acid
     .markdown =
         # Lignoceric fatty acid
 
@@ -341,7 +341,7 @@ c24 = Lignoceric fatty acid
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         2. [Liu _et al._, 2020](https://doi.org/10.3390/nu12092709 "Circulating Very-Long-Chain Saturated Fatty Acids Were Inversely Associated with Cardiovascular Health: A Prospective Cohort Study and Meta-Analysis")
 
-c24c15 = Nervonic fatty acid
+FAE_Primitive_c24c15 = Nervonic fatty acid
     .markdown =
         # Nervonic fatty acid
 
@@ -372,7 +372,7 @@ c24c15 = Nervonic fatty acid
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         2. [Lewkowicz _et al._, 2019](https://doi.org/10.3390/cells8080786 "Naturally Occurring Nervonic Acid Ester Improves Myelin Synthesis by Human Oligodendrocytes")
 
-EicosapentaenoicAndDocosahexaenoic = Eicosapentaenoic and docosahexaenoic fatty acids
+FAE_Sum_EicosapentaenoicAndDocosahexaenoic = Eicosapentaenoic and docosahexaenoic fatty acids
     .markdown =
         # Eicosapentaenoic and docosahexaenoic fatty acids
 
@@ -398,7 +398,7 @@ EicosapentaenoicAndDocosahexaenoic = Eicosapentaenoic and docosahexaenoic fatty 
         - [Rombenso _et al._, 2016](https://doi.org/10.1016/j.aquaculture.2016.03.009 "40")
         - [Xu _et al._, 2017](https://doi.org/10.1016/j.aquaculture.2017.07.018 "106")
 
-Long = Long chain fatty acids
+FAE_Sum_Long = Long chain fatty acids
     .markdown =
         # Long chain fatty acids
 
@@ -429,7 +429,7 @@ Long = Long chain fatty acids
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         2. [Mozaffarian _et al._, 2010](https://doi.org/10.1371/journal.pmed.1000252 "Effects on Coronary Heart Disease of Increasing Polyunsaturated Fat in Place of Saturated Fat: A Systematic Review and Meta-Analysis of Randomized Controlled Trials")
 
-Medium = Medium chain fatty acids
+FAE_Sum_Medium = Medium chain fatty acids
     .markdown =
         # Medium chain fatty acids
 
@@ -461,7 +461,7 @@ Medium = Medium chain fatty acids
         2. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         3. [Jadhav _et al._, 2022](https://doi.org/10.1007/s13197-022-05499-w "Triglycerides of medium-chain fatty acids: a concise review")
 
-Short = Short chain fatty acids
+FAE_Sum_Short = Short chain fatty acids
     .markdown =
         # Short chain fatty acids
 
@@ -493,7 +493,7 @@ Short = Short chain fatty acids
         1. [Wong _et al._, 2006](https://doi.org/10.1097/00004836-200603000-00015 "Colonic health: fermentation and short chain fatty acids")
         2. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-VeryLong = Very long chain fatty acids
+FAE_Sum_VeryLong = Very long chain fatty acids
     .markdown =
         # Very long chain fatty acids
 
@@ -521,7 +521,7 @@ VeryLong = Very long chain fatty acids
         2. [Wanders _et al._, 2010](https://doi.org/10.1016/j.ymgme.2004.08.016 "Peroxisomes, lipid metabolism, and peroxisomal disorders")
         3. [Liu _et al._, 2020](https://doi.org/10.3390/nu12092709 "Circulating Very-Long-Chain Saturated Fatty Acids Were Inversely Associated with Cardiovascular Health: A Prospective Cohort Study and Meta-Analysis")
 
-MonoUnsaturated = Monounsaturated fatty acids
+FAE_Sum_MonoUnsaturated = Monounsaturated fatty acids
     .markdown =
         # Monounsaturated fatty acids
 
@@ -548,7 +548,7 @@ MonoUnsaturated = Monounsaturated fatty acids
 
         In fuel applications, MUFAs provide an optimal balance between cold flow properties and oxidation stability. Compared to saturated fatty acids, they have lower melting points, which improves the cold filter plugging point (CFPP) and overall cold-weather performance. Compared to polyunsaturated fatty acids (PUFA), they are significantly less prone to oxidation and offer a better cetane number (CN). Feedstocks rich in MUFA (such as high-oleic oils) are considered highly desirable for high-quality biodiesel production.
 
-NUnsaturated = N unsaturated fatty acids
+FAE_Sum_NUnsaturated = N unsaturated fatty acids
     .markdown =
         # N unsaturated fatty acids
 
@@ -596,7 +596,7 @@ NUnsaturated = N unsaturated fatty acids
 
         Represents the sum of all fatty acids that contain exactly N unsaturated bond in their hydrocarbon chain.
 
-PolyUnsaturated = Polyunsaturated fatty acids
+FAE_Sum_PolyUnsaturated = Polyunsaturated fatty acids
     .markdown =
         # Polyunsaturated fatty acids
 
@@ -627,7 +627,7 @@ PolyUnsaturated = Polyunsaturated fatty acids
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         2. [Mozaffarian _et al._, 2010](https://doi.org/10.1371/journal.pmed.1000252 "Effects on Coronary Heart Disease of Increasing Polyunsaturated Fat in Place of Saturated Fat: A Systematic Review and Meta-Analysis of Randomized Controlled Trials")
 
-Saturated = Saturated fatty acids
+FAE_Sum_Saturated = Saturated fatty acids
     .markdown =
         # Saturated fatty acids
 
@@ -658,7 +658,7 @@ Saturated = Saturated fatty acids
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         2. [who.int, 2023](https://www.who.int/news/item/17-07-2023-who-updates-guidelines-on-fats-and-carbohydrates "WHO updates guidelines on fats and carbohydrates")
 
-Unsaturated = Unsaturated fatty acids
+FAE_Sum_Unsaturated = Unsaturated fatty acids
     .markdown =
         # Unsaturated fatty acids
 
@@ -689,7 +689,7 @@ Unsaturated = Unsaturated fatty acids
         1. [Mensink _et al._, 2003](https://doi.org/10.1093/ajcn/77.5.1146 "Effects of dietary fatty acids and carbohydrates on the ratio of serum total to HDL cholesterol and on serum lipids and apolipoproteins: a meta-analysis of 60 controlled trials")
         2. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-Delta12 = Delta 12 fatty acids
+FAE_Sum_Delta12 = Delta 12 fatty acids
     .markdown =
         # Delta 12 fatty acids
 
@@ -717,7 +717,7 @@ Delta12 = Delta 12 fatty acids
         1. [Okuley _et al._, 1994](https://doi.org/10.1105/tpc.6.1.147 "Arabidopsis FAD2 gene encodes the enzyme that is essential for polyunsaturated lipid synthesis")
         2. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-Delta9 = Delta 9 fatty acids
+FAE_Sum_Delta9 = Delta 9 fatty acids
     .markdown =
         # Delta 9 fatty acids
 
@@ -745,7 +745,7 @@ Delta9 = Delta 9 fatty acids
         1. [Ntambi _et al._, 2004](https://doi.org/10.1016/j.plipres.2003.10.001 "Role of stearoyl-CoA desaturase in lipid metabolism")
         2. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-Omega-3 = Omega -3 fatty acids
+FAE_Sum_Omega-3 = Omega -3 fatty acids
     .markdown =
         # Omega -3 fatty acids
 
@@ -773,7 +773,7 @@ Omega-3 = Omega -3 fatty acids
         1. [Kris-Etherton _et al._, 2002](https://doi.org/10.1161/01.cir.0000038493.65177.94 "Fish Consumption, Fish Oil, Omega-3 Fatty Acids, and Cardiovascular Disease")
         2. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-Omega-6 = Omega -6 fatty acids
+FAE_Sum_Omega-6 = Omega -6 fatty acids
     .markdown =
         # Omega -6 fatty acids
 
@@ -801,7 +801,7 @@ Omega-6 = Omega -6 fatty acids
         1. [Simopoulos _et al._, 2002](https://doi.org/10.1016/S0753-3322(02)00253-6 "The importance of the ratio of omega-6/omega-3 essential fatty acids")
         2. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-Omega-9 = Omega -9 fatty acids
+FAE_Sum_Omega-9 = Omega -9 fatty acids
     .markdown =
         # Omega -9 fatty acids
 
@@ -829,7 +829,7 @@ Omega-9 = Omega -9 fatty acids
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         2. [Mohamed _et al._, 2022](https://doi.org/10.1186/s43141-022-00329-0 "Omega-9 fatty acids: potential roles in inflammation and cancer management")
 
-Trans = Trans fatty acids
+FAE_Sum_Trans = Trans fatty acids
     .markdown =
         # Trans fatty acids
 
@@ -868,7 +868,7 @@ Trans = Trans fatty acids
         - [Brogna _et al._, 2011](https://doi.org/10.1017/S1751731111000048 "Brogna (2011)")
         - [Ivanova _et al._, 2017](https://doi.org/10.11648/j.mc.20170506.11 "Ivanova (2017)")
 
-Conjugated = Conjugated fatty acids
+FAE_Sum_Conjugated = Conjugated fatty acids
     .markdown =
         # Conjugated fatty acids
 
@@ -900,7 +900,7 @@ Conjugated = Conjugated fatty acids
         1. [Bhattacharya _et al._, 2006](https://doi.org/10.1016/j.jnutbio.2006.02.009 "Biological effects of conjugated linoleic acids in health and disease")
         2. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-Biodiesel_CetaneNumber = Cetane number
+FAE_Ratio_Biodiesel_CetaneNumber = Cetane number
     .markdown =
         # Cetane number
 
@@ -928,7 +928,7 @@ Biodiesel_CetaneNumber = Cetane number
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         2. [Wang _et al._, 2012](https://doi.org/10.1016/S1872-5813(12)60018-8 "Influence of fatty acid composition of woody biodiesel plants on the fuel properties")
 
-Biodiesel_ColdFilterPluggingPoint = Cold filter plugging point
+FAE_Ratio_Biodiesel_ColdFilterPluggingPoint = Cold filter plugging point
     .markdown =
         # Cold filter plugging point
 
@@ -951,7 +951,7 @@ Biodiesel_ColdFilterPluggingPoint = Cold filter plugging point
         1. [Dunn, 2019](https://doi.org/10.1021/acs.energyfuels.9b03311 "Correlating the Cold Filter Plugging Point to Concentration and Melting Properties of Fatty Acid Methyl Ester (Biodiesel) Admixtures")
         2. [Ramos _et al._, 2009](https://doi.org/10.1016/j.biortech.2008.06.039 "Influence of fatty acid composition of raw materials on biodiesel properties")
 
-Biodiesel_DegreeOfUnsaturation = Degree of unsaturation
+FAE_Ratio_Biodiesel_DegreeOfUnsaturation = Degree of unsaturation
     .markdown =
         # Degree of unsaturation
 
@@ -969,7 +969,7 @@ Biodiesel_DegreeOfUnsaturation = Degree of unsaturation
 
         1. [Wang _et al._, 2012](https://doi.org/10.1016/S1872-5813(12)60018-8 "Influence of fatty acid composition of woody biodiesel plants on the fuel properties")
 
-Biodiesel_IodineValue = Iodine value
+FAE_Ratio_Biodiesel_IodineValue = Iodine value
     .markdown =
         # Iodine value
 
@@ -994,7 +994,7 @@ Biodiesel_IodineValue = Iodine value
 
         1. [Wang _et al._, 2012](https://doi.org/10.1016/S1872-5813(12)60018-8 "Influence of fatty acid composition of woody biodiesel plants on the fuel properties")
 
-Biodiesel_LongChainSaturatedFactor = Long chain saturated factor
+FAE_Ratio_Biodiesel_LongChainSaturatedFactor = Long chain saturated factor
     .markdown =
         # Long chain saturated factor
 
@@ -1010,7 +1010,7 @@ Biodiesel_LongChainSaturatedFactor = Long chain saturated factor
 
         1. [Ramos _et al._, 2009](https://doi.org/10.1016/j.biortech.2008.06.039 "Influence of fatty acid composition of raw materials on biodiesel properties")
 
-Biodiesel_OxidationStability = Oxidation stability
+FAE_Ratio_Biodiesel_OxidationStability = Oxidation stability
     .markdown =
         # Oxidation stability
 
@@ -1036,7 +1036,7 @@ Biodiesel_OxidationStability = Oxidation stability
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         2. [Wang _et al._, 2012](https://doi.org/10.1016/S1872-5813(12)60018-8 "Influence of fatty acid composition of woody biodiesel plants on the fuel properties")
 
-Metabolic_Delta9DesaturaseIndex = Delta 9 desaturase index
+FAE_Ratio_Metabolic_Delta9DesaturaseIndex = Delta 9 desaturase index
     .markdown =
         # Delta 9 desaturase index
 
@@ -1066,7 +1066,7 @@ Metabolic_Delta9DesaturaseIndex = Delta 9 desaturase index
         3. [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
         4. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-Metabolic_ElongaseIndex = Elongase index
+FAE_Ratio_Metabolic_ElongaseIndex = Elongase index
     .markdown =
         # Elongase index
 
@@ -1090,7 +1090,7 @@ Metabolic_ElongaseIndex = Elongase index
         - [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
         - [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-Metabolic_KineticActivityIndex = Kinetic activity index
+FAE_Ratio_Metabolic_KineticActivityIndex = Kinetic activity index
     .markdown =
         # Kinetic activity index
 
@@ -1118,7 +1118,7 @@ Metabolic_KineticActivityIndex = Kinetic activity index
         2. [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
         3. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-Metabolic_ThioesteraseIndex = Thioesterase index
+FAE_Ratio_Metabolic_ThioesteraseIndex = Thioesterase index
     .markdown =
         # Thioesterase index
 
@@ -1142,7 +1142,7 @@ Metabolic_ThioesteraseIndex = Thioesterase index
         2. [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
         3. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-Nutritional_AtherogenicIndex = Atherogenic index
+FAE_Ratio_Nutritional_AtherogenicIndex = Atherogenic index
     .markdown =
         # Atherogenic index
 
@@ -1177,7 +1177,7 @@ Nutritional_AtherogenicIndex = Atherogenic index
         4. [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
         5. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-Nutritional_CholesterolIndex = Cholesterol index
+FAE_Ratio_Nutritional_CholesterolIndex = Cholesterol index
     .markdown =
         # Cholesterol index
 
@@ -1209,7 +1209,7 @@ Nutritional_CholesterolIndex = Cholesterol index
         2. [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
         3. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-Nutritional_FishLipidQuality = Fish lipid quality
+FAE_Ratio_Nutritional_FishLipidQuality = Fish lipid quality
     .markdown =
         # Fish lipid quality
 
@@ -1240,7 +1240,7 @@ Nutritional_FishLipidQuality = Fish lipid quality
         5. [Chen and Liu, 2020](https://doi.org/10.3390/ijms21165695 "Nutritional Indices for Assessing Fatty Acids: A Mini-Review")
         6. [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
 
-Nutritional_HealthPromotingIndex = Health promoting index
+FAE_Ratio_Nutritional_HealthPromotingIndex = Health promoting index
     .markdown =
         # Health promoting index
 
@@ -1274,7 +1274,7 @@ Nutritional_HealthPromotingIndex = Health promoting index
         6. [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
         7. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-Nutritional_LinoleicToAlphaLinolenic = Linoleic fatty acid to α-Linolenic fatty acid ratio
+FAE_Ratio_Nutritional_LinoleicToAlphaLinolenic = Linoleic fatty acid to α-Linolenic fatty acid ratio
     .markdown =
         # Linoleic fatty acid to α-Linolenic fatty acid ratio
 
@@ -1303,7 +1303,7 @@ Nutritional_LinoleicToAlphaLinolenic = Linoleic fatty acid to α-Linolenic fatty
         4. [Sharma _et al._, 2018](https://doi.org/10.1007/s13197-018-3360-2 "Comparative milk metabolite profiling for exploring superiority of indigenous Indian cow milk over exotic and crossbred counterparts")
         5. [Einerhand _et al._, 2023](https://doi.org/10.3390/nu15092187 "The Impact of Linoleic Acid on Infant Health in the Absence or Presence of DHA in Infant Formulas")
 
-Nutritional_NutritionalValueIndex = Nutritional value index
+FAE_Ratio_Nutritional_NutritionalValueIndex = Nutritional value index
     .markdown =
         # Nutritional value index
 
@@ -1327,7 +1327,7 @@ Nutritional_NutritionalValueIndex = Nutritional value index
         2. [Chen _et al._, 2016](https://doi.org/10.5713/ajas.15.0840 "Differences in Physicochemical and Nutritional Properties of Breast and Thigh Meat from Crossbred Chickens, Commercial Broilers, and Spent Hens")
         3. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-Nutritional_Omega-6PolyunsaturatedToOmega-3Polyunsaturated = Omega -6 polyunsaturated fatty acids to omega -3 polyunsaturated fatty acids ratio
+FAE_Ratio_Nutritional_Omega-6PolyunsaturatedToOmega-3Polyunsaturated = Omega -6 polyunsaturated fatty acids to omega -3 polyunsaturated fatty acids ratio
     .markdown =
         # Omega -6 polyunsaturated fatty acids to omega -3 polyunsaturated fatty acids ratio
 
@@ -1356,7 +1356,7 @@ Nutritional_Omega-6PolyunsaturatedToOmega-3Polyunsaturated = Omega -6 polyunsatu
         3. [Gonzalez-Becerra _et al._, 2023](https://doi.org/10.3390/healthcare11162333 "A Balanced Dietary Ratio of n-6:n-3 Polyunsaturated Fatty Acids Exerts an Effect on Total Fatty Acid Profile in RBCs and Inflammatory Markers in Subjects with Obesity")
         4. [Yang _et al._, 2023](https://doi.org/10.3389/fnut.2023.1166702 "Effects of different n-6/n-3 polyunsaturated fatty acids ratios on lipid metabolism in patients with hyperlipidemia: a randomized controlled clinical trial")
 
-Nutritional_PolyunsaturatedToSaturated = Polyunsaturated fatty acids to saturated fatty acids ratio
+FAE_Ratio_Nutritional_PolyunsaturatedToSaturated = Polyunsaturated fatty acids to saturated fatty acids ratio
     .markdown =
         # Polyunsaturated fatty acids to saturated fatty acids ratio
 
@@ -1406,7 +1406,7 @@ Nutritional_PolyunsaturatedToSaturated = Polyunsaturated fatty acids to saturate
         - [Skałecki _et al._, 2020](https://doi.org/10.3390/ani10050778 "35")
         - [Winiarska-Mieczan _et al._, 2020](https://doi.org/10.1071/AN19305 "48")
 
-Nutritional_SaturationIndex = Saturation index
+FAE_Ratio_Nutritional_SaturationIndex = Saturation index
     .markdown =
         # Saturation index
 
@@ -1434,7 +1434,7 @@ Nutritional_SaturationIndex = Saturation index
         1. [Ulbricht _et al._, 1991](https://doi.org/10.1016/0140-6736(91)91846-M "Coronary heart disease: seven dietary factors")
         2. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-Nutritional_ThrombogenicIndex = Thrombogenic index
+FAE_Ratio_Nutritional_ThrombogenicIndex = Thrombogenic index
     .markdown =
         # Thrombogenic index
 
@@ -1465,7 +1465,7 @@ Nutritional_ThrombogenicIndex = Thrombogenic index
         3. [Chen _et al._, 2020](https://doi.org/10.3390/ijms21165695 "Nutritional Indices for Assessing Fatty Acids: A Mini-Review")
         4. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-Nutritional_UnsaturationIndex = Unsaturation index
+FAE_Ratio_Nutritional_UnsaturationIndex = Unsaturation index
     .markdown =
         # Unsaturation index
 
@@ -1499,7 +1499,7 @@ Nutritional_UnsaturationIndex = Unsaturation index
         - [Rodríguez, _et al._, 2018](http://doi.org/10.1017/S1751731117003706 "102")
         - [Dellatorre, _et al._, 2020](https://doi.org/10.1016/j.algal.2019.101726 "59")
 
-Triacylglycerols_EnrichmentFactor = Enrichment factor
+FAE_Ratio_Triacylglycerols_EnrichmentFactor = Enrichment factor
     .markdown =
         # Enrichment factor
 
@@ -1525,7 +1525,7 @@ Triacylglycerols_EnrichmentFactor = Enrichment factor
 
         - [Верещагин, 1972, стр. 176](https://doi.org/404.html "Биохимия триглицеридов")
 
-Triacylglycerols_SelectivityFactor = Selectivity factor
+FAE_Ratio_Triacylglycerols_SelectivityFactor = Selectivity factor
     .markdown =
         # Selectivity factor
 

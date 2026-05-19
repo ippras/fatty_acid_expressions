@@ -1,4 +1,4 @@
-c16 = Пальмитиновая жирная кислота
+FAE_Primitive_c16 = Пальмитиновая жирная кислота
     .markdown =
         # Пальмитиновая жирная кислота
 
@@ -30,7 +30,7 @@ c16 = Пальмитиновая жирная кислота
         1. [Sanders _et al._, 2011](https://doi.org/10.3945/ajcn.111.017459 "Palmitic acid in the sn-2 position of triacylglycerols acutely influences postprandial lipid metabolism")
         1. [Mancini _et al._, 2015](https://doi.org/10.3390/molecules200917339 "Biological and Nutritional Properties of Palm Oil and Palmitic Acid: Effects on Health")
 
-c18 = Стеариновая жирная кислота
+FAE_Primitive_c18 = Стеариновая жирная кислота
     .markdown =
         # Стеариновая жирная кислота
 
@@ -61,7 +61,7 @@ c18 = Стеариновая жирная кислота
         1. [Hunter _et al._, 2010](https://doi.org/10.3945/ajcn.2009.27661 "Cardiovascular disease risk of dietary stearic acid compared with trans, other saturated, and unsaturated fatty acids: a systematic review")
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-c18c9 = Олеиновая жирная кислота
+FAE_Primitive_c18c9 = Олеиновая жирная кислота
     .markdown =
         # Олеиновая жирная кислота
 
@@ -92,7 +92,7 @@ c18c9 = Олеиновая жирная кислота
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         1. [Sales-Campos et al., 2013](10.2174/1389557511313020003 "An overview of the modulatory effects of oleic acid in health and disease")
 
-c18c9c12 = Линолевая жирная кислота
+FAE_Primitive_c18c9c12 = Линолевая жирная кислота
     .markdown =
         # Линолевая жирная кислота
 
@@ -123,7 +123,7 @@ c18c9c12 = Линолевая жирная кислота
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         1. [Farvid _et al._, 2014](https://doi.org/10.1161/circulationaha.114.010236 "Dietary linoleic acid and risk of coronary heart disease: a systematic review and meta-analysis of prospective cohort studies")
 
-c18c9c12c15 = α-Линоленовая жирная кислота
+FAE_Primitive_c18c9c12c15 = α-Линоленовая жирная кислота
     .markdown =
         # α-Линоленовая жирная кислота
 
@@ -154,7 +154,7 @@ c18c9c12c15 = α-Линоленовая жирная кислота
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         1. [Pan _et al._, 2012](https://doi.org/10.3945/ajcn.112.044040 "alpha-Linolenic acid and risk of cardiovascular disease: a systematic review and meta-analysis")
 
-c20 = Арахидоновая жирная кислота
+FAE_Primitive_c20 = Арахидоновая жирная кислота
     .markdown =
         # Арахидоновая жирная кислота
 
@@ -185,7 +185,7 @@ c20 = Арахидоновая жирная кислота
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         1. [Liu _et al._, 2020](https://doi.org/10.3390/nu12092709 "Circulating Very-Long-Chain Saturated Fatty Acids Were Inversely Associated with Cardiovascular Health: A Prospective Cohort Study and Meta-Analysis")
 
-c20c5c8c11c14c17 = Эйкозапентаеновая жирная кислота
+FAE_Primitive_c20c5c8c11c14c17 = Эйкозапентаеновая жирная кислота
     .markdown =
         # Эйкозапентаеновая жирная кислота
 
@@ -217,7 +217,7 @@ c20c5c8c11c14c17 = Эйкозапентаеновая жирная кислот�
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         1. [Bhatt _et al._, 2019](https://doi.org/10.1056/NEJMoa1812792 "Cardiovascular Risk Reduction with Icosapent Ethyl for Hypertriglyceridemia")
 
-c22 = Бегеновая жирная кислота
+FAE_Primitive_c22 = Бегеновая жирная кислота
     .markdown =
         # Бегеновая жирная кислота
 
@@ -248,7 +248,7 @@ c22 = Бегеновая жирная кислота
         1. [Cater _et al._, 2001](https://doi.org/10.1093/ajcn/73.1.41 "Behenic acid is a cholesterol-raising saturated fatty acid in humans")
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-c22c13 = Эруковая жирная кислота
+FAE_Primitive_c22c13 = Эруковая жирная кислота
     .markdown =
         # Эруковая жирная кислота
 
@@ -279,7 +279,7 @@ c22c13 = Эруковая жирная кислота
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         1. [EFSA _et al._, 2016](https://doi.org/10.2903/j.efsa.2016.4593 "Erucic acid in feed and food")
 
-c22c4c7c10c13c16c19 = Докозагексаеновая жирная кислота
+FAE_Primitive_c22c4c7c10c13c16c19 = Докозагексаеновая жирная кислота
     .markdown =
         # Докозагексаеновая жирная кислота
 
@@ -310,7 +310,7 @@ c22c4c7c10c13c16c19 = Докозагексаеновая жирная кисло
         1. [Horrocks _et al._, 1999](https://doi.org/10.1006/phrs.1999.0495 "Health benefits of docosahexaenoic acid (DHA)")
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-c24 = Лигноцериновая жирная кислота
+FAE_Primitive_c24 = Лигноцериновая жирная кислота
     .markdown =
         # Лигноцериновая жирная кислота
 
@@ -341,7 +341,7 @@ c24 = Лигноцериновая жирная кислота
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         1. [Liu _et al._, 2020](https://doi.org/10.3390/nu12092709 "Circulating Very-Long-Chain Saturated Fatty Acids Were Inversely Associated with Cardiovascular Health: A Prospective Cohort Study and Meta-Analysis")
 
-c24c15 = Нервоновая жирная кислота
+FAE_Primitive_c24c15 = Нервоновая жирная кислота
     .markdown =
         # Нервоновая жирная кислота
 
@@ -372,7 +372,7 @@ c24c15 = Нервоновая жирная кислота
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         1. [Lewkowicz _et al._, 2019](https://doi.org/10.3390/cells8080786 "Naturally Occurring Nervonic Acid Ester Improves Myelin Synthesis by Human Oligodendrocytes")
 
-EicosapentaenoicAndDocosahexaenoic = Эйкозапентаеновая и докозагексаеновая жирные кислоты
+FAE_Sum_EicosapentaenoicAndDocosahexaenoic = Эйкозапентаеновая и докозагексаеновая жирные кислоты
     .markdown =
         # Эйкозапентаеновая и докозагексаеновая жирные кислоты
 
@@ -398,7 +398,7 @@ EicosapentaenoicAndDocosahexaenoic = Эйкозапентаеновая и до�
         - [Rombenso _et al._, 2016](https://doi.org/10.1016/j.aquaculture.2016.03.009 "40")
         - [Xu _et al._, 2017](https://doi.org/10.1016/j.aquaculture.2017.07.018 "106")
 
-Long = Длинноцепочечные жирные кислоты
+FAE_Sum_Long = Длинноцепочечные жирные кислоты
     .markdown =
         # Длинноцепочечные жирные кислоты
 
@@ -429,7 +429,7 @@ Long = Длинноцепочечные жирные кислоты
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         1. [Mozaffarian _et al._, 2010](https://doi.org/10.1371/journal.pmed.1000252 "Effects on Coronary Heart Disease of Increasing Polyunsaturated Fat in Place of Saturated Fat: A Systematic Review and Meta-Analysis of Randomized Controlled Trials")
 
-Medium = Среднецепочечные жирные кислоты
+FAE_Sum_Medium = Среднецепочечные жирные кислоты
     .markdown =
         # Среднецепочечные жирные кислоты
 
@@ -461,7 +461,7 @@ Medium = Среднецепочечные жирные кислоты
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         1. [Jadhav _et al._, 2022](https://doi.org/10.1007/s13197-022-05499-w "Triglycerides of medium-chain fatty acids: a concise review")
 
-Short = Короткоцепочечные жирные кислоты
+FAE_Sum_Short = Короткоцепочечные жирные кислоты
     .markdown =
         # Короткоцепочечные жирные кислоты
 
@@ -493,7 +493,7 @@ Short = Короткоцепочечные жирные кислоты
         1. [Wong _et al._, 2006](https://doi.org/10.1097/00004836-200603000-00015 "Colonic health: fermentation and short chain fatty acids")
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-VeryLong = Очень длинноцепочечные жирные кислоты
+FAE_Sum_VeryLong = Очень длинноцепочечные жирные кислоты
     .markdown =
         # Очень длинноцепочечные жирные кислоты
 
@@ -521,7 +521,7 @@ VeryLong = Очень длинноцепочечные жирные кислот
         1. [Wanders _et al._, 2010](https://doi.org/10.1016/j.ymgme.2004.08.016 "Peroxisomes, lipid metabolism, and peroxisomal disorders")
         1. [Liu _et al._, 2020](https://doi.org/10.3390/nu12092709 "Circulating Very-Long-Chain Saturated Fatty Acids Were Inversely Associated with Cardiovascular Health: A Prospective Cohort Study and Meta-Analysis")
 
-MonoUnsaturated = Мононеасыщенные жирные кислоты
+FAE_Sum_MonoUnsaturated = Мононеасыщенные жирные кислоты
     .markdown =
         # Мононеасыщенные жирные кислоты
 
@@ -548,7 +548,7 @@ MonoUnsaturated = Мононеасыщенные жирные кислоты
 
         В качестве топлива МНЖК обеспечивают оптимальный баланс между низкотемпературными свойствами (текучестью) и окислительной стабильностью. По сравнению с насыщенными жирными кислотами они имеют более низкую температуру плавления, что улучшает предельную температуру фильтруемости (CFPP) и общие характеристики в холодную погоду. По сравнению с полиненасыщенными жирными кислотами (ПНЖК) они значительно менее подвержены окислению и обеспечивают более высокое цетановое число (CN). Сырье, богатое МНЖК (например, высокоолеиновые масла), считается наиболее предпочтительным для производства высококачественного биодизеля.
 
-NUnsaturated = N неасыщенные жирные кислоты
+FAE_Sum_NUnsaturated = N неасыщенные жирные кислоты
     .markdown =
         # N неасыщенные жирные кислоты
 
@@ -596,7 +596,7 @@ NUnsaturated = N неасыщенные жирные кислоты
 
         Представляет собой сумму всех жирных кислот, содержащих ровно N двойных связей в своей углеводородной цепи.
 
-PolyUnsaturated = Полинеасыщенные жирные кислоты
+FAE_Sum_PolyUnsaturated = Полинеасыщенные жирные кислоты
     .markdown =
         # Полинеасыщенные жирные кислоты
 
@@ -627,7 +627,7 @@ PolyUnsaturated = Полинеасыщенные жирные кислоты
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         1. [Mozaffarian _et al._, 2010](https://doi.org/10.1371/journal.pmed.1000252 "Effects on Coronary Heart Disease of Increasing Polyunsaturated Fat in Place of Saturated Fat: A Systematic Review and Meta-Analysis of Randomized Controlled Trials")
 
-Saturated = Насыщенные жирные кислоты
+FAE_Sum_Saturated = Насыщенные жирные кислоты
     .markdown =
         # Насыщенные жирные кислоты
 
@@ -658,7 +658,7 @@ Saturated = Насыщенные жирные кислоты
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         1. [who.int, 2023](https://www.who.int/news/item/17-07-2023-who-updates-guidelines-on-fats-and-carbohydrates "WHO updates guidelines on fats and carbohydrates")
 
-Unsaturated = Неасыщенные жирные кислоты
+FAE_Sum_Unsaturated = Неасыщенные жирные кислоты
     .markdown =
         # Неасыщенные жирные кислоты
 
@@ -689,7 +689,7 @@ Unsaturated = Неасыщенные жирные кислоты
         1. [Mensink _et al._, 2003](https://doi.org/10.1093/ajcn/77.5.1146 "Effects of dietary fatty acids and carbohydrates on the ratio of serum total to HDL cholesterol and on serum lipids and apolipoproteins: a meta-analysis of 60 controlled trials")
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-Delta12 = Дельта 12 жирные кислоты
+FAE_Sum_Delta12 = Дельта 12 жирные кислоты
     .markdown =
         # Дельта 12 жирные кислоты
 
@@ -717,7 +717,7 @@ Delta12 = Дельта 12 жирные кислоты
         1. [Okuley _et al._, 1994](https://doi.org/10.1105/tpc.6.1.147 "Arabidopsis FAD2 gene encodes the enzyme that is essential for polyunsaturated lipid synthesis")
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-Delta9 = Дельта 9 жирные кислоты
+FAE_Sum_Delta9 = Дельта 9 жирные кислоты
     .markdown =
         # Дельта 9 жирные кислоты
 
@@ -745,7 +745,7 @@ Delta9 = Дельта 9 жирные кислоты
         1. [Ntambi _et al._, 2004](https://doi.org/10.1016/j.plipres.2003.10.001 "Role of stearoyl-CoA desaturase in lipid metabolism")
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-Omega-3 = Омега -3 жирные кислоты
+FAE_Sum_Omega-3 = Омега -3 жирные кислоты
     .markdown =
         # Омега -3 жирные кислоты
 
@@ -773,7 +773,7 @@ Omega-3 = Омега -3 жирные кислоты
         1. [Kris-Etherton _et al._, 2002](https://doi.org/10.1161/01.cir.0000038493.65177.94 "Fish Consumption, Fish Oil, Omega-3 Fatty Acids, and Cardiovascular Disease")
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-Omega-6 = Омега -6 жирные кислоты
+FAE_Sum_Omega-6 = Омега -6 жирные кислоты
     .markdown =
         # Омега -6 жирные кислоты
 
@@ -801,7 +801,7 @@ Omega-6 = Омега -6 жирные кислоты
         1. [Simopoulos _et al._, 2002](https://doi.org/10.1016/S0753-3322(02)00253-6 "The importance of the ratio of omega-6/omega-3 essential fatty acids")
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-Omega-9 = Омега -9 жирные кислоты
+FAE_Sum_Omega-9 = Омега -9 жирные кислоты
     .markdown =
         # Омега -9 жирные кислоты
 
@@ -829,7 +829,7 @@ Omega-9 = Омега -9 жирные кислоты
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         1. [Mohamed _et al._, 2022](https://doi.org/10.1186/s43141-022-00329-0 "Omega-9 fatty acids: potential roles in inflammation and cancer management")
 
-Trans = Транс жирные кислоты
+FAE_Sum_Trans = Транс жирные кислоты
     .markdown =
         # Транс жирные кислоты
 
@@ -868,7 +868,7 @@ Trans = Транс жирные кислоты
         - [Brogna _et al._, 2011](https://doi.org/10.1017/S1751731111000048 "Brogna (2011)")
         - [Ivanova _et al._, 2017](https://doi.org/10.11648/j.mc.20170506.11 "Ivanova (2017)")
 
-Conjugated = Сопряжённые жирные кислоты
+FAE_Sum_Conjugated = Сопряжённые жирные кислоты
     .markdown =
         # Сопряжённые жирные кислоты
 
@@ -900,7 +900,7 @@ Conjugated = Сопряжённые жирные кислоты
         1. [Bhattacharya _et al._, 2006](https://doi.org/10.1016/j.jnutbio.2006.02.009 "Biological effects of conjugated linoleic acids in health and disease")
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-Biodiesel_CetaneNumber = Cetane number
+FAE_Ratio_Biodiesel_CetaneNumber = Cetane number
     .markdown =
         # Cetane number
 
@@ -928,7 +928,7 @@ Biodiesel_CetaneNumber = Cetane number
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         1. [Wang _et al._, 2012](https://doi.org/10.1016/S1872-5813(12)60018-8 "Influence of fatty acid composition of woody biodiesel plants on the fuel properties")
 
-Biodiesel_ColdFilterPluggingPoint = Cold filter plugging point
+FAE_Ratio_Biodiesel_ColdFilterPluggingPoint = Cold filter plugging point
     .markdown =
         # Cold filter plugging point
 
@@ -951,7 +951,7 @@ Biodiesel_ColdFilterPluggingPoint = Cold filter plugging point
         1. [Dunn, 2019](https://doi.org/10.1021/acs.energyfuels.9b03311 "Correlating the Cold Filter Plugging Point to Concentration and Melting Properties of Fatty Acid Methyl Ester (Biodiesel) Admixtures")
         1. [Ramos _et al._, 2009](https://doi.org/10.1016/j.biortech.2008.06.039 "Influence of fatty acid composition of raw materials on biodiesel properties")
 
-Biodiesel_DegreeOfUnsaturation = Степень ненасыщенности
+FAE_Ratio_Biodiesel_DegreeOfUnsaturation = Степень ненасыщенности
     .markdown =
         # Степень ненасыщенности
 
@@ -969,7 +969,7 @@ Biodiesel_DegreeOfUnsaturation = Степень ненасыщенности
 
         1. [Wang _et al._, 2012](https://doi.org/10.1016/S1872-5813(12)60018-8 "Influence of fatty acid composition of woody biodiesel plants on the fuel properties")
 
-Biodiesel_IodineValue = Iodine value
+FAE_Ratio_Biodiesel_IodineValue = Iodine value
     .markdown =
         # Iodine value
 
@@ -994,7 +994,7 @@ Biodiesel_IodineValue = Iodine value
 
         1. [Wang _et al._, 2012](https://doi.org/10.1016/S1872-5813(12)60018-8 "Influence of fatty acid composition of woody biodiesel plants on the fuel properties")
 
-Biodiesel_LongChainSaturatedFactor = Коэффициент насыщенности длинноцепочечных жирных кислот
+FAE_Ratio_Biodiesel_LongChainSaturatedFactor = Коэффициент насыщенности длинноцепочечных жирных кислот
     .markdown =
         # Коэффициент насыщенности длинноцепочечных жирных кислот
 
@@ -1010,7 +1010,7 @@ Biodiesel_LongChainSaturatedFactor = Коэффициент насыщеннос
 
         1. [Ramos _et al._, 2009](https://doi.org/10.1016/j.biortech.2008.06.039 "Influence of fatty acid composition of raw materials on biodiesel properties")
 
-Biodiesel_OxidationStability = Oxidation stability
+FAE_Ratio_Biodiesel_OxidationStability = Oxidation stability
     .markdown =
         # Oxidation stability
 
@@ -1036,7 +1036,7 @@ Biodiesel_OxidationStability = Oxidation stability
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         1. [Wang _et al._, 2012](https://doi.org/10.1016/S1872-5813(12)60018-8 "Influence of fatty acid composition of woody biodiesel plants on the fuel properties")
 
-Metabolic_Delta9DesaturaseIndex = Индекс десатуразы дельта 9
+FAE_Ratio_Metabolic_Delta9DesaturaseIndex = Индекс десатуразы дельта 9
     .markdown =
         # Индекс десатуразы дельта 9
 
@@ -1066,7 +1066,7 @@ Metabolic_Delta9DesaturaseIndex = Индекс десатуразы дельта
         1. [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
         1. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-Metabolic_ElongaseIndex = Индекс элонгазы
+FAE_Ratio_Metabolic_ElongaseIndex = Индекс элонгазы
     .markdown =
         # Индекс элонгазы
 
@@ -1090,7 +1090,7 @@ Metabolic_ElongaseIndex = Индекс элонгазы
         - [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
         - [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-Metabolic_KineticActivityIndex = Индекс кинетической активности
+FAE_Ratio_Metabolic_KineticActivityIndex = Индекс кинетической активности
     .markdown =
         # Индекс кинетической активности
 
@@ -1118,7 +1118,7 @@ Metabolic_KineticActivityIndex = Индекс кинетической акти�
         1. [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
         1. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-Metabolic_ThioesteraseIndex = Индекс тиоэстеразы
+FAE_Ratio_Metabolic_ThioesteraseIndex = Индекс тиоэстеразы
     .markdown =
         # Индекс тиоэстеразы
 
@@ -1142,7 +1142,7 @@ Metabolic_ThioesteraseIndex = Индекс тиоэстеразы
         1. [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
         1. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-Nutritional_AtherogenicIndex = Атерогенный индекс
+FAE_Ratio_Nutritional_AtherogenicIndex = Атерогенный индекс
     .markdown =
         # Атерогенный индекс
 
@@ -1177,7 +1177,7 @@ Nutritional_AtherogenicIndex = Атерогенный индекс
         1. [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
         1. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-Nutritional_CholesterolIndex = Холестериновый индекс
+FAE_Ratio_Nutritional_CholesterolIndex = Холестериновый индекс
     .markdown =
         # Холестериновый индекс
 
@@ -1209,7 +1209,7 @@ Nutritional_CholesterolIndex = Холестериновый индекс
         1. [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
         1. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-Nutritional_FishLipidQuality = Качество рыбьего жира
+FAE_Ratio_Nutritional_FishLipidQuality = Качество рыбьего жира
     .markdown =
         # Качество рыбьего жира
 
@@ -1240,7 +1240,7 @@ Nutritional_FishLipidQuality = Качество рыбьего жира
         1. [Chen and Liu, 2020](https://doi.org/10.3390/ijms21165695 "Nutritional Indices for Assessing Fatty Acids: A Mini-Review")
         1. [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
 
-Nutritional_HealthPromotingIndex = Индекс укрепления здоровья
+FAE_Ratio_Nutritional_HealthPromotingIndex = Индекс укрепления здоровья
     .markdown =
         # Индекс укрепления здоровья
 
@@ -1274,7 +1274,7 @@ Nutritional_HealthPromotingIndex = Индекс укрепления здоро�
         1. [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
         1. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-Nutritional_LinoleicToAlphaLinolenic = Отношение линолевой жирной кислоты к α-линоленовой жирной кислоте
+FAE_Ratio_Nutritional_LinoleicToAlphaLinolenic = Отношение линолевой жирной кислоты к α-линоленовой жирной кислоте
     .markdown =
         # Отношение линолевой жирной кислоты к α-линоленовой жирной кислоте
 
@@ -1303,7 +1303,7 @@ Nutritional_LinoleicToAlphaLinolenic = Отношение линолевой ж�
         1. [Sharma _et al._, 2018](https://doi.org/10.1007/s13197-018-3360-2 "Comparative milk metabolite profiling for exploring superiority of indigenous Indian cow milk over exotic and crossbred counterparts")
         1. [Einerhand _et al._, 2023](https://doi.org/10.3390/nu15092187 "The Impact of Linoleic Acid on Infant Health in the Absence or Presence of DHA in Infant Formulas")
 
-Nutritional_NutritionalValueIndex = Индекс пищевой ценности
+FAE_Ratio_Nutritional_NutritionalValueIndex = Индекс пищевой ценности
     .markdown =
         # Индекс пищевой ценности
 
@@ -1327,7 +1327,7 @@ Nutritional_NutritionalValueIndex = Индекс пищевой ценности
         1. [Chen _et al._, 2016](https://doi.org/10.5713/ajas.15.0840 "Differences in Physicochemical and Nutritional Properties of Breast and Thigh Meat from Crossbred Chickens, Commercial Broilers, and Spent Hens")
         1. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-Nutritional_Omega-6PolyunsaturatedToOmega-3Polyunsaturated = Отношение  омега -6 полинеасыщенных жирных кислот к омега -3 полинеасыщенным жирным кислотам
+FAE_Ratio_Nutritional_Omega-6PolyunsaturatedToOmega-3Polyunsaturated = Отношение  омега -6 полинеасыщенных жирных кислот к омега -3 полинеасыщенным жирным кислотам
     .markdown =
         # Отношение  омега -6 полинеасыщенных жирных кислот к омега -3 полинеасыщенным жирным кислотам
 
@@ -1356,7 +1356,7 @@ Nutritional_Omega-6PolyunsaturatedToOmega-3Polyunsaturated = Отношение 
         1. [Gonzalez-Becerra _et al._, 2023](https://doi.org/10.3390/healthcare11162333 "A Balanced Dietary Ratio of n-6:n-3 Polyunsaturated Fatty Acids Exerts an Effect on Total Fatty Acid Profile in RBCs and Inflammatory Markers in Subjects with Obesity")
         1. [Yang _et al._, 2023](https://doi.org/10.3389/fnut.2023.1166702 "Effects of different n-6/n-3 polyunsaturated fatty acids ratios on lipid metabolism in patients with hyperlipidemia: a randomized controlled clinical trial")
 
-Nutritional_PolyunsaturatedToSaturated = Отношение полинеасыщенных жирных кислот к насыщенным жирным кислотам
+FAE_Ratio_Nutritional_PolyunsaturatedToSaturated = Отношение полинеасыщенных жирных кислот к насыщенным жирным кислотам
     .markdown =
         # Отношение полинеасыщенных жирных кислот к насыщенным жирным кислотам
 
@@ -1406,7 +1406,7 @@ Nutritional_PolyunsaturatedToSaturated = Отношение полинеасыщ
         - [Skałecki _et al._, 2020](https://doi.org/10.3390/ani10050778 "35")
         - [Winiarska-Mieczan _et al._, 2020](https://doi.org/10.1071/AN19305 "48")
 
-Nutritional_SaturationIndex = Индекс насыщенности
+FAE_Ratio_Nutritional_SaturationIndex = Индекс насыщенности
     .markdown =
         # Индекс насыщенности
 
@@ -1434,7 +1434,7 @@ Nutritional_SaturationIndex = Индекс насыщенности
         1. [Ulbricht _et al._, 1991](https://doi.org/10.1016/0140-6736(91)91846-M "Coronary heart disease: seven dietary factors")
         1. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-Nutritional_ThrombogenicIndex = Индекс тромбогенности
+FAE_Ratio_Nutritional_ThrombogenicIndex = Индекс тромбогенности
     .markdown =
         # Индекс тромбогенности
 
@@ -1465,7 +1465,7 @@ Nutritional_ThrombogenicIndex = Индекс тромбогенности
         1. [Chen _et al._, 2020](https://doi.org/10.3390/ijms21165695 "Nutritional Indices for Assessing Fatty Acids: A Mini-Review")
         1. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-Nutritional_UnsaturationIndex = Unsaturation index
+FAE_Ratio_Nutritional_UnsaturationIndex = Unsaturation index
     .markdown =
         # Unsaturation index
 
@@ -1499,7 +1499,7 @@ Nutritional_UnsaturationIndex = Unsaturation index
         - [Rodríguez, _et al._, 2018](http://doi.org/10.1017/S1751731117003706 "102")
         - [Dellatorre, _et al._, 2020](https://doi.org/10.1016/j.algal.2019.101726 "59")
 
-Triacylglycerols_EnrichmentFactor = Коэффициент обогащения
+FAE_Ratio_Triacylglycerols_EnrichmentFactor = Коэффициент обогащения
     .markdown =
         # Коэффициент обогащения
 
@@ -1525,7 +1525,7 @@ Triacylglycerols_EnrichmentFactor = Коэффициент обогащения
 
         - [Верещагин, 1972, стр. 176](https://doi.org/404.html "Биохимия триглицеридов")
 
-Triacylglycerols_SelectivityFactor = Коэффициент селективности
+FAE_Ratio_Triacylglycerols_SelectivityFactor = Коэффициент селективности
     .markdown =
         # Коэффициент селективности
 
