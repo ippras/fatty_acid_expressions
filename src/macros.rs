@@ -54,6 +54,7 @@ macro_rules! sources {
             const_format::formatcp!("{FAE}_{} = {}", sum::EPA_AND_DHA, markdown!($language, "Sum/EicosapentaenoicAndDocosahexaenoic.md")),
             // Ratio
             // Biodiesel
+            const_format::formatcp!("{FAE}_{BIODIESEL}_CetaneNumber = CetaneNumber1"),
             const_format::formatcp!("{FAE}_{BIODIESEL}_{} = {}", biodiesel::CN, markdown!($language, "Ratio/Biodiesel/CetaneNumber.md")),
             const_format::formatcp!("{FAE}_{BIODIESEL}_{} = {}", biodiesel::CFPP, markdown!($language, "Ratio/Biodiesel/ColdFilterPluggingPoint.md")),
             const_format::formatcp!("{FAE}_{BIODIESEL}_{} = {}", biodiesel::DU, markdown!($language, "Ratio/Biodiesel/DegreeOfUnsaturation.md")),
