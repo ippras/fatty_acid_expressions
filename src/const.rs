@@ -1,3 +1,5 @@
+use const_format::formatcp;
+
 pub const FAE: &str = "FAE";
 pub const PREFIX: &str = FAE;
 
@@ -30,13 +32,24 @@ pub mod sum {
 }
 
 pub mod ratio {
+    use super::*;
+
     pub mod biodiesel {
+        use super::*;
+
         pub const CFPP: &str = "ColdFilterPluggingPoint";
         pub const CN: &str = "CetaneNumber";
         pub const DU: &str = "DegreeOfUnsaturation";
         pub const IV: &str = "IodineValue";
         pub const LCSF: &str = "LongChainSaturatedFactor";
         pub const OS: &str = "OxidationStability";
+
+        pub const CETANE_NUMBER: &str = formatcp!("{FAE}_{BIODIESEL}_{CN}");
+        pub const COLD_FILTER_PLUGGING_POINT: &str = formatcp!("{FAE}_{BIODIESEL}_{CFPP}");
+        pub const DEGREE_OF_UNSATURATION: &str = formatcp!("{FAE}_{BIODIESEL}_{DU}");
+        pub const IODINE_VALUE: &str = formatcp!("{FAE}_{BIODIESEL}_{IV}");
+        pub const LONG_CHAIN_SATURATED_FACTOR: &str = formatcp!("{FAE}_{BIODIESEL}_{LCSF}");
+        pub const OXIDATION_STABILITY: &str = formatcp!("{FAE}_{BIODIESEL}_{OS}");
     }
 
     pub mod metabolic {
