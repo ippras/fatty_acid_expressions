@@ -61,7 +61,7 @@ pub mod ratio {
 
         pub const LA_TO_ALA: &str = "FAE_Ratio_Nutritional_LinoleicToAlphaLinolenic";
         pub const O6PUFA_TO_O3PUFA: &str =
-            "FAE_Nutritional_Omega-6PolyunsaturatedToOmega-3Polyunsaturated";
+            "FAE_Ratio_Nutritional_Omega-6PolyunsaturatedToOmega-3Polyunsaturated";
         pub const PUFA_TO_SFA: &str = "FAE_Ratio_Nutritional_PolyunsaturatedToSaturated";
     }
 }
