@@ -7,6 +7,11 @@ $$\frac{\ce{C{16:0}}}{\ce{C{14:0}}}$$
 ## Abbreviations
 
 - THI
+- TI
+
+## Synonyms
+
+- Thioesterase ratio
 
 ## Description
 

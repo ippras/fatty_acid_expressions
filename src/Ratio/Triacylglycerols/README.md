@@ -2,8 +2,8 @@
 
 The ratio between fatty acids in different stereospecific positions of triacylglycerides.
 
-- Enrichment factor
-- Selectivity factor
+- [Enrichment factor](EnrichmentFactor.md)
+- [Selectivity factor](SelectivityFactor.md)
 
 ---
 

@@ -8,6 +8,10 @@ $$\frac{C18:0}{C16:0}$$
 
 - EI
 
+## Synonyms
+
+- Elongase ratio
+
 ## Description
 
 Represents the elongase index, which is used to estimate the activity of elongase enzymes in tissues (such as muscle or egg yolk) using the product/substrate ratio approach. Specifically, it measures the elongation of palmitic acid ($\ce{C{16:0}}$) to stearic acid ($\ce{C{18:0}}$).
