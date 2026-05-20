@@ -1,6 +1,6 @@
 # Sum by unsaturated bounds
 
-- Sum by unsaturated bounds count
-- Sum by unsaturated bounds offset
-- Sum by double bounds parity
-- Sum by unsaturated bounds pattern
+- [Sum by unsaturated bounds count](ByCount/README.md)
+- [Sum by unsaturated bounds offset](ByOffset/README.md)
+- [Sum by double bounds parity](ByParity/README.md)
+- [Sum by unsaturated bounds pattern](ByPattern/README.md)
