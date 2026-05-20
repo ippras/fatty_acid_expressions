@@ -6,10 +6,10 @@ pub const RU: Language = language!("ru");
 pub const fn sources(language: Language) -> &'static [&'static str] {
     match language {
         #[cfg(feature = "en")]
-        EN => &[ftl!("en.ftl")],
+        EN => &[ftl!("en/generated.ftl"), ftl!("en/main.ftl")],
         #[cfg(feature = "ru")]
-        RU => &[ftl!("ru.ftl")],
-        _ => &[ftl!("en.ftl")],
+        RU => &[ftl!("ru/generated.ftl"), ftl!("ru/main.ftl")],
+        _ => &[ftl!("en/generated.ftl"), ftl!("en/main.ftl")],
     }
 }
 
