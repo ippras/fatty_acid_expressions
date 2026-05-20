@@ -1,21 +1,21 @@
 # Sum by unsaturated bounds count
 
-- Saturated fatty acids
+- Sum of saturated fatty acids
   - SFA
   - exactly 0 unsaturated bounds
-- Monounsaturated fatty acids
+- Sum of monounsaturated fatty acids
   - MUFA
   - exactly 1 unsaturated bounds
-- N unsaturated fatty acids
+- Sum of n unsaturated fatty acids
   - NUFA
   - exactly N unsaturated bounds
 
-- Fatty acids
+- Sum of fatty acids
   - FA
   - 0 or more unsaturated bounds
-- Unsaturated fatty acids
+- Sum of unsaturated fatty acids
   - UFA
   - 1 or more unsaturated bounds
-- Polyunsaturated fatty acids
+- Sum of polyunsaturated fatty acids
   - PUFA
   - 2 or more unsaturated bounds

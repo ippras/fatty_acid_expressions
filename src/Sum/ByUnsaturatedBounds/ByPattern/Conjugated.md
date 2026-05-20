@@ -1,15 +1,10 @@
-# Conjugated fatty acids
+# Sum of conjugated fatty acids
 
 $$\sum \ce{CFA}$$
 
 ## Abbreviations
 
 - CFA
-- CLA (for Conjugated Linoleic Acid)
-
-## Synonyms
-
-- Conjugated fats
 
 ## Description
 

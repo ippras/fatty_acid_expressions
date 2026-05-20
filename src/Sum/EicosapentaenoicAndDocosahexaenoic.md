@@ -1,4 +1,4 @@
-# Eicosapentaenoic and docosahexaenoic fatty acids
+# Sum of eicosapentaenoic and docosahexaenoic fatty acids
 
 $$\ce{C{20:5}(\omega-3)} + \ce{C{22:6}(\omega-3)}$$
 

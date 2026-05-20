@@ -1,4 +1,4 @@
-# Polyunsaturated fatty acids
+# Sum of polyunsaturated fatty acids
 
 $$\sum \ce{PUFA}$$
 
@@ -8,7 +8,7 @@ $$\sum \ce{PUFA}$$
 
 ## Synonyms
 
-- Polyunsaturated Fats, Polyenoic fatty acids
+- Polyenoic fatty acids
 
 ## Description
 

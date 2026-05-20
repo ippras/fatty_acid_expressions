@@ -1,4 +1,4 @@
 # Sum by unsaturated bounds pattern
 
-- Conjugated fatty acids
+- Sum of conjugated fatty acids
   - CFA

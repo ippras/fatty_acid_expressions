@@ -1,6 +1,6 @@
-# N unsaturated fatty acids
+# Sum of N unsaturated fatty acids
 
-$$\sum NUFA$$
+$$\sum \ce{NUFA}$$
 
 ## Abbreviations
 

@@ -1,4 +1,4 @@
-# Short chain fatty acids
+# Sum of short chain fatty acids
 
 $$\sum \ce{SCFA}$$
 

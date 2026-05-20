@@ -1,14 +1,10 @@
-# Long chain fatty acids
+# Sum of long chain fatty acids
 
 $$\sum \ce{LCFA}$$
 
 ## Abbreviations
 
 - LCFA
-
-## Synonyms
-
-- Long-chain fats, Long-chain triglycerides (LCT)
 
 ## Description
 

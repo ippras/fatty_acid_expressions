@@ -1,4 +1,4 @@
-# Trans fatty acids
+# Sum of trans fatty acids
 
 $$\sum \ce{TFA}$$
 
@@ -8,7 +8,7 @@ $$\sum \ce{TFA}$$
 
 ## Synonyms
 
-- Trans fats, Trans-unsaturated fatty acids
+- Trans-unsaturated fatty acids
 
 ## Description
 

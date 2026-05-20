@@ -1,4 +1,4 @@
 # Sum by double bounds parity
 
-- Trans fatty acids
+- Sum of trans fatty acids
   - TFA

@@ -1,14 +1,10 @@
-# Unsaturated fatty acids
+# Sum of unsaturated fatty acids
 
 $$\sum \ce{UFA}$$
 
 ## Abbreviations
 
 - UFA
-
-## Synonyms
-
-- Unsaturated Fats
 
 ## Description
 

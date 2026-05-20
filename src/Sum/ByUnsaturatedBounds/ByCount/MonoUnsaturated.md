@@ -1,4 +1,4 @@
-# Monounsaturated fatty acids
+# Sum of monounsaturated fatty acids
 
 $$\sum \ce{MUFA}$$
 
@@ -9,7 +9,7 @@ $$\sum \ce{MUFA}$$
 
 ## Synonyms
 
-- Monounsaturated Fats, Monoenoic fatty acids
+- Monoenoic fatty acids
 
 ## Description
 

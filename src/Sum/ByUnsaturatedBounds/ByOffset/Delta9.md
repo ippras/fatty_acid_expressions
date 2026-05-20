@@ -1,4 +1,4 @@
-# Delta 9 fatty acids
+# Sum of delta 9 fatty acids
 
 $$\sum \ce{UFA(\Delta{9})}$$
 

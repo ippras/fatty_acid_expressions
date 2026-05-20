@@ -1,4 +1,4 @@
-# Omega -6 fatty acids
+# Sum of omega -6 fatty acids
 
 $$\sum \ce{UFA(\omega-6)}$$
 

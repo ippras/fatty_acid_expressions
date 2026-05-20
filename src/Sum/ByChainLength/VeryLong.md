@@ -1,4 +1,4 @@
-# Very long chain fatty acids
+# Sum of very long chain fatty acids
 
 $$\sum \ce{VLCFA}$$
 

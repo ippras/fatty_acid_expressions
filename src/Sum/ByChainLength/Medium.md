@@ -1,14 +1,10 @@
-# Medium chain fatty acids
+# Sum of medium chain fatty acids
 
 $$\sum \ce{MCFA}$$
 
 ## Abbreviations
 
 - MCFA
-
-## Synonyms
-
-- Medium-chain fats, Medium-chain triglycerides (MCT)
 
 ## Description
 

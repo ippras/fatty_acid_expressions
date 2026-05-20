@@ -1,4 +1,4 @@
-# Omega -9 fatty acids
+# Sum of omega -9 fatty acids
 
 $$\sum \ce{UFA(\omega-9)}$$
 

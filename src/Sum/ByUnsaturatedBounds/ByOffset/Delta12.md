@@ -1,4 +1,4 @@
-# Delta 12 fatty acids
+# Sum of delta 12 fatty acids
 
 $$\sum \ce{UFA(\Delta{12})}$$
 

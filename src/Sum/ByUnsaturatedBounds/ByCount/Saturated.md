@@ -1,14 +1,10 @@
-# Saturated fatty acids
+# Sum of saturated fatty acids
 
 $$\sum \ce{SFA}$$
 
 ## Abbreviations
 
 - SFA
-
-## Synonyms
-
-- Saturated Fats
 
 ## Description
 
