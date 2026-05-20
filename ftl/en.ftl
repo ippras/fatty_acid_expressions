@@ -16,11 +16,11 @@ FAE_Primitive_c16 = Palmitic fatty acid
 
         Represents a 16-carbon saturated fatty acid. It is the most common saturated fatty acid found in animals, plants, and microorganisms, and is a major component of palm oil, meat, and dairy products.
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         In human nutrition, a high intake of palmitic acid is traditionally associated with elevated levels of low-density lipoprotein (LDL) cholesterol and an increased risk of cardiovascular diseases. However, its physiological impact can be influenced by the overall diet, the specific food matrix, and its position on the triglyceride molecule (sn-1, sn-2, or sn-3). Despite dietary concerns, it is a crucial structural component of cell membranes, secretory products, and lung surfactant.
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         In fuel applications, palmitic acid significantly improves the cetane number (CN) and provides excellent oxidation stability (OS), making the fuel highly resistant to degradation over time. Conversely, due to its high melting point (approx. 63°C), high levels of palmitic acid severely impair cold-weather performance by raising the cold filter plugging point (CFPP) and cloud point, leading to fuel gelling at low temperatures.
 
@@ -48,11 +48,11 @@ FAE_Primitive_c18 = Stearic fatty acid
 
         Represents an 18-carbon saturated fatty acid. It is highly abundant in animal fats (such as beef tallow and lard) and certain plant fats (like cocoa butter and shea butter).
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         Stearic acid is unique among long-chain saturated fatty acids because it generally has a neutral effect on blood cholesterol levels. Unlike palmitic or myristic acids, it does not significantly raise "bad" low-density lipoprotein (LDL) cholesterol. This is partly because the human body efficiently converts a significant portion of dietary stearic acid into oleic acid (a beneficial monounsaturated fat) via the desaturase enzyme.
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         In fuel applications, stearic acid provides an exceptionally high cetane number (CN) and outstanding oxidation stability (OS). However, due to its very high melting point (approx. 69°C), it is highly detrimental to cold-weather operability. Feedstocks with high stearic acid content (like animal tallows) produce biodiesel with a very high cold filter plugging point (CFPP) and cloud point, causing the fuel to gel and clog filters even at relatively warm temperatures.
 
@@ -79,11 +79,11 @@ FAE_Primitive_c18c9 = Oleic fatty acid
 
         Represents an 18-carbon monounsaturated fatty acid with one double bond at the 9th carbon from the methyl end. It is the most abundant fatty acid in nature and the primary component of olive oil, as well as high-oleic sunflower and canola oils.
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         Oleic acid is highly regarded for its health benefits and is a central component of the heart-healthy Mediterranean diet. It helps lower "bad" low-density lipoprotein (LDL) cholesterol while maintaining or increasing "good" high-density lipoprotein (HDL) cholesterol. It also exhibits anti-inflammatory properties, protects cells from oxidative stress, and improves insulin sensitivity.
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         Oleic acid is widely considered the ideal fatty acid for biodiesel production. It provides the perfect compromise between fuel stability and cold-weather operability. Its single double bond ensures good oxidation stability (OS) and a decent cetane number (CN) compared to polyunsaturated fats, while its bent _cis_ structure significantly lowers the melting point (approx. 13–16°C), improving the cold filter plugging point (CFPP) compared to saturated fats.
 
@@ -110,11 +110,11 @@ FAE_Primitive_c18c9c12 = Linoleic fatty acid
 
         Represents an 18-carbon polyunsaturated fatty acid with two double bonds. It is the most abundant polyunsaturated fatty acid in nature and the primary omega -6 fatty acid, found in high concentrations in many vegetable oils (e.g., sunflower, corn, soybean, and safflower oils).
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         Linoleic acid is an essential fatty acid, meaning the human body cannot synthesize it and it must be obtained through the diet. It is vital for maintaining cell membrane integrity, skin barrier function, and serves as a precursor to arachidonic acid, which is further converted into important signaling molecules (eicosanoids) involved in inflammation and immunity. While essential for survival, an excessive intake of linoleic acid relative to omega -3 fatty acids is debated to potentially promote a pro-inflammatory state.
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         In fuel applications, the presence of two double bonds in linoleic acid presents a trade-off. It significantly lowers the melting point (approx. -5°C), which greatly improves cold-weather operability by reducing the cold filter plugging point (CFPP). However, it makes the biodiesel highly susceptible to oxidation and degradation over time (poor oxidation stability, OS) and lowers the cetane number (CN), which negatively affects ignition quality compared to monounsaturated or saturated fats.
 
@@ -141,11 +141,11 @@ FAE_Primitive_c18c9c12c15 = α-Linolenic fatty acid
 
         Represents an 18-carbon polyunsaturated fatty acid with three double bonds. It is the primary plant-based omega -3 fatty acid, found abundantly in flaxseed (linseed), chia seeds, walnuts, and hemp seeds.
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         ALA is an essential fatty acid, meaning it cannot be synthesized by the human body and must be obtained through the diet. It serves as a precursor for the synthesis of longer-chain omega -3 like eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), although the conversion rate in humans is relatively low. It is associated with cardiovascular benefits, reduced inflammation, and improved endothelial function.
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         The presence of three double bonds makes ALA highly problematic for fuel stability. While it drastically lowers the melting point (approx. -11°C) and provides excellent cold-weather operability by reducing the cold filter plugging point (CFPP), it is extremely susceptible to rapid oxidation, polymerization, and gum formation (very poor oxidation stability, OS). It also significantly reduces the cetane number (CN). Feedstocks high in ALA (like linseed oil) are generally avoided or require heavy blending and antioxidant treatment for standard biodiesel use.
 
@@ -170,13 +170,13 @@ FAE_Primitive_c20 = Arachidic fatty acid
 
         ## Description
 
-        Represents a 20-carbon saturated fatty acid. It is a minor component of peanut oil (from which it derives its name, *Arachis hypogaea*) and is also found in small amounts in other vegetable oils and animal fats.
+        Represents a 20-carbon saturated fatty acid. It is a minor component of peanut oil (from which it derives its name, {"*"}Arachis hypogaea{"*"}) and is also found in small amounts in other vegetable oils and animal fats.
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         Arachidic acid belongs to the group of very-long-chain saturated fatty acids (VLSFAs). Unlike shorter-chain saturated fats (such as palmitic acid), recent epidemiological studies suggest that higher circulating levels of VLSFAs, including arachidic acid, are inversely associated with the risk of cardiovascular diseases, type 2 diabetes, and overall mortality. They appear to have a protective effect on metabolic health and healthy aging, though they are consumed in very small amounts in a typical diet.
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         In fuel applications, arachidic acid provides an extremely high cetane number (CN) and exceptional oxidation stability (OS). However, its very high melting point (approx. 75°C) makes it highly detrimental to cold-weather operability. Even small concentrations of arachidic acid in biodiesel feedstocks can significantly raise the cold filter plugging point (CFPP) and cloud point, leading to severe fuel gelling and filter clogging at ambient or low temperatures.
 
@@ -203,11 +203,11 @@ FAE_Primitive_c20c5c8c11c14c17 = Eicosapentaenoic fatty acid
 
         Represents a 20-carbon polyunsaturated fatty acid with five double bonds. It is a primary marine-derived omega -3 fatty acid, found abundantly in cold-water fatty fish (like salmon, mackerel, and sardines) and microalgae.
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         EPA is highly prized for its profound health benefits. It is a critical anti-inflammatory agent, serving as a precursor to beneficial eicosanoids (such as series-3 prostaglandins and thromboxanes). It is widely recognized for its cardiovascular benefits, including significantly lowering blood triglyceride levels, reducing arterial plaque buildup, and decreasing the risk of cardiovascular events. It also plays a vital role in mental health and reducing symptoms of depression.
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         Due to its extreme degree of polyunsaturation (five double bonds), EPA is highly problematic for biodiesel production. While its extremely low melting point (approx. -54°C) provides exceptional cold-weather operability by drastically lowering the cold filter plugging point (CFPP), it is incredibly susceptible to rapid oxidation, degradation, and polymerization (extremely poor oxidation stability, OS). Furthermore, it severely depresses the cetane number (CN), leading to poor ignition quality. Feedstocks rich in EPA (like fish oil or algae oil) require extensive processing, blending, or heavy antioxidant treatments to be viable as standard biodiesel.
 
@@ -233,13 +233,13 @@ FAE_Primitive_c22 = Behenic fatty acid
 
         ## Description
 
-        Represents a 22-carbon saturated fatty acid. It is a major component of Ben oil (or behen oil, extracted from the seeds of the *Moringa oleifera* tree) and is also found in small amounts in peanut oil and rapeseed (canola) oil.
+        Represents a 22-carbon saturated fatty acid. It is a major component of Ben oil (or behen oil, extracted from the seeds of the {"*"}Moringa oleifera{"*"} tree) and is also found in small amounts in peanut oil and rapeseed (canola) oil.
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         Behenic acid belongs to the group of very-long-chain saturated fatty acids (VLSFAs). In the human diet, it is poorly absorbed in the intestines compared to shorter-chain saturated fats like palmitic acid, meaning it has a much lower potential to raise blood cholesterol levels. Furthermore, recent epidemiological studies suggest that higher circulating levels of VLSFAs are associated with favorable metabolic profiles, including a reduced risk of incident heart failure, cardiovascular diseases, and type 2 diabetes.
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         In fuel applications, behenic acid provides an exceptionally high cetane number (CN) and outstanding oxidation stability (OS). However, due to its extremely high melting point (approx. 80°C), it is highly problematic for cold-weather operability. Even trace amounts of behenic acid in biodiesel feedstocks can drastically raise the cold filter plugging point (CFPP) and cloud point, causing severe fuel gelling and filter clogging at ambient temperatures.
 
@@ -266,11 +266,11 @@ FAE_Primitive_c22c13 = Erucic fatty acid
 
         Represents a 22-carbon monounsaturated fatty acid with one double bond. It is naturally found in high concentrations in the seeds of the Brassicaceae family, particularly in traditional rapeseed and mustard seed.
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         In human and animal nutrition, high intake of erucic acid is highly undesirable. Animal studies have shown that excessive consumption can lead to myocardial lipidosis (accumulation of lipids in the heart muscle) and heart lesions. Due to these health concerns, traditional rapeseed was selectively bred to create "canola" (Canadian oil, low acid), which contains very low, safe levels of erucic acid. Food safety authorities strictly regulate its maximum limits in edible oils.
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         In fuel applications, erucic acid presents a mixed profile. Its monounsaturated nature provides good oxidation stability (OS) and a high cetane number (CN). However, due to its very long hydrocarbon chain, it has a relatively high melting point for an unsaturated fat (approx. 33–34°C). Consequently, feedstocks with high erucic acid content (like traditional rapeseed or mustard oil) yield biodiesel with poorer cold flow properties (higher cold filter plugging point, CFPP, and cloud point) compared to those rich in oleic acid, though still better than long-chain saturated fats.
 
@@ -297,11 +297,11 @@ FAE_Primitive_c22c4c7c10c13c16c19 = Docosahexaenoic fatty acid
 
         Represents a 22-carbon polyunsaturated fatty acid with six double bonds. It is a primary marine-derived omega -3 fatty acid, found abundantly in cold-water fatty fish, krill, and specific microalgae.
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         DHA is essential for the growth and functional development of the brain in infants and is required for the maintenance of normal brain function in adults. It is a major structural component of the human brain, cerebral cortex, skin, and retina (making it crucial for eye health). Like EPA, it offers significant cardiovascular benefits, including lowering blood triglycerides, reducing inflammation, and supporting overall heart health.
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         With six double bonds, DHA represents the extreme end of polyunsaturation, making it highly unsuitable for standard biodiesel production. While it has a very low melting point (approx. -44°C) that theoretically improves cold-weather operability by lowering the cold filter plugging point (CFPP), its extreme susceptibility to rapid oxidation, polymerization, and degradation results in abysmal oxidation stability (OS). It also drastically lowers the cetane number (CN), resulting in poor ignition quality. Algal or fish oils high in DHA must be heavily blended or hydrogenated to be viable as fuel.
 
@@ -328,11 +328,11 @@ FAE_Primitive_c24 = Lignoceric fatty acid
 
         Represents a 24-carbon saturated fatty acid. It is a very-long-chain saturated fatty acid (VLSFA) found naturally in wood tar, various cerebrosides, and in small amounts in most natural fats, including peanut oil.
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         Lignoceric acid is a vital component of sphingolipids, which are essential for the formation and maintenance of the myelin sheath (the protective coating around nerve fibers) in the nervous system. While it is synthesized endogenously, dietary VLSFAs are poorly absorbed in the gut. In the general population, higher circulating levels of VLSFAs (including lignoceric acid) are associated with favorable metabolic health and a lower risk of cardiovascular disease and type 2 diabetes. However, an inability to metabolize these very-long-chain fatty acids due to genetic peroxisomal disorders (such as X-linked adrenoleukodystrophy, ALD) leads to their harmful accumulation in the brain and adrenal glands.
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         In fuel applications, lignoceric acid provides an exceptionally high cetane number (CN) and outstanding oxidation stability (OS). However, due to its extremely high melting point (approx. 84°C), it is highly detrimental to cold-weather operability. Even trace amounts of lignoceric acid in biodiesel feedstocks will drastically raise the cold filter plugging point (CFPP) and cloud point, causing severe fuel gelling and filter clogging at ambient temperatures.
 
@@ -357,13 +357,13 @@ FAE_Primitive_c24c15 = Nervonic fatty acid
 
         ## Description
 
-        Represents a 24-carbon monounsaturated fatty acid with one double bond. It is a very-long-chain fatty acid (VLCFA) belonging to the omega -9 family. It is found in nature in certain seed oils (like *Acer truncatum* and *Lunaria annua*), marine oils, and human breast milk.
+        Represents a 24-carbon monounsaturated fatty acid with one double bond. It is a very-long-chain fatty acid (VLCFA) belonging to the omega -9 family. It is found in nature in certain seed oils (like {"*"}Acer truncatum{"*"} and {"*"}Lunaria annua{"*"}), marine oils, and human breast milk.
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         Nervonic acid is essential for the growth, development, and maintenance of the brain and peripheral nervous system. It is a core component of sphingolipids, which make up the myelin sheath—the protective layer surrounding nerve fibers. Dietary supplementation of nervonic acid is being actively researched for its potential to treat or prevent demyelinating and neurodegenerative disorders, such as multiple sclerosis (MS), Parkinson's disease, and age-related cognitive decline.
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         In fuel applications, nervonic acid's very long hydrocarbon chain dominates its physical properties. While its monounsaturated nature provides excellent oxidation stability (OS) and a high cetane number (CN), its high melting point (approx. 42–43°C) makes it highly detrimental to cold-weather operability. Feedstocks containing significant amounts of nervonic acid will drastically raise the cold filter plugging point (CFPP) and cloud point, leading to fuel gelling at ambient temperatures.
 
@@ -412,7 +412,7 @@ FAE_Ratio_Biodiesel_CetaneNumber = Cetane number
 
         The cetane number (CN) is the ability of fuel to ignite quickly after being injected and a higher value indicates better ignition quality of fuel. This is one of the most important parameters considered during the selection of methyl esters for use as biodiesel. An adequate CN is required for good engine performance. High CN help ensure good cold start properties and minimize the formation of white smoke.
 
-        **Biodiesel standards**:
+        {"*"}{"*"}Biodiesel standards{"*"}{"*"}:
 
         | Biodiesel standard         | Limit   |
         | -------------------------- | ------- |
@@ -440,7 +440,7 @@ FAE_Ratio_Biodiesel_ColdFilterPluggingPoint = Cold filter plugging point
 
         One important parameter for low temperature applications of a fuel is the cold filter plugging point (CFPP). The CFPP is the temperature at which a fuel jams a filter due to the formation of agglomerates crystals.
 
-        **Biodiesel standards**:
+        {"*"}{"*"}Biodiesel standards{"*"}{"*"}:
 
         The EN 14214-2005 standard does not mention a low-temperature parameter in its specification lists. However, each country using EN 14214 can specify certain temperature limits for different times of a year depending on climate conditions.
 
@@ -481,7 +481,7 @@ FAE_Ratio_Biodiesel_IodineValue = Iodine value
 
         The iodine value is an index of numbers of double bonds in biodiesel, and therefore is a parameter that quantifies the degree of unsaturation (DU) of biodiesel.
 
-        **Biodiesel standards**:
+        {"*"}{"*"}Biodiesel standards{"*"}{"*"}:
 
         | Biodiesel standard         | Limit    |
         | -------------------------- | -------- |
@@ -520,7 +520,7 @@ FAE_Ratio_Biodiesel_OxidationStability = Oxidation stability
 
         ## Description
 
-        **Biodiesel standards**:
+        {"*"}{"*"}Biodiesel standards{"*"}{"*"}:
 
         | Biodiesel standard         | Limit    |
         | -------------------------- | -------- |
@@ -612,7 +612,7 @@ FAE_Ratio_Metabolic_KineticActivityIndex = Kinetic activity index
 
         Represents the activity index (also referred to as the kinetic activity index, KAI), which is based on the indirect evaluation of $\beta$-oxidation activity in muscles to estimate energy expenditure. It is calculated as the ratio of total omega-3 polyunsaturated fatty acids ($\sum PUFA(\omega-3)$) to $\alpha$-linolenic acid (ALA, $C18:3(\omega-3)$).
 
-        This index is a metabolic indicator that describes the mobilization of n-3 long-chain PUFAs used for energy production (i.e., movement) and the resulting oxidative status. The ratio serves as an indicator of energy consumption ($\beta$-oxidation) and is typically higher in oxidative muscles than in glycolytic ones, reflecting higher kinetic activity in animals. Researchers use this index as an objective tool to measure the adaptability of a genetic line to extensive rearing systems (e.g., outdoor runs), because it accounts for the physical activity exerted during the animal's life and can be used for *ex post* animal welfare assessment.
+        This index is a metabolic indicator that describes the mobilization of n-3 long-chain PUFAs used for energy production (i.e., movement) and the resulting oxidative status. The ratio serves as an indicator of energy consumption ($\beta$-oxidation) and is typically higher in oxidative muscles than in glycolytic ones, reflecting higher kinetic activity in animals. Researchers use this index as an objective tool to measure the adaptability of a genetic line to extensive rearing systems (e.g., outdoor runs), because it accounts for the physical activity exerted during the animal's life and can be used for {"*"}ex post{"*"} animal welfare assessment.
 
         ## References
 
@@ -706,7 +706,7 @@ FAE_Ratio_Nutritional_CholesterolIndex = Cholesterol index
 
         Represents the hypocholesterolemic/hypercholesterolemic index, which evaluates the specific effect of fatty acids on cholesterol metabolism. It calculates the ratio of hypocholesterolemic fatty acids (which help lower blood cholesterol, such as oleic acid and polyunsaturated fatty acids) to hypercholesterolemic fatty acids (which raise blood cholesterol, such as lauric $\ce{"{"}C{"{"}12:0{"}"}{"}"}$, myristic $\ce{"{"}C{"{"}14:0{"}"}{"}"}$, and palmitic $\ce{"{"}C{"{"}16:0{"}"}{"}"}$ acids).
 
-        From a nutritional point of view, **high** HHI values are highly desirable. Unlike the atherogenic (AI) and thrombogenic (TI) indices where lower values are better, a higher HHI indicates a healthier lipid profile with a greater proportion of beneficial fatty acids that contribute to the reduction of plasma cholesterol levels. It is considered a highly suitable metric for assessing the health benefits of lipids in food products and their protective role against cardiovascular diseases.
+        From a nutritional point of view, {"*"}{"*"}high{"*"}{"*"} HHI values are highly desirable. Unlike the atherogenic (AI) and thrombogenic (TI) indices where lower values are better, a higher HHI indicates a healthier lipid profile with a greater proportion of beneficial fatty acids that contribute to the reduction of plasma cholesterol levels. It is considered a highly suitable metric for assessing the health benefits of lipids in food products and their protective role against cardiovascular diseases.
 
         ## References
 
@@ -797,7 +797,7 @@ FAE_Ratio_Nutritional_LinoleicToAlphaLinolenic = Linoleic fatty acid to α-Linol
 
         Used for guiding infant formula development.
 
-        **Limits**:
+        {"*"}{"*"}Limits{"*"}{"*"}:
 
         - below 4:1 is not recommended [[1]](#references)
         - from 5:1 to 15:1 [[5]](#references)
@@ -848,11 +848,11 @@ FAE_Ratio_Nutritional_Omega-6PolyunsaturatedToOmega-3Polyunsaturated = Omega -6 
 
         Indicates the balance between these two types of essential polyunsaturated fatty acids in the body.
 
-        * *Inflammatory Balance*: Omega -6 and omega -3 fatty acids are precursors to molecules that regulate inflammation. While omega -6 fatty acids are generally pro-inflammatory, omega -3 fatty acids have anti-inflammatory effects. An imbalance with a high proportion of omega -6 to omega -3 can lead to chronic low-grade inflammation, which is associated with various chronic diseases.
-        * *Risk of Chronic Diseases*: A high n-6/n-3 ratio is linked to an increased risk of cardiovascular disease, obesity, and other inflammatory conditions. Conversely, a lower, more balanced ratio is considered beneficial for preventing these health issues.
-        * *Cellular Health*: Both omega -6 and omega -3 fatty acids are crucial components of cell membranes and are necessary for regulating blood pressure and other bodily functions. The balance between them is vital for optimal cellular function.
+        {"*"} {"*"}Inflammatory Balance{"*"}: Omega -6 and omega -3 fatty acids are precursors to molecules that regulate inflammation. While omega -6 fatty acids are generally pro-inflammatory, omega -3 fatty acids have anti-inflammatory effects. An imbalance with a high proportion of omega -6 to omega -3 can lead to chronic low-grade inflammation, which is associated with various chronic diseases.
+        {"*"} {"*"}Risk of Chronic Diseases{"*"}: A high n-6/n-3 ratio is linked to an increased risk of cardiovascular disease, obesity, and other inflammatory conditions. Conversely, a lower, more balanced ratio is considered beneficial for preventing these health issues.
+        {"*"} {"*"}Cellular Health{"*"}: Both omega -6 and omega -3 fatty acids are crucial components of cell membranes and are necessary for regulating blood pressure and other bodily functions. The balance between them is vital for optimal cellular function.
 
-        **Limits**:
+        {"*"}{"*"}Limits{"*"}{"*"}:
 
         - from 1:1 to 5:1 [[3]](#references)
 
@@ -1022,7 +1022,7 @@ FAE_Ratio_Triacylglycerols_EnrichmentFactor = Enrichment factor
 
         The enrichment factor (EF) measures how much a specific fatty acid is enriched at the sn-2 position of a triacylglycerol (TAG) compared to its overall concentration. A higher factor reveals a greater competitive advantage for a particular fatty acid for that position.
 
-        **Interpretation**:
+        {"*"}{"*"}Interpretation{"*"}{"*"}:
 
         - `0..1` indicates a preference for sn-1 and sn-3 positions;
         - `1` indicates no preference for sn positions;
@@ -1050,7 +1050,7 @@ FAE_Ratio_Triacylglycerols_SelectivityFactor = Selectivity factor
 
         It provides a comparative measure of how strongly a specific fatty acid competes for the sn-2 position relative to other fatty acids that show a preference for it.
 
-        **Interpretation**:
+        {"*"}{"*"}Interpretation{"*"}{"*"}:
 
         - `0..1` indicates a preference for sn-1 and sn-3 positions;
         - `1` indicates no preference for sn positions;
@@ -1074,11 +1074,11 @@ FAE_Sum_Long = Sum of long chain fatty acids
 
         Represents a broad group of fatty acids with aliphatic tails of 13 to 21 carbon atoms. This group encompasses the vast majority of naturally occurring fatty acids in human diets and commercial oils, including saturated (e.g., myristic C14:0, palmitic C16:0, stearic C18:0) and unsaturated forms (e.g., oleic C18:1, linoleic C18:2).
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         In human nutrition, LCFAs are the primary source of dietary fat. Unlike short- and medium-chain fatty acids, LCFAs require bile salts for digestion and are absorbed via the lymphatic system, packaged into chylomicrons before entering the bloodstream. Their health impacts vary drastically depending on their degree of unsaturation: saturated LCFAs are often linked to increased cardiovascular risk, while monounsaturated and polyunsaturated LCFAs are generally considered heart-healthy. They are essential for energy storage, hormone production, and forming the lipid bilayer of cell membranes.
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         In fuel applications, LCFAs are the standard building blocks of conventional biodiesel, as they make up the bulk of common feedstocks like soybean, rapeseed, palm, and animal tallows. Their specific properties depend heavily on the degree of unsaturation. Generally, LCFAs provide the ideal energy density (heating value) and kinematic viscosity required for diesel engines. Saturated LCFAs offer a high cetane number (CN) and oxidation stability (OS) but poor cold flow properties, whereas unsaturated LCFAs improve cold-weather operability at the cost of oxidative stability.
 
@@ -1101,11 +1101,11 @@ FAE_Sum_Medium = Sum of medium chain fatty acids
 
         Represents a sub-group of fatty acids with aliphatic tails of 6 to 12 carbon atoms (e.g., caproic acid $\ce{"{"}C{"{"}6:0{"}"}{"}"}$, caprylic acid $\ce{"{"}C{"{"}8:0{"}"}{"}"}$, capric acid $\ce{"{"}C{"{"}10:0{"}"}{"}"}$, lauric acid $\ce{"{"}C{"{"}12:0{"}"}{"}"}$).
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         In human nutrition, MCFAs are metabolized differently than long-chain fatty acids. Instead of being transported through the lymphatic system, they are absorbed directly into the portal vein and sent to the liver, where they are rapidly oxidized for immediate energy or converted into ketone bodies. They are widely studied for their health benefits, which include promoting weight management (by increasing energy expenditure and satiety), improving cognitive function in neurodegenerative conditions (such as Alzheimer's disease), and exhibiting potent antimicrobial and antiviral properties (particularly lauric acid and its derivatives).
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         In fuel applications, MCFAs offer a unique compromise of properties. Because they are typically saturated, they provide excellent oxidation stability (OS). Unlike long-chain saturated fats, their shorter carbon chains result in significantly lower melting points, which greatly improves cold-weather operability by lowering the cold filter plugging point (CFPP) and cloud point. However, MCFAs have a lower energy density (heating value) and a lower cetane number (CN) compared to longer-chain fatty acids. While largely absent in traditional feedstocks like soybean or rapeseed oil, oils rich in MCFAs (such as coconut and palm kernel oil) are highly valued for blending to improve the cold flow properties of biodiesel.
 
@@ -1134,11 +1134,11 @@ FAE_Sum_Short = Sum of short chain fatty acids
 
         Represents a sub-group of fatty acids with aliphatic tails of fewer than six carbon atoms (e.g., acetic acid $\ce{"{"}C{"{"}2:0{"}"}{"}"}$, propionic acid $\ce{"{"}C{"{"}3:0{"}"}{"}"}$, butyric acid $\ce{"{"}C{"{"}4:0{"}"}{"}"}$).
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         In human nutrition, SCFAs are primarily produced in the lower gut by anaerobic bacterial fermentation of indigestible dietary fibers and resistant starch. They are crucial for gut health; for instance, butyrate is the primary energy source for colonocytes (colon cells). SCFAs exhibit potent anti-inflammatory properties, help maintain the intestinal barrier, regulate immune function, and play a significant role in the gut-brain axis and metabolic health (improving insulin sensitivity and regulating appetite).
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         In fuel applications, SCFAs are generally not used for standard biodiesel production. Their corresponding methyl esters are highly volatile, which drastically lowers the flash point of the fuel, creating safety, transport, and storage hazards. They also have a lower energy density compared to long-chain fatty acids. While they would theoretically offer excellent cold flow properties (very low melting points), their volatility and low molecular weight make them unsuitable for conventional diesel engines.
 
@@ -1161,11 +1161,11 @@ FAE_Sum_VeryLong = Sum of very long chain fatty acids
 
         Represents a sub-group of fatty acids with aliphatic tails of 22 or more carbon atoms (e.g., behenic acid $\ce{"{"}C{"{"}22:0{"}"}{"}"}$, lignoceric acid $\ce{"{"}C{"{"}24:0{"}"}{"}"}$, erucic acid $\ce{"{"}C{"{"}22:1{"}"}{"}"}$, docosahexaenoic acid $\ce{"{"}C{"{"}22:6{"}"}{"}"}$).
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         In human nutrition, VLCFAs are consumed in relatively small amounts compared to standard long-chain fatty acids. They are biologically unique because their carbon chains are too long to be metabolized directly by mitochondria; instead, they must first undergo initial beta-oxidation in cellular organelles called peroxisomes. While they are essential for the formation of sphingolipids and the myelin sheath in the nervous system, the inability to metabolize them due to genetic peroxisomal disorders (such as X-linked adrenoleukodystrophy) leads to their toxic accumulation in the brain and adrenal glands. Conversely, in healthy populations, higher circulating levels of naturally occurring saturated VLCFAs are associated with favorable metabolic health and a reduced risk of cardiovascular disease and type 2 diabetes.
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         In fuel applications, the presence of VLCFAs significantly increases the kinematic viscosity and boiling point of the biodiesel, which can negatively impact fuel atomization and combustion efficiency in the engine. Saturated VLCFAs (like behenic and lignoceric acids) have extremely high melting points, meaning even trace amounts can drastically raise the cold filter plugging point (CFPP) and cloud point, causing severe fuel gelling and filter clogging at ambient temperatures. While unsaturated VLCFAs (like erucic acid) have lower melting points, feedstocks rich in VLCFAs (such as traditional rapeseed, mustard, or high-erucic oils) generally produce biodiesel with poorer cold flow properties and higher viscosity compared to feedstocks dominated by standard 18-carbon fatty acids.
 
@@ -1194,11 +1194,11 @@ FAE_Sum_MonoUnsaturated = Sum of monounsaturated fatty acids
 
         Represents the sum of all fatty acids that contain exactly one double bond in their hydrocarbon chain (e.g., oleic acid C18:1, palmitoleic acid C16:1).
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         In human nutrition, MUFAs are widely recognized as healthy dietary fats. Replacing saturated fats with MUFAs helps lower low-density lipoprotein (LDL) cholesterol levels while maintaining or even increasing high-density lipoprotein (HDL) cholesterol, thereby reducing the risk of cardiovascular diseases. They also play a role in improving insulin sensitivity and reducing systemic inflammation.
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         In fuel applications, MUFAs provide an optimal balance between cold flow properties and oxidation stability. Compared to saturated fatty acids, they have lower melting points, which improves the cold filter plugging point (CFPP) and overall cold-weather performance. Compared to polyunsaturated fatty acids (PUFA), they are significantly less prone to oxidation and offer a better cetane number (CN). Feedstocks rich in MUFA (such as high-oleic oils) are considered highly desirable for high-quality biodiesel production.
 
@@ -1268,11 +1268,11 @@ FAE_Sum_PolyUnsaturated = Sum of polyunsaturated fatty acids
 
         Represents the sum of all fatty acids that contain two or more double bonds in their hydrocarbon chain (e.g., linoleic acid C18:2, α-linolenic acid C18:3, EPA, DHA).
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         In human nutrition, PUFAs are essential fats, meaning the body cannot synthesize them and they must be obtained through diet (primarily omega -3 and omega -6). They are crucial for brain function, cell membrane integrity, and regulating inflammation. Replacing saturated fats with PUFAs is strongly associated with a reduced risk of coronary heart disease. However, maintaining a healthy balance between omega -6 and omega -3 intake is important for optimal health.
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         In fuel applications, a high PUFA content is generally undesirable for fuel stability. The multiple double bonds are highly reactive, making the biodiesel highly susceptible to oxidation, degradation, and polymerization (poor oxidation stability, OS). They also lower the cetane number (CN), which decreases ignition quality. On the positive side, PUFAs have very low melting points, which significantly improves cold-weather performance by lowering the cold filter plugging point (CFPP).
 
@@ -1295,11 +1295,11 @@ FAE_Sum_Saturated = Sum of saturated fatty acids
 
         Represents the sum of all fatty acids that have no double bonds between the carbon molecules in their hydrocarbon chain (e.g., lauric C12:0, myristic C14:0, palmitic C16:0, stearic C18:0).
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         In human nutrition, a high intake of certain saturated fatty acids (particularly myristic and palmitic acids) is widely associated with increased levels of low-density lipoprotein (LDL) cholesterol and a higher risk of cardiovascular diseases. However, not all SFAs behave the same (e.g., stearic acid is considered to have a neutral effect on blood cholesterol).
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         In fuel applications, a higher proportion of saturated fatty acids significantly improves the cetane number (CN) and oxidation stability (OS). However, it negatively impacts cold flow properties, increasing the cold filter plugging point (CFPP) and causing the fuel to gel at higher temperatures.
 
@@ -1322,11 +1322,11 @@ FAE_Sum_Unsaturated = Sum of unsaturated fatty acids
 
         Represents the sum of all fatty acids that contain at least one double bond in their hydrocarbon chain (the sum of monounsaturated and polyunsaturated fatty acids).
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         In human nutrition, unsaturated fats are generally considered beneficial for heart health. Replacing saturated fats with unsaturated fats in the diet helps lower total cholesterol and low-density lipoprotein (LDL) cholesterol levels, thereby reducing the risk of cardiovascular diseases.
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         In fuel applications, a higher proportion of unsaturated fatty acids significantly improves cold flow properties, lowering the cold filter plugging point (CFPP) and preventing the fuel from gelling at low temperatures. However, the presence of double bonds makes the fuel more susceptible to oxidation (lower oxidation stability, OS) and generally reduces the cetane number (CN), which affects ignition quality. The overall impact depends on the specific degree of unsaturation (DU).
 
@@ -1350,11 +1350,11 @@ FAE_Sum_Delta12 = Sum of delta 12 fatty acids
 
         Represents unsaturated fatty acids that contain a double bond at the 12th carbon from the carboxyl end. The most prominent and abundant example in nature is linoleic acid ($C18:2(\Delta9,12)$), which is also the primary omega -6 fatty acid.
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         Mammals, including humans, lack the $\Delta12$-desaturase enzyme required to insert a double bond at this specific position. As a result, delta 12 fatty acids like linoleic acid are strictly essential and must be obtained through the diet (primarily from plant oils). They are critical for maintaining cell membrane fluidity, skin barrier function, and serving as precursors for biologically active signaling molecules (eicosanoids).
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         Because delta 12 fatty acids in nature are almost exclusively polyunsaturated (typically dienes or trienes, as the delta 12 bond usually follows a delta 9 bond), their presence in biodiesel feedstocks presents a trade-off. They significantly improve cold flow properties by lowering the cold filter plugging point (CFPP). However, their multiple double bonds make the fuel highly susceptible to oxidation (poor oxidation stability, OS) and reduce the cetane number (CN), which negatively impacts ignition quality.
 
@@ -1378,11 +1378,11 @@ FAE_Sum_Delta9 = Sum of delta 9 fatty acids
 
         Represents a broad class of unsaturated fatty acids that contain a double bond at the 9th carbon from the carboxyl end. This is the most common position for a double bond in nature, introduced by the $\Delta9$-desaturase enzyme (SCD1). The most prominent member is oleic acid ($C18:1(\Delta9)$), but the class also includes palmitoleic acid ($C16:1(\Delta9)$) and others.
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         Delta 9 monounsaturated fatty acids are widely recognized for their cardiovascular benefits. They help lower LDL cholesterol, improve insulin sensitivity, and reduce inflammation. Because the human body can synthesize delta 9 double bonds, these are not considered essential fatty acids, but they are highly beneficial when replacing saturated fats in the diet.
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         Feedstocks rich in delta 9 monounsaturated fatty acids (such as high-oleic sunflower or canola oil) are considered the gold standard for biodiesel production. They provide the optimal balance between excellent cold-weather operability (low CFPP) and high oxidation stability (OS), while maintaining a good cetane number (CN).
 
@@ -1406,11 +1406,11 @@ FAE_Sum_Omega-3 = Sum of omega -3 fatty acids
 
         Represents a family of polyunsaturated fatty acids characterized by the presence of a double bond three atoms away from the terminal methyl group in their chemical structure. Key omega -3 fatty acids include alpha-linolenic acid (ALA, C18:3), eicosapentaenoic acid (EPA, C20:5), and docosahexaenoic acid (DHA, C22:6).
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         Omega -3 fatty acids are essential fats that the body cannot produce on its own (specifically ALA, from which EPA and DHA are synthesized in limited amounts). They are highly renowned for their anti-inflammatory properties and cardiovascular benefits, including lowering blood triglycerides, reducing blood pressure, and decreasing the risk of arrhythmias and plaque buildup in arteries. They are also critical for brain health, cognitive function, and fetal development.
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         Due to their high degree of polyunsaturation, omega -3 fatty acids present significant challenges for biodiesel production. While they drastically improve cold-weather performance by lowering the cold filter plugging point (CFPP), their multiple double bonds make them extremely susceptible to rapid oxidation, degradation, and polymerization (very poor oxidation stability, OS). Furthermore, they significantly lower the cetane number (CN), leading to poor ignition quality. Therefore, feedstocks with high omega -3 content (like fish oil or linseed oil) are generally less desirable or require blending and antioxidant treatments for standard biodiesel use.
 
@@ -1434,11 +1434,11 @@ FAE_Sum_Omega-6 = Sum of omega -6 fatty acids
 
         Represents a family of polyunsaturated fatty acids that have their final carbon-carbon double bond in the omega -6 position (the sixth bond from the methyl end of the fatty acid chain). The most common dietary omega -6 fatty acid is linoleic acid (C18:2).
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         Omega -6 fatty acids are essential fats, meaning the human body cannot synthesize them and they must be obtained through diet. They play a crucial role in brain function, normal growth and development, and maintaining bone health. They are also precursors to eicosanoids, signaling molecules involved in immunity and inflammation. While necessary for survival, a high intake of omega -6 relative to omega -3 can promote chronic inflammation and increase the risk of cardiovascular and inflammatory diseases. Maintaining a balanced omega -6 to omega -3 ratio is vital for optimal health.
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         Because omega -6 fatty acids are polyunsaturated, their presence in biodiesel feedstocks presents a trade-off. On the positive side, they significantly improve cold-weather performance by lowering the cold filter plugging point (CFPP). However, their multiple double bonds make the fuel highly susceptible to oxidation and degradation over time (poor oxidation stability, OS) and reduce the cetane number (CN), which negatively impacts ignition quality.
 
@@ -1462,11 +1462,11 @@ FAE_Sum_Omega-9 = Sum of omega -9 fatty acids
 
         Represents a family of unsaturated fatty acids that have a final carbon-carbon double bond in the omega -9 position (the ninth bond from the methyl end of the fatty acid chain). The most common and abundant omega -9 fatty acid is oleic acid ($\ce{"{"}C{"{"}18:1{"}"}{"}"}$).
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         Unlike omega -3 and omega -6, omega -9 fatty acids are non-essential because the human body can synthesize them from other unsaturated fats. However, consuming them in place of saturated fats offers significant health benefits. They contribute to cardiovascular health by reducing "bad" low-density lipoprotein (LDL) cholesterol while maintaining "good" high-density lipoprotein (HDL) cholesterol. They also help modulate the body's inflammatory response and improve insulin sensitivity.
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         Because omega -9 fatty acids are predominantly monounsaturated (e.g., oleic acid), feedstocks rich in them are highly desirable for biodiesel production. They offer an optimal compromise between cold flow properties (preventing the fuel from gelling at low temperatures) and oxidation stability (resisting degradation over time), while maintaining a good cetane number (CN) for efficient ignition.
 
@@ -1491,13 +1491,13 @@ FAE_Sum_Trans = Sum of trans fatty acids
 
         ## Description
 
-        Represents unsaturated fatty acids that contain at least one double bond in the *trans* configuration, resulting in a straighter hydrocarbon chain compared to the bent *cis* configuration.
+        Represents unsaturated fatty acids that contain at least one double bond in the {"*"}trans{"*"} configuration, resulting in a straighter hydrocarbon chain compared to the bent {"*"}cis{"*"} configuration.
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         In human nutrition, artificial trans fats (often created through the partial hydrogenation of vegetable oils) are widely recognized as highly detrimental to health. They simultaneously raise "bad" low-density lipoprotein (LDL) cholesterol and lower "good" high-density lipoprotein (HDL) cholesterol, significantly increasing the risk of coronary heart disease, stroke, and systemic inflammation. Many health organizations recommend eliminating artificial trans fats from the diet entirely. Naturally occurring trans fats (found in small amounts in ruminant meat and dairy) have a less clear, though generally less harmful, health impact.
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         In fuel applications, the straight-chain structure of trans fatty acids makes their physical properties more similar to saturated fats than to cis-unsaturated fats. They have significantly higher melting points than their cis counterparts, which negatively impacts cold-weather performance by raising the cold filter plugging point (CFPP) and cloud point. While they may offer slightly better oxidation stability (OS) and cetane number (CN) compared to cis-isomers, high levels of trans fats (often found in waste cooking oils used as feedstock) generally complicate cold-weather operability.
 
@@ -1528,11 +1528,11 @@ FAE_Sum_Conjugated = Sum of conjugated fatty acids
 
         Represents polyunsaturated fatty acids in which at least one pair of double bonds is separated by only one single bond (a conjugated diene/triene system), rather than the typical methylene group. The most well-known and widely studied is conjugated linoleic acid (CLA, $\ce{"{"}C{"{"}18:2{"}"}{"}"}$).
 
-        **Nutritional potential**:
+        {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
         CFAs, particularly CLAs, are primarily found in the meat and dairy products of ruminant animals. They have been extensively studied for their potential health benefits, which include anti-carcinogenic properties, immune system modulation, and the ability to improve body composition by reducing adiposity and increasing lean muscle mass (though human clinical results are sometimes mixed compared to animal models).
 
-        **Biodiesel potential**:
+        {"*"}{"*"}Biodiesel potential{"*"}{"*"}:
 
         The presence of conjugated double bonds makes these fatty acids highly reactive. In fuel applications, this is generally highly undesirable. While they may offer acceptable cold flow properties, conjugated fatty acids are extremely susceptible to rapid oxidation, polymerization, and gum formation (very poor oxidation stability, OS). This can lead to severe engine deposits and fuel filter clogging. Feedstocks rich in conjugated fatty acids (e.g., tung oil) are typically avoided for standard biodiesel production.
 
