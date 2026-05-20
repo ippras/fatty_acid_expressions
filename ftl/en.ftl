@@ -1060,7 +1060,7 @@ FAE_Ratio_Triacylglycerols_SelectivityFactor = Selectivity factor
 
         - [Верещагин, 1972, стр. 176](https://doi.org/404.html "Биохимия триглицеридов")
 
-FAE_Sum_Long = Sum of long chain fatty acids
+FAE_Sum_LongChain = Sum of long chain fatty acids
     .markdown =
         # Sum of long chain fatty acids
 
@@ -1087,7 +1087,7 @@ FAE_Sum_Long = Sum of long chain fatty acids
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         2. [Mozaffarian _et al._, 2010](https://doi.org/10.1371/journal.pmed.1000252 "Effects on Coronary Heart Disease of Increasing Polyunsaturated Fat in Place of Saturated Fat: A Systematic Review and Meta-Analysis of Randomized Controlled Trials")
 
-FAE_Sum_Medium = Sum of medium chain fatty acids
+FAE_Sum_MediumChain = Sum of medium chain fatty acids
     .markdown =
         # Sum of medium chain fatty acids
 
@@ -1115,7 +1115,7 @@ FAE_Sum_Medium = Sum of medium chain fatty acids
         2. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         3. [Jadhav _et al._, 2022](https://doi.org/10.1007/s13197-022-05499-w "Triglycerides of medium-chain fatty acids: a concise review")
 
-FAE_Sum_Short = Sum of short chain fatty acids
+FAE_Sum_ShortChain = Sum of short chain fatty acids
     .markdown =
         # Sum of short chain fatty acids
 
@@ -1147,7 +1147,7 @@ FAE_Sum_Short = Sum of short chain fatty acids
         1. [Wong _et al._, 2006](https://doi.org/10.1097/00004836-200603000-00015 "Colonic health: fermentation and short chain fatty acids")
         2. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-FAE_Sum_VeryLong = Sum of very long chain fatty acids
+FAE_Sum_VeryLongChain = Sum of very long chain fatty acids
     .markdown =
         # Sum of very long chain fatty acids
 

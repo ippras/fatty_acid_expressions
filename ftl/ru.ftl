@@ -372,9 +372,9 @@ FAE_Primitive_c24c15 = Нервоновая жирная кислота
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         1. [Lewkowicz _et al._, 2019](https://doi.org/10.3390/cells8080786 "Naturally Occurring Nervonic Acid Ester Improves Myelin Synthesis by Human Oligodendrocytes")
 
-FAE_Sum_EicosapentaenoicAndDocosahexaenoic = Сумма эйкозапентаеновая и докозагексаеновая жирные кислоты
+FAE_Sum_EicosapentaenoicAndDocosahexaenoic = Сумма эйкозапентаеновой и докозагексаеновой жирных кислот
     .markdown =
-        # Сумма эйкозапентаеновая и докозагексаеновая жирные кислоты
+        # Сумма эйкозапентаеновой и докозагексаеновой жирных кислот
 
         $$\ce{"{"}C{"{"}20:5{"}"}(\omega-3){"}"} + \ce{"{"}C{"{"}22:6{"}"}(\omega-3){"}"}$$
 
@@ -834,9 +834,9 @@ FAE_Ratio_Nutritional_NutritionalValueIndex = Индекс пищевой цен
         1. [Chen _et al._, 2016](https://doi.org/10.5713/ajas.15.0840 "Differences in Physicochemical and Nutritional Properties of Breast and Thigh Meat from Crossbred Chickens, Commercial Broilers, and Spent Hens")
         1. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-FAE_Ratio_Nutritional_Omega-6PolyunsaturatedToOmega-3Polyunsaturated = Отношение  омега -6 полинеасыщенных жирных кислот к омега -3 полинеасыщенным жирным кислотам
+FAE_Ratio_Nutritional_Omega-6PolyunsaturatedToOmega-3Polyunsaturated = Отношение  омега -6 полиненасыщенных жирных кислот к омега -3 полинеасыщенным жирным кислотам
     .markdown =
-        # Отношение  омега -6 полинеасыщенных жирных кислот к омега -3 полинеасыщенным жирным кислотам
+        # Отношение  омега -6 полиненасыщенных жирных кислот к омега -3 полинеасыщенным жирным кислотам
 
         $$\frac{"{"}\sum \ce{"{"}PUFA(\omega-6){"}"}{"}"}{"{"}\sum \ce{"{"}PUFA(\omega-3){"}"}{"}"}$$
 
@@ -863,9 +863,9 @@ FAE_Ratio_Nutritional_Omega-6PolyunsaturatedToOmega-3Polyunsaturated = Отно�
         1. [Gonzalez-Becerra _et al._, 2023](https://doi.org/10.3390/healthcare11162333 "A Balanced Dietary Ratio of n-6:n-3 Polyunsaturated Fatty Acids Exerts an Effect on Total Fatty Acid Profile in RBCs and Inflammatory Markers in Subjects with Obesity")
         1. [Yang _et al._, 2023](https://doi.org/10.3389/fnut.2023.1166702 "Effects of different n-6/n-3 polyunsaturated fatty acids ratios on lipid metabolism in patients with hyperlipidemia: a randomized controlled clinical trial")
 
-FAE_Ratio_Nutritional_PolyunsaturatedToSaturated = Отношение полинеасыщенных жирных кислот к насыщенным жирным кислотам
+FAE_Ratio_Nutritional_PolyunsaturatedToSaturated = Отношение полиненасыщенных жирных кислот к насыщенным жирным кислотам
     .markdown =
-        # Отношение полинеасыщенных жирных кислот к насыщенным жирным кислотам
+        # Отношение полиненасыщенных жирных кислот к насыщенным жирным кислотам
 
         $$\frac{"{"}\sum \ce{"{"}PUFA{"}"}{"}"}{"{"}\sum \ce{"{"}SFA{"}"}{"}"}$$
 
@@ -1060,7 +1060,7 @@ FAE_Ratio_Triacylglycerols_SelectivityFactor = Коэффициент селек
 
         - [Верещагин, 1972, стр. 176](https://doi.org/404.html "Биохимия триглицеридов")
 
-FAE_Sum_Long = Сумма длинноцепочечных жирных кислот
+FAE_Sum_LongChain = Сумма длинноцепочечных жирных кислот
     .markdown =
         # Сумма длинноцепочечных жирных кислот
 
@@ -1087,7 +1087,7 @@ FAE_Sum_Long = Сумма длинноцепочечных жирных кисл
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         1. [Mozaffarian _et al._, 2010](https://doi.org/10.1371/journal.pmed.1000252 "Effects on Coronary Heart Disease of Increasing Polyunsaturated Fat in Place of Saturated Fat: A Systematic Review and Meta-Analysis of Randomized Controlled Trials")
 
-FAE_Sum_Medium = Сумма среднецепочечных жирных кислот
+FAE_Sum_MediumChain = Сумма среднецепочечных жирных кислот
     .markdown =
         # Сумма среднецепочечных жирных кислот
 
@@ -1115,9 +1115,9 @@ FAE_Sum_Medium = Сумма среднецепочечных жирных кис
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         1. [Jadhav _et al._, 2022](https://doi.org/10.1007/s13197-022-05499-w "Triglycerides of medium-chain fatty acids: a concise review")
 
-FAE_Sum_Short = Сумма короткоцепочечных жирных кислот
+FAE_Sum_ShortChain = Сумма очень короткоцепочечных жирных кислот
     .markdown =
-        # Сумма короткоцепочечных жирных кислот
+        # Сумма очень короткоцепочечных жирных кислот
 
         $$\sum \ce{"{"}SCFA{"}"}$$
 
@@ -1147,7 +1147,7 @@ FAE_Sum_Short = Сумма короткоцепочечных жирных ки�
         1. [Wong _et al._, 2006](https://doi.org/10.1097/00004836-200603000-00015 "Colonic health: fermentation and short chain fatty acids")
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
 
-FAE_Sum_VeryLong = Сумма очень длинноцепочечных жирных кислот
+FAE_Sum_VeryLongChain = Сумма очень длинноцепочечных жирных кислот
     .markdown =
         # Сумма очень длинноцепочечных жирных кислот
 
@@ -1175,9 +1175,9 @@ FAE_Sum_VeryLong = Сумма очень длинноцепочечных жир
         1. [Wanders _et al._, 2010](https://doi.org/10.1016/j.ymgme.2004.08.016 "Peroxisomes, lipid metabolism, and peroxisomal disorders")
         1. [Liu _et al._, 2020](https://doi.org/10.3390/nu12092709 "Circulating Very-Long-Chain Saturated Fatty Acids Were Inversely Associated with Cardiovascular Health: A Prospective Cohort Study and Meta-Analysis")
 
-FAE_Sum_MonoUnsaturated = Сумма мононеасыщенных жирных кислот
+FAE_Sum_MonoUnsaturated = Сумма мононенасыщенных жирных кислот
     .markdown =
-        # Сумма мононеасыщенных жирных кислот
+        # Сумма мононенасыщенных жирных кислот
 
         $$\sum \ce{"{"}MUFA{"}"}$$
 
@@ -1202,9 +1202,9 @@ FAE_Sum_MonoUnsaturated = Сумма мононеасыщенных жирных
 
         В качестве топлива МНЖК обеспечивают оптимальный баланс между низкотемпературными свойствами (текучестью) и окислительной стабильностью. По сравнению с насыщенными жирными кислотами они имеют более низкую температуру плавления, что улучшает предельную температуру фильтруемости (CFPP) и общие характеристики в холодную погоду. По сравнению с полиненасыщенными жирными кислотами (ПНЖК) они значительно менее подвержены окислению и обеспечивают более высокое цетановое число (CN). Сырье, богатое МНЖК (например, высокоолеиновые масла), считается наиболее предпочтительным для производства высококачественного биодизеля.
 
-FAE_Sum_NUnsaturated = Сумма N неасыщенных жирных кислот
+FAE_Sum_NUnsaturated = Сумма N ненасыщенных жирных кислот
     .markdown =
-        # Сумма N неасыщенных жирных кислот
+        # Сумма N ненасыщенных жирных кислот
 
         $$\sum \ce{"{"}NUFA{"}"}$$
 
@@ -1250,9 +1250,9 @@ FAE_Sum_NUnsaturated = Сумма N неасыщенных жирных кисл
 
         Представляет собой сумму всех жирных кислот, содержащих ровно N двойных связей в своей углеводородной цепи.
 
-FAE_Sum_PolyUnsaturated = Сумма полинеасыщенных жирных кислот
+FAE_Sum_PolyUnsaturated = Сумма полиненасыщенных жирных кислот
     .markdown =
-        # Сумма полинеасыщенных жирных кислот
+        # Сумма полиненасыщенных жирных кислот
 
         $$\sum \ce{"{"}PUFA{"}"}$$
 
@@ -1308,9 +1308,9 @@ FAE_Sum_Saturated = Сумма насыщенных жирных кислот
         1. [Moser, 2010](https://doi.org/10.1007/978-1-4419-7145-6_15 "Biodiesel Production, Properties, and Feedstocks")
         1. [who.int, 2023](https://www.who.int/news/item/17-07-2023-who-updates-guidelines-on-fats-and-carbohydrates "WHO updates guidelines on fats and carbohydrates")
 
-FAE_Sum_Unsaturated = Сумма неасыщенных жирных кислот
+FAE_Sum_Unsaturated = Сумма ненасыщенных жирных кислот
     .markdown =
-        # Сумма неасыщенных жирных кислот
+        # Сумма ненасыщенных жирных кислот
 
         $$\sum \ce{"{"}UFA{"}"}$$
 
