@@ -117,10 +117,3 @@ for lang in LANGUAGES:
     
     print(f"Обработка языка: {lang.upper()}...")
     create_ftl_from_dir(input, output, ALLOWED_DIRS)
-
-# # === ЗАПУСК ===
-# if not os.path.exists(SOURCE_DIR):
-#     os.makedirs(SOURCE_DIR)
-#     print(f"Создана папка '{SOURCE_DIR}'. Положите туда файлы и запустите скрипт снова.")
-# else:
-#     create_ftl_from_dir(SOURCE_DIR, OUTPUT_FTL, ALLOWED_DIRS)
