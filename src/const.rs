@@ -10,24 +10,29 @@ pub const METABOLIC: &str = "Metabolic";
 pub const NUTRITIONAL: &str = "Nutritional";
 
 pub mod sum {
-    pub const SUMS: [&str; 17] = [
-        CFA,
-        D12,
-        D9,
+    pub const SUMS: [&str; 16] = [
         EPA_AND_DHA,
-        LCFA,
-        MCFA,
-        MUFA,
-        NUFA,
-        O3,
-        O6,
-        O9,
-        PUFA,
+        // By chain length
         SCFA,
-        SFA,
-        TFA,
-        UFA,
+        MCFA,
+        LCFA,
         VLCFA,
+        // By unsaturated bounds
+        // By count
+        MUFA,
+        PUFA,
+        SFA,
+        UFA,
+        // By offset
+        D9,
+        D12,
+        O9,
+        O6,
+        O3,
+        // By parity
+        CFA,
+        // By pattern
+        TFA,
     ];
 
     pub const CFA: &str = "FAE_Sum_Conjugated";
@@ -51,7 +56,7 @@ pub mod sum {
 
 pub mod ratio {
     pub mod biodiesel {
-        pub const RATIOS: [&str; 6] = [CFPP, CN, DU, IV, LCSF, OS];
+        pub const RATIOS: [&str; 6] = [CN, CFPP, DU, IV, LCSF, OS];
 
         pub const CFPP: &str = "FAE_Ratio_Biodiesel_ColdFilterPluggingPoint";
         pub const CN: &str = "FAE_Ratio_Biodiesel_CetaneNumber";
