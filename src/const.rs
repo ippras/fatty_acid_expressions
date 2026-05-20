@@ -9,27 +9,27 @@ pub const PREFIX: &str = FAE;
 // pub const METABOLIC: &str = "Metabolic";
 // pub const NUTRITIONAL: &str = "Nutritional";
 
-pub const SUM: [&str; 17] = [
-    sum::CFA,
-    sum::D12,
-    sum::D9,
-    sum::EPA_AND_DHA,
-    sum::LCFA,
-    sum::MCFA,
-    sum::MUFA,
-    sum::NUFA,
-    sum::O3,
-    sum::O6,
-    sum::O9,
-    sum::PUFA,
-    sum::SCFA,
-    sum::SFA,
-    sum::TFA,
-    sum::UFA,
-    sum::VLCFA,
-];
-
 pub mod sum {
+    pub const SUMS: [&str; 17] = [
+        CFA,
+        D12,
+        D9,
+        EPA_AND_DHA,
+        LCFA,
+        MCFA,
+        MUFA,
+        NUFA,
+        O3,
+        O6,
+        O9,
+        PUFA,
+        SCFA,
+        SFA,
+        TFA,
+        UFA,
+        VLCFA,
+    ];
+
     pub const CFA: &str = "FAE_Sum_Conjugated";
     pub const D12: &str = "FAE_Sum_Delta12";
     pub const D9: &str = "FAE_Sum_Delta9";
@@ -50,38 +50,9 @@ pub mod sum {
 }
 
 pub mod ratio {
-    pub const BIODIESEL: [&str; 6] = [
-        biodiesel::CFPP,
-        biodiesel::CN,
-        biodiesel::DU,
-        biodiesel::IV,
-        biodiesel::LCSF,
-        biodiesel::OS,
-    ];
-
-    pub const METABOLIC: [&str; 4] = [
-        metabolic::D9DI,
-        metabolic::EI,
-        metabolic::KAI,
-        metabolic::TI,
-    ];
-
-    pub const NUTRITIONAL: [&str; 11] = [
-        nutritional::AI,
-        nutritional::CI,
-        nutritional::FLQ,
-        nutritional::HPI,
-        nutritional::NVI,
-        nutritional::SI,
-        nutritional::TI,
-        nutritional::UI,
-
-        nutritional::LA_TO_ALA,
-        nutritional::O6PUFA_TO_O3PUFA,
-        nutritional::PUFA_TO_SFA,
-    ];
-
     pub mod biodiesel {
+        pub const RATIOS: [&str; 6] = [CFPP, CN, DU, IV, LCSF, OS];
+
         pub const CFPP: &str = "FAE_Ratio_Biodiesel_ColdFilterPluggingPoint";
         pub const CN: &str = "FAE_Ratio_Biodiesel_CetaneNumber";
         pub const DU: &str = "FAE_Ratio_Biodiesel_DegreeOfUnsaturation";
@@ -91,6 +62,8 @@ pub mod ratio {
     }
 
     pub mod metabolic {
+        pub const RATIOS: [&str; 4] = [D9DI, EI, KAI, TI];
+
         pub const D9DI: &str = "FAE_Ratio_Metabolic_Delta9DesaturaseIndex";
         pub const EI: &str = "FAE_Ratio_Metabolic_ElongaseIndex";
         pub const KAI: &str = "FAE_Ratio_Metabolic_KineticActivityIndex";
@@ -98,6 +71,20 @@ pub mod ratio {
     }
 
     pub mod nutritional {
+        pub const RATIOS: [&str; 11] = [
+            AI,
+            CI,
+            FLQ,
+            HPI,
+            NVI,
+            SI,
+            TI,
+            UI,
+            LA_TO_ALA,
+            O6PUFA_TO_O3PUFA,
+            PUFA_TO_SFA,
+        ];
+
         pub const AI: &str = "FAE_Ratio_Nutritional_AtherogenicIndex";
         pub const CI: &str = "FAE_Ratio_Nutritional_CholesterolIndex";
         pub const FLQ: &str = "FAE_Ratio_Nutritional_FishLipidQuality";
