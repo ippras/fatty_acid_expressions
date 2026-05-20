@@ -1,13 +1,33 @@
 pub const FAE: &str = "FAE";
 pub const PREFIX: &str = FAE;
 
-pub const PRIMITIVE: &str = "Primitive";
-pub const RATIO: &str = "Ratio";
-pub const SUM: &str = "Sum";
+// pub const PRIMITIVE: &str = "Primitive";
+// pub const RATIO: &str = "Ratio";
+// pub const SUM: &str = "Sum";
 
-pub const BIODIESEL: &str = "Biodiesel";
-pub const METABOLIC: &str = "Metabolic";
-pub const NUTRITIONAL: &str = "Nutritional";
+// pub const BIODIESEL: &str = "Biodiesel";
+// pub const METABOLIC: &str = "Metabolic";
+// pub const NUTRITIONAL: &str = "Nutritional";
+
+pub const SUM: [&str; 17] = [
+    sum::CFA,
+    sum::D12,
+    sum::D9,
+    sum::EPA_AND_DHA,
+    sum::LCFA,
+    sum::MCFA,
+    sum::MUFA,
+    sum::NUFA,
+    sum::O3,
+    sum::O6,
+    sum::O9,
+    sum::PUFA,
+    sum::SCFA,
+    sum::SFA,
+    sum::TFA,
+    sum::UFA,
+    sum::VLCFA,
+];
 
 pub mod sum {
     pub const CFA: &str = "FAE_Sum_Conjugated";
@@ -30,6 +50,37 @@ pub mod sum {
 }
 
 pub mod ratio {
+    pub const BIODIESEL: [&str; 6] = [
+        biodiesel::CFPP,
+        biodiesel::CN,
+        biodiesel::DU,
+        biodiesel::IV,
+        biodiesel::LCSF,
+        biodiesel::OS,
+    ];
+
+    pub const METABOLIC: [&str; 4] = [
+        metabolic::D9DI,
+        metabolic::EI,
+        metabolic::KAI,
+        metabolic::TI,
+    ];
+
+    pub const NUTRITIONAL: [&str; 11] = [
+        nutritional::AI,
+        nutritional::CI,
+        nutritional::FLQ,
+        nutritional::HPI,
+        nutritional::NVI,
+        nutritional::SI,
+        nutritional::TI,
+        nutritional::UI,
+
+        nutritional::LA_TO_ALA,
+        nutritional::O6PUFA_TO_O3PUFA,
+        nutritional::PUFA_TO_SFA,
+    ];
+
     pub mod biodiesel {
         pub const CFPP: &str = "FAE_Ratio_Biodiesel_ColdFilterPluggingPoint";
         pub const CN: &str = "FAE_Ratio_Biodiesel_CetaneNumber";
