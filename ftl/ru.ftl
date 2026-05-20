@@ -65,7 +65,7 @@ FAE_Primitive_c18c9 = Олеиновая жирная кислота
     .markdown =
         # Олеиновая жирная кислота
 
-        $$\ce{"{"}C{"{"}18:1{"}"}\[\\omega-9\]{"}"}$$
+        $$\ce{"{"}C{"{"}18:1{"}"}(\omega-9){"}"}$$
 
         ## Сокращения
 
@@ -96,7 +96,7 @@ FAE_Primitive_c18c9c12 = Линолевая жирная кислота
     .markdown =
         # Линолевая жирная кислота
 
-        $$\ce{"{"}C{"{"}18:2{"}"}\[\\omega-6\]{"}"}$$
+        $$\ce{"{"}C{"{"}18:2{"}"}(\omega-6){"}"}$$
 
         ## Сокращения
 
@@ -127,7 +127,7 @@ FAE_Primitive_c18c9c12c15 = α-Линоленовая жирная кислот�
     .markdown =
         # α-Линоленовая жирная кислота
 
-        $$\ce{"{"}C{"{"}18:3{"}"}\[\\omega-3\]{"}"}$$
+        $$\ce{"{"}C{"{"}18:3{"}"}(\omega-3){"}"}$$
 
         ## Сокращения
 
@@ -189,7 +189,7 @@ FAE_Primitive_c20c5c8c11c14c17 = Эйкозапентаеновая жирная
     .markdown =
         # Эйкозапентаеновая жирная кислота
 
-        $$\ce{"{"}C{"{"}20:5{"}"}\[\\omega-3\]{"}"}$$
+        $$\ce{"{"}C{"{"}20:5{"}"}(\omega-3){"}"}$$
 
         ## Сокращения
 
@@ -252,7 +252,7 @@ FAE_Primitive_c22c13 = Эруковая жирная кислота
     .markdown =
         # Эруковая жирная кислота
 
-        $$\ce{"{"}C{"{"}22:1{"}"}\[\\omega-9\]{"}"}$$
+        $$\ce{"{"}C{"{"}22:1{"}"}(\omega-9){"}"}$$
 
         ## Сокращения
 
@@ -283,7 +283,7 @@ FAE_Primitive_c22c4c7c10c13c16c19 = Докозагексаеновая жирн�
     .markdown =
         # Докозагексаеновая жирная кислота
 
-        $$\ce{"{"}C{"{"}22:6{"}"}\[\\omega-3\]{"}"}$$
+        $$\ce{"{"}C{"{"}22:6{"}"}(\omega-3){"}"}$$
 
         ## Сокращения
 
@@ -345,7 +345,7 @@ FAE_Primitive_c24c15 = Нервоновая жирная кислота
     .markdown =
         # Нервоновая жирная кислота
 
-        $$\ce{"{"}C{"{"}24:1{"}"}\[\\omega-9\]{"}"}$$
+        $$\ce{"{"}C{"{"}24:1{"}"}(\omega-9){"}"}$$
 
         ## Сокращения
 
@@ -376,7 +376,7 @@ FAE_Sum_EicosapentaenoicAndDocosahexaenoic = Эйкозапентаеновая 
     .markdown =
         # Эйкозапентаеновая и докозагексаеновая жирные кислоты
 
-        $$\ce{"{"}C{"{"}20:5{"}"}\[\\omega-3\]{"}"} + \ce{"{"}C{"{"}22:6{"}"}\[\\omega-3\]{"}"}$$
+        $$\ce{"{"}C{"{"}20:5{"}"}(\omega-3){"}"} + \ce{"{"}C{"{"}22:6{"}"}(\omega-3){"}"}$$
 
         ## Сокращения
 
@@ -414,8 +414,8 @@ FAE_Ratio_Biodiesel_CetaneNumber = Cetane number
 
         {"*"}{"*"}Стандарты биодизеля{"*"}{"*"}:
 
-        |{"*"}{"*"}Стандарт биодизеля{"*"}{"*"}:|Границы|
-        |-------------------|-------|
+        |Стандарт биодизеля|Границы|
+        |------------------|-------|
         |Китай (GB/T 20828-2007)|\[49;+∞\]|
         |Европейский союз (EN 14214-2005)|\[51;+∞\]|
         |Россия (ГОСТ Р 53605-2009)|\[51;+∞\]|
@@ -483,8 +483,8 @@ FAE_Ratio_Biodiesel_IodineValue = Iodine value
 
         {"*"}{"*"}Стандарты биодизеля{"*"}{"*"}:
 
-        |{"*"}{"*"}Стандарт биодизеля{"*"}{"*"}:|Границы|
-        |-------------------|-------|
+        |Стандарт биодизеля|Границы|
+        |------------------|-------|
         |Европейский союз (EN 14214-2005)|\[\-∞;120\]|
         |Россия (ГОСТ Р 53605-2009)|\[\-∞;120\]|
 
@@ -522,8 +522,8 @@ FAE_Ratio_Biodiesel_OxidationStability = Oxidation stability
 
         {"*"}{"*"}Стандарты биодизеля{"*"}{"*"}:
 
-        |{"*"}{"*"}Стандарт биодизеля{"*"}{"*"}:|Границы|
-        |-------------------|-------|
+        |Стандарт биодизеля|Границы|
+        |------------------|-------|
         |Китай (GB/T 20828-2007)|\[\-;+∞\]|
         |Европейский союз (EN 14214-2005)|\[6.0;+∞\]|
         |Россия (ГОСТ Р 53605-2009)|\[6.0;+∞\]|
@@ -540,9 +540,9 @@ FAE_Ratio_Metabolic_Delta9DesaturaseIndex = Индекс десатуразы д
 
         `метаболическое`
 
-        $$\frac{"{"}C18:1\[\\omega-9\]{"}"}{"{"}C18:0 + C18:1\[\\omega-9\]{"}"} \tag{"{"}1, 2, 3{"}"}$$
+        $$\frac{"{"}C18:1(\omega-9){"}"}{"{"}C18:0 + C18:1(\omega-9){"}"} \tag{"{"}1, 2, 3{"}"}$$
 
-        $$\frac{"{"}C16:1\[\\omega-7\] + C18:1\[\\omega-9\]{"}"}{"{"}C16:0 + C18:0 + C16:1\[\\omega-7\] + C18:1\[\\omega-9\]{"}"} \tag{"{"}3, 4{"}"}$$
+        $$\frac{"{"}C16:1(\omega-7) + C18:1(\omega-9){"}"}{"{"}C16:0 + C18:0 + C16:1(\omega-7) + C18:1(\omega-9){"}"} \tag{"{"}3, 4{"}"}$$
 
          > 
          > \[!NOTE\] There are different versions of this index calculation. The first version calculates only the conversion from $\ce{"{"}C{"{"}18:0{"}"}{"}"}$ to $\ce{"{"}C{"{"}18:1{"}"}{"}"}$, while the second calculates the total conversion of $\ce{"{"}C{"{"}16:0{"}"}{"}"}$ and $\ce{"{"}C{"{"}18:0{"}"}{"}"}$.
@@ -553,7 +553,7 @@ FAE_Ratio_Metabolic_Delta9DesaturaseIndex = Индекс десатуразы д
 
         ## Описание
 
-        Represents the estimated activity of the delta 9 desaturase enzyme (also known as stearoyl-CoA desaturase) in tissues, calculated using the product/substrate ratio approach. This enzyme catalyzes the introduction of a double bond at the delta-9 position of saturated fatty acids, primarily converting palmitic acid ($\ce{"{"}C{"{"}16:0{"}"}{"}"}$) and stearic acid ($\ce{"{"}C{"{"}18:0{"}"}{"}"}$) into their corresponding monounsaturated fatty acids, palmitoleic acid ($\ce{"{"}C{"{"}16:1{"}"}\[\\omega-7\]{"}"}$) and oleic acid ($\ce{"{"}C{"{"}18:1{"}"}\[\\omega-9\]{"}"}$).
+        Represents the estimated activity of the delta 9 desaturase enzyme (also known as stearoyl-CoA desaturase) in tissues, calculated using the product/substrate ratio approach. This enzyme catalyzes the introduction of a double bond at the delta-9 position of saturated fatty acids, primarily converting palmitic acid ($\ce{"{"}C{"{"}16:0{"}"}{"}"}$) and stearic acid ($\ce{"{"}C{"{"}18:0{"}"}{"}"}$) into their corresponding monounsaturated fatty acids, palmitoleic acid ($\ce{"{"}C{"{"}16:1{"}"}(\omega-7){"}"}$) and oleic acid ($\ce{"{"}C{"{"}18:1{"}"}(\omega-9){"}"}$).
 
         This is a metabolic indicator used to evaluate the endogenous synthesis of monounsaturated fatty acids from saturated precursors. It is widely used in animal nutrition and meat/egg quality research to discriminate metabolic changes caused by dietary factors, genetics, age, or rearing systems. Like the elongase and thioesterase indices, it serves as a practical and cost-effective surrogate for measuring true desaturase enzyme activity in the laboratory.
 
@@ -594,7 +594,7 @@ FAE_Ratio_Metabolic_KineticActivityIndex = Индекс кинетической
 
         `метаболическое`
 
-        $$\frac{"{"}\sum \ce{"{"}PUFA\[\\omega-3\]{"}"}{"}"}{"{"}\ce{"{"}C{"{"}18:3{"}"}\[\\omega-3\]{"}"}{"}"}$$
+        $$\frac{"{"}\sum \ce{"{"}PUFA(\omega-3){"}"}{"}"}{"{"}\ce{"{"}C{"{"}18:3{"}"}(\omega-3){"}"}{"}"}$$
 
         ## Сокращения
 
@@ -606,7 +606,7 @@ FAE_Ratio_Metabolic_KineticActivityIndex = Индекс кинетической
 
         ## Описание
 
-        Represents the activity index (also referred to as the kinetic activity index, KAI), which is based on the indirect evaluation of $\beta$-oxidation activity in muscles to estimate energy expenditure. It is calculated as the ratio of total omega-3 polyunsaturated fatty acids ($\sum PUFA\[\\omega-3\]$) to $\alpha$-linolenic acid (ALA, $C18:3\[\\omega-3\]$).
+        Represents the activity index (also referred to as the kinetic activity index, KAI), which is based on the indirect evaluation of $\beta$-oxidation activity in muscles to estimate energy expenditure. It is calculated as the ratio of total omega-3 polyunsaturated fatty acids ($\sum PUFA(\omega-3)$) to $\alpha$-linolenic acid (ALA, $C18:3(\omega-3)$).
 
         This index is a metabolic indicator that describes the mobilization of n-3 long-chain PUFAs used for energy production (i.e., movement) and the resulting oxidative status. The ratio serves as an indicator of energy consumption ($\beta$-oxidation) and is typically higher in oxidative muscles than in glycolytic ones, reflecting higher kinetic activity in animals. Researchers use this index as an objective tool to measure the adaptability of a genetic line to extensive rearing systems (e.g., outdoor runs), because it accounts for the physical activity exerted during the animal's life and can be used for _ex post_ animal welfare assessment.
 
@@ -640,16 +640,16 @@ FAE_Ratio_Metabolic_ThioesteraseIndex = Индекс тиоэстеразы
         1. [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
         1. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-FAE_Ratio_Nutritional_AtherogenicIndex = Atherogenic index
+FAE_Ratio_Nutritional_AtherogenicIndex = Атерогенный индекс
     .markdown =
-        # Atherogenic index
+        # Атерогенный индекс
 
         `нутритивное`
 
-        $$\frac{"{"}\ce{"{"}C{"{"}12:0{"}"}{"}"} + 4 \times \ce{"{"}C{"{"}14:0{"}"}{"}"} + \ce{"{"}C{"{"}16:0{"}"}{"}"}{"}"}{"{"}\sum \ce{"{"}MUFA{"}"} + \sum \ce{"{"}PUFA\[\\omega-6\]{"}"} + \sum \ce{"{"}PUFA\[\\omega-3\]{"}"}{"}"} \tag{"{"}1, 3-5{"}"}$$
+        $$\frac{"{"}\ce{"{"}C{"{"}12:0{"}"}{"}"} + 4 \times \ce{"{"}C{"{"}14:0{"}"}{"}"} + \ce{"{"}C{"{"}16:0{"}"}{"}"}{"}"}{"{"}\sum \ce{"{"}MUFA{"}"} + \sum \ce{"{"}PUFA(\omega-6){"}"} + \sum \ce{"{"}PUFA(\omega-3){"}"}{"}"} \tag{"{"}1, 3-5{"}"}$$
 
          > 
-         > \[!NOTE\] $$\sum \ce{"{"}MUFA{"}"} + \sum \ce{"{"}PUFA\[\\omega-6\]{"}"} + \sum \ce{"{"}PUFA\[\\omega-3\]{"}"} \ne \sum \ce{"{"}UFA{"}"} \tag{"{"}2{"}"}$$
+         > \[!NOTE\] $$\sum \ce{"{"}MUFA{"}"} + \sum \ce{"{"}PUFA(\omega-6){"}"} + \sum \ce{"{"}PUFA(\omega-3){"}"} \ne \sum \ce{"{"}UFA{"}"} \tag{"{"}2{"}"}$$
 
         ## Сокращения
 
@@ -659,7 +659,7 @@ FAE_Ratio_Nutritional_AtherogenicIndex = Atherogenic index
         ## Синонимы
 
         - Индекс атерогенности
-        - Proatherogenic fatty acids to antiatherogenic fatty acids ratio
+        - Отношение проатерогенных жирных кислот к антиатерогенных жирным кислотам
 
         ## Описание
 
@@ -675,13 +675,13 @@ FAE_Ratio_Nutritional_AtherogenicIndex = Atherogenic index
         1. [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
         1. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-FAE_Ratio_Nutritional_CholesterolIndex = Cholesterol index
+FAE_Ratio_Nutritional_CholesterolIndex = Холестериновый индекс
     .markdown =
-        # Cholesterol index
+        # Холестериновый индекс
 
         `нутритивное`
 
-        $$\frac{"{"}\ce{"{"}C{"{"}18:1{"}"}\[\\omega-9\]{"}"} + \sum \ce{"{"}PUFA{"}"}{"}"}{"{"}\ce{"{"}C{"{"}12:0{"}"}{"}"} + \ce{"{"}C{"{"}14:0{"}"}{"}"} + \ce{"{"}C{"{"}16:0{"}"}{"}"}{"}"}$$
+        $$\frac{"{"}\ce{"{"}C{"{"}18:1{"}"}(\omega-9){"}"} + \sum \ce{"{"}PUFA{"}"}{"}"}{"{"}\ce{"{"}C{"{"}12:0{"}"}{"}"} + \ce{"{"}C{"{"}14:0{"}"}{"}"} + \ce{"{"}C{"{"}16:0{"}"}{"}"}{"}"}$$
 
         ## Сокращения
 
@@ -691,7 +691,7 @@ FAE_Ratio_Nutritional_CholesterolIndex = Cholesterol index
 
         ## Синонимы
 
-        - Hypocholesterolemic fatty acids to hypercholesterolemic fatty acids ratio
+        - Отношение снижающих уровень холестерина жирных кислот к повышающим уровень холестерина жирным кислотам
 
         ## Описание
 
@@ -707,13 +707,13 @@ FAE_Ratio_Nutritional_CholesterolIndex = Cholesterol index
         1. [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
         1. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-FAE_Ratio_Nutritional_FishLipidQuality = Fish lipid quality
+FAE_Ratio_Nutritional_FishLipidQuality = Качество рыбьего жира
     .markdown =
-        # Fish lipid quality
+        # Качество рыбьего жира
 
         `нутритивное`
 
-        $$\frac{"{"}\ce{"{"}C{"{"}20:5{"}"}\[\\omega-3\]{"}"} + \ce{"{"}C{"{"}22:6{"}"}\[\\omega-3\]{"}"}{"}"}{"{"}\sum \ce{"{"}FA{"}"}{"}"}$$
+        $$\frac{"{"}\ce{"{"}C{"{"}20:5{"}"}(\omega-3){"}"} + \ce{"{"}C{"{"}22:6{"}"}(\omega-3){"}"}{"}"}{"{"}\sum \ce{"{"}FA{"}"}{"}"}$$
 
         ## Сокращения
 
@@ -725,7 +725,7 @@ FAE_Ratio_Nutritional_FishLipidQuality = Fish lipid quality
 
         ## Описание
 
-        Represents the fish/flesh lipid quality index, originally used to assess the lipid quality of fish or flesh. It evaluates the proportion of the two most critical marine omega -3 long-chain polyunsaturated fatty acids: eicosapentaenoic acid (EPA, $\ce{"{"}C{"{"}20:5{"}"}\[\\omega-3\]{"}"}$) and docosahexaenoic acid (DHA, $\ce{"{"}C{"{"}22:6{"}"}\[\\omega-3\]{"}"}$).
+        Represents the fish/flesh lipid quality index, originally used to assess the lipid quality of fish or flesh. It evaluates the proportion of the two most critical marine omega -3 long-chain polyunsaturated fatty acids: eicosapentaenoic acid (EPA, $\ce{"{"}C{"{"}20:5{"}"}(\omega-3){"}"}$) and docosahexaenoic acid (DHA, $\ce{"{"}C{"{"}22:6{"}"}(\omega-3){"}"}$).
 
         From a human health perspective, a higher FLQ value is more desirable. EPA and DHA play essential roles in biological processes, including reducing the risk of cardiovascular diseases, hypertension, and inflammation. Because this index specifically highlights these two fatty acids, it is particularly suitable for evaluating marine products or foods enriched with marine lipids. Higher values indicate a better nutritional quality of the lipid fraction.
 
@@ -738,16 +738,16 @@ FAE_Ratio_Nutritional_FishLipidQuality = Fish lipid quality
         1. [Chen and Liu, 2020](https://doi.org/10.3390/ijms21165695 "Nutritional Indices for Assessing Fatty Acids: A Mini-Review")
         1. [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
 
-FAE_Ratio_Nutritional_HealthPromotingIndex = Health promoting index
+FAE_Ratio_Nutritional_HealthPromotingIndex = Индекс укрепления здоровья
     .markdown =
-        # Health promoting index
+        # Индекс укрепления здоровья
 
         `нутритивное`
 
-        $$\frac{"{"}\sum \ce{"{"}MUFA{"}"} + \sum \ce{"{"}PUFA\[\\omega-6\]{"}"} + \sum \ce{"{"}PUFA\[\\omega-3\]{"}"}{"}"}{"{"}\ce{"{"}C{"{"}12:0{"}"}{"}"} + 4 \times \ce{"{"}C{"{"}14:0{"}"}{"}"} + \ce{"{"}C{"{"}16:0{"}"}{"}"}{"}"}$$
+        $$\frac{"{"}\sum \ce{"{"}MUFA{"}"} + \sum \ce{"{"}PUFA(\omega-6){"}"} + \sum \ce{"{"}PUFA(\omega-3){"}"}{"}"}{"{"}\ce{"{"}C{"{"}12:0{"}"}{"}"} + 4 \times \ce{"{"}C{"{"}14:0{"}"}{"}"} + \ce{"{"}C{"{"}16:0{"}"}{"}"}{"}"}$$
 
          > 
-         > \[!NOTE\] $$\sum \ce{"{"}MUFA{"}"} + \sum \ce{"{"}PUFA\[\\omega-6\]{"}"} + \sum \ce{"{"}PUFA\[\\omega-3\]{"}"} \ne \sum \ce{"{"}UFA{"}"}$$
+         > \[!NOTE\] $$\sum \ce{"{"}MUFA{"}"} + \sum \ce{"{"}PUFA(\omega-6){"}"} + \sum \ce{"{"}PUFA(\omega-3){"}"} \ne \sum \ce{"{"}UFA{"}"}$$
 
          > 
          > \[!TIP\] $$\frac{"{"}3 \times \sum {"{"}1|2|3:\ce{"{"}UFA{"}"}{"}"} + {"{"}2:\ce{"{"}C{"{"}16:0{"}"}{"}"}{"}"}{"}"}{"{"}3 \times {"{"}1|2|3:\ce{"{"}C{"{"}12:0{"}"}{"}"}{"}"} + 12 \times {"{"}1|2|3:\ce{"{"}C{"{"}14:0{"}"}{"}"}{"}"} + 2 \times {"{"}1|3:\ce{"{"}C{"{"}16:0{"}"}{"}"}{"}"}{"}"}$$
@@ -772,13 +772,13 @@ FAE_Ratio_Nutritional_HealthPromotingIndex = Health promoting index
         1. [Dal Bosco _et al._, 2022](https://doi.org/10.3390/nu14153110 "Indexing of Fatty Acids in Poultry Meat for Its Characterization in Healthy Human Nutrition: A Comprehensive Application of the Scientific Literature and New Proposals")
         1. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-FAE_Ratio_Nutritional_LinoleicToAlphaLinolenic = Linoleic fatty acid to α-Linolenic fatty acid ratio
+FAE_Ratio_Nutritional_LinoleicToAlphaLinolenic = Отношение линолевой жирной кислоты к α-линоленовой жирной кислоте
     .markdown =
-        # Linoleic fatty acid to α-Linolenic fatty acid ratio
+        # Отношение линолевой жирной кислоты к α-линоленовой жирной кислоте
 
         `нутритивное`
 
-        $$\frac{"{"}\ce{"{"}C{"{"}18:2{"}"}\[\\omega-6\]{"}"}{"}"}{"{"}\ce{"{"}C{"{"}18:3{"}"}\[\\omega-3\]{"}"}{"}"}$$
+        $$\frac{"{"}\ce{"{"}C{"{"}18:2{"}"}(\omega-6){"}"}{"}"}{"{"}\ce{"{"}C{"{"}18:3{"}"}(\omega-3){"}"}{"}"}$$
 
         ## Сокращения
 
@@ -788,7 +788,7 @@ FAE_Ratio_Nutritional_LinoleicToAlphaLinolenic = Linoleic fatty acid to α-Linol
 
         Used for guiding infant formula development.
 
-        {"*"}{"*"}Limits{"*"}{"*"}:
+        {"*"}{"*"}Пределы{"*"}{"*"}:
 
         - below 4:1 is not recommended [\[1\]](#references)
         - from 5:1 to 15:1 [\[5\]](#references)
@@ -801,13 +801,13 @@ FAE_Ratio_Nutritional_LinoleicToAlphaLinolenic = Linoleic fatty acid to α-Linol
         1. [Sharma _et al._, 2018](https://doi.org/10.1007/s13197-018-3360-2 "Comparative milk metabolite profiling for exploring superiority of indigenous Indian cow milk over exotic and crossbred counterparts")
         1. [Einerhand _et al._, 2023](https://doi.org/10.3390/nu15092187 "The Impact of Linoleic Acid on Infant Health in the Absence or Presence of DHA in Infant Formulas")
 
-FAE_Ratio_Nutritional_NutritionalValueIndex = Nutritional value index
+FAE_Ratio_Nutritional_NutritionalValueIndex = Индекс пищевой ценности
     .markdown =
-        # Nutritional value index
+        # Индекс пищевой ценности
 
         `нутритивное`
 
-        $$\frac{"{"}\ce{"{"}C{"{"}18:0{"}"}{"}"} + \ce{"{"}C{"{"}18:1{"}"}\[\\omega-9\]{"}"}{"}"}{"{"}\ce{"{"}C{"{"}16:0{"}"}{"}"}{"}"}$$
+        $$\frac{"{"}\ce{"{"}C{"{"}18:0{"}"}{"}"} + \ce{"{"}C{"{"}18:1{"}"}(\omega-9){"}"}{"}"}{"{"}\ce{"{"}C{"{"}16:0{"}"}{"}"}{"}"}$$
 
         ## Сокращения
 
@@ -815,9 +815,9 @@ FAE_Ratio_Nutritional_NutritionalValueIndex = Nutritional value index
 
         ## Описание
 
-        Represents the nutritional value index, a metric developed to evaluate the nutritional quality of lipids, particularly in foods of animal origin where stearic, oleic, and palmitic fatty acids are dominant. It is calculated as the ratio of the sum of stearic acid ($\ce{"{"}C{"{"}18:0{"}"}{"}"}$) and oleic acid ($C18:1\[\\omega-9\]$) to palmitic acid ($\ce{"{"}C{"{"}16:0{"}"}{"}"}$).
+        Represents the nutritional value index, a metric developed to evaluate the nutritional quality of lipids, particularly in foods of animal origin where stearic, oleic, and palmitic fatty acids are dominant. It is calculated as the ratio of the sum of stearic acid ($\ce{"{"}C{"{"}18:0{"}"}{"}"}$) and oleic acid ($C18:1(\omega-9)$) to palmitic acid ($\ce{"{"}C{"{"}16:0{"}"}{"}"}$).
 
-        From a human health perspective, a higher NVI value is considered more favorable. Palmitic acid ($\ce{"{"}C{"{"}16:0{"}"}{"}"}$) is known to be atherogenic and is associated with increased levels of LDL cholesterol. In contrast, stearic acid ($\ce{"{"}C{"{"}18:0{"}"}{"}"}$) is generally considered to have a neutral effect on blood cholesterol metabolism, while oleic acid ($C18:1\[\\omega-9\]$), a monounsaturated fatty acid, has beneficial hypocholesterolemic properties. Therefore, a higher ratio of these neutral/beneficial fatty acids to the atherogenic palmitic acid indicates a healthier lipid profile.
+        From a human health perspective, a higher NVI value is considered more favorable. Palmitic acid ($\ce{"{"}C{"{"}16:0{"}"}{"}"}$) is known to be atherogenic and is associated with increased levels of LDL cholesterol. In contrast, stearic acid ($\ce{"{"}C{"{"}18:0{"}"}{"}"}$) is generally considered to have a neutral effect on blood cholesterol metabolism, while oleic acid ($C18:1(\omega-9)$), a monounsaturated fatty acid, has beneficial hypocholesterolemic properties. Therefore, a higher ratio of these neutral/beneficial fatty acids to the atherogenic palmitic acid indicates a healthier lipid profile.
 
         ## Ссылки
 
@@ -825,15 +825,15 @@ FAE_Ratio_Nutritional_NutritionalValueIndex = Nutritional value index
         1. [Chen _et al._, 2016](https://doi.org/10.5713/ajas.15.0840 "Differences in Physicochemical and Nutritional Properties of Breast and Thigh Meat from Crossbred Chickens, Commercial Broilers, and Spent Hens")
         1. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-FAE_Ratio_Nutritional_Omega-6PolyunsaturatedToOmega-3Polyunsaturated = Omega -6 polyunsaturated fatty acids to omega -3 polyunsaturated fatty acids ratio
+FAE_Ratio_Nutritional_Omega-6PolyunsaturatedToOmega-3Polyunsaturated = Отношение  омега -6 полинеасыщенных жирных кислот к омега -3 полинеасыщенным жирным кислотам
     .markdown =
-        # Omega -6 polyunsaturated fatty acids to omega -3 polyunsaturated fatty acids ratio
+        # Отношение  омега -6 полинеасыщенных жирных кислот к омега -3 полинеасыщенным жирным кислотам
 
-        $$\frac{"{"}\sum \ce{"{"}PUFA\[\\omega-6\]{"}"}{"}"}{"{"}\sum \ce{"{"}PUFA\[\\omega-3\]{"}"}{"}"}$$
+        $$\frac{"{"}\sum \ce{"{"}PUFA(\omega-6){"}"}{"}"}{"{"}\sum \ce{"{"}PUFA(\omega-3){"}"}{"}"}$$
 
         ## Сокращения
 
-        - $\ce{"{"}PUFA\[\\omega-6\]{"}"}/\ce{"{"}PUFA\[\\omega-3\]{"}"}$
+        - $\ce{"{"}PUFA(\omega-6){"}"}/\ce{"{"}PUFA(\omega-3){"}"}$
 
         ## Описание
 
@@ -843,7 +843,7 @@ FAE_Ratio_Nutritional_Omega-6PolyunsaturatedToOmega-3Polyunsaturated = Omega -6 
         - _Risk of Chronic Diseases_: A high n-6/n-3 ratio is linked to an increased risk of cardiovascular disease, obesity, and other inflammatory conditions. Conversely, a lower, more balanced ratio is considered beneficial for preventing these health issues.
         - _Cellular Health_: Both omega -6 and omega -3 fatty acids are crucial components of cell membranes and are necessary for regulating blood pressure and other bodily functions. The balance between them is vital for optimal cellular function.
 
-        {"*"}{"*"}Limits{"*"}{"*"}:
+        {"*"}{"*"}Пределы{"*"}{"*"}:
 
         - from 1:1 to 5:1 [\[3\]](#references)
 
@@ -854,15 +854,15 @@ FAE_Ratio_Nutritional_Omega-6PolyunsaturatedToOmega-3Polyunsaturated = Omega -6 
         1. [Gonzalez-Becerra _et al._, 2023](https://doi.org/10.3390/healthcare11162333 "A Balanced Dietary Ratio of n-6:n-3 Polyunsaturated Fatty Acids Exerts an Effect on Total Fatty Acid Profile in RBCs and Inflammatory Markers in Subjects with Obesity")
         1. [Yang _et al._, 2023](https://doi.org/10.3389/fnut.2023.1166702 "Effects of different n-6/n-3 polyunsaturated fatty acids ratios on lipid metabolism in patients with hyperlipidemia: a randomized controlled clinical trial")
 
-FAE_Ratio_Nutritional_PolyunsaturatedToSaturated = Polyunsaturated fatty acids to saturated fatty acids ratio
+FAE_Ratio_Nutritional_PolyunsaturatedToSaturated = Отношение полинеасыщенных жирных кислот к насыщенным жирным кислотам
     .markdown =
-        # Polyunsaturated fatty acids to saturated fatty acids ratio
+        # Отношение полинеасыщенных жирных кислот к насыщенным жирным кислотам
 
         $$\frac{"{"}\sum \ce{"{"}PUFA{"}"}{"}"}{"{"}\sum \ce{"{"}SFA{"}"}{"}"}$$
 
         ## Сокращения
 
-        - PUFA/SFA
+        - ПНЖК/НЖК
 
         ## Описание
 
@@ -904,9 +904,9 @@ FAE_Ratio_Nutritional_PolyunsaturatedToSaturated = Polyunsaturated fatty acids t
         - [Skałecki _et al._, 2020](https://doi.org/10.3390/ani10050778 "35")
         - [Winiarska-Mieczan _et al._, 2020](https://doi.org/10.1071/AN19305 "48")
 
-FAE_Ratio_Nutritional_SaturationIndex = Saturation index
+FAE_Ratio_Nutritional_SaturationIndex = Индекс насыщенности
     .markdown =
-        # Saturation index
+        # Индекс насыщенности
 
         `нутритивное`
 
@@ -932,13 +932,13 @@ FAE_Ratio_Nutritional_SaturationIndex = Saturation index
         1. [Ulbricht _et al._, 1991](https://doi.org/10.1016/0140-6736(91)91846-M "Coronary heart disease: seven dietary factors")
         1. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
 
-FAE_Ratio_Nutritional_ThrombogenicIndex = Thrombogenic index
+FAE_Ratio_Nutritional_ThrombogenicIndex = Индекс тромбогенности
     .markdown =
-        # Thrombogenic index
+        # Индекс тромбогенности
 
         `нутритивное`
 
-        $$\frac{"{"}\ce{"{"}C{"{"}14:0{"}"}{"}"} + \ce{"{"}C{"{"}16:0{"}"}{"}"} + \ce{"{"}C{"{"}18:0{"}"}{"}"}{"}"}{"{"}0.5 \times \sum \ce{"{"}MUFA{"}"} + 0.5 \times \sum \ce{"{"}PUFA\[\\omega-6\]{"}"} + 3 \times \sum \ce{"{"}PUFA\[\\omega-3\]{"}"} + \frac{"{"}\sum \ce{"{"}PUFA\[\\omega-3\]{"}"}{"}"}{"{"}\sum \ce{"{"}PUFA\[\\omega-6\]{"}"}{"}"}{"}"}$$
+        $$\frac{"{"}\ce{"{"}C{"{"}14:0{"}"}{"}"} + \ce{"{"}C{"{"}16:0{"}"}{"}"} + \ce{"{"}C{"{"}18:0{"}"}{"}"}{"}"}{"{"}0.5 \times \sum \ce{"{"}MUFA{"}"} + 0.5 \times \sum \ce{"{"}PUFA(\omega-6){"}"} + 3 \times \sum \ce{"{"}PUFA(\omega-3){"}"} + \frac{"{"}\sum \ce{"{"}PUFA(\omega-3){"}"}{"}"}{"{"}\sum \ce{"{"}PUFA(\omega-6){"}"}{"}"}{"}"}$$
 
         ## Сокращения
 
@@ -948,7 +948,7 @@ FAE_Ratio_Nutritional_ThrombogenicIndex = Thrombogenic index
         ## Синонимы
 
         - Индекс тромбогенности
-        - Prothrombogenic fatty acids to antithrombogenic fatty acids ratio
+        - Отношение протромбогенных жирных кислот к антитромбогенным жирным кислотам
 
         ## Описание
 
@@ -962,6 +962,40 @@ FAE_Ratio_Nutritional_ThrombogenicIndex = Thrombogenic index
         1. [Watson _et al._, 2009](https://doi.org/10.1016/S0140-6736(09)60040-4 "Mechanisms of thrombogenesis in atrial fibrillation: Virchow's triad revisited")
         1. [Chen _et al._, 2020](https://doi.org/10.3390/ijms21165695 "Nutritional Indices for Assessing Fatty Acids: A Mini-Review")
         1. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
+
+FAE_Ratio_Nutritional_UnsaturationIndex = Unsaturation index
+    .markdown =
+        # Unsaturation index
+
+        `нутритивное`
+
+        $$\sum N \times \ce{"{"}NUFA{"}"}$$
+
+        ## Сокращения
+
+        - UI
+
+        ## Описание
+
+        Measure of the number of unsaturated bonds in fatty acids moieties of phospholipids, calculated as the fraction of each unsaturated fatty acid multiplied by the number of double bonds within that fatty acid.
+
+        ## Ссылки
+
+        1. [Labuda (2018)](https://doi.org/10.1351/goldbook.09864 "Labuda (2018)")
+
+        - [Poerschmann, _et al._, 2004](https://doi.org/10.1007/s00248-003-0144-6 "97")
+        - [Colombo, _et al._, 2006](https://doi.org/10.1007/s11130-006-0015-7 "96")
+        - [Gomes-Laranjo, _et al._, 2006](https://doi.org/10.1016/j.jplph.2005.06.020 "100")
+        - [Kumari, _et al._, 2010](https://doi.org/10.1016/j.foodchem.2009.11.006 "98")
+        - [Kumar, _et al._, 2011](https://doi.org/10.1007/s10811-010-9578-7 "27")
+        - [Realini, _et al._, 2013](https://doi.org/10.1016/j.meatsci.2013.03.007 "44")
+        - [Pandey, _et al._, 2015](https://doi.org/10.1371/journal.pone.0144469 "61")
+        - [Segura, _et al._, 2015](http://doi.org/10.1016/j.meatsci.2015.01.008 "101")
+        - [Chen, _et al._, 2016](https://doi.org/10.3390/md14040068 "29")
+        - [Chan, _et al._, 2017](https://doi.org/10.1016/j.foodchem.2016.10.066 "28")
+        - [Ghassemi-Golezani, _et al._, 2018](https://doi.org/10.1134/S1021443718020115 "99")
+        - [Rodríguez, _et al._, 2018](http://doi.org/10.1017/S1751731117003706 "102")
+        - [Dellatorre, _et al._, 2020](https://doi.org/10.1016/j.algal.2019.101726 "59")
 
 FAE_Ratio_Triacylglycerols_EnrichmentFactor = Коэффициент обогащения
     .markdown =
@@ -1312,7 +1346,7 @@ FAE_Sum_Delta12 = Дельта 12 жирные кислоты
     .markdown =
         # Дельта 12 жирные кислоты
 
-        $$\sum \ce{"{"}UFA\[\\Delta{"{"}12{"}"}\]{"}"}$$
+        $$\sum \ce{"{"}UFA(\Delta{"{"}12{"}"}){"}"}$$
 
         ## Сокращения
 
@@ -1321,7 +1355,7 @@ FAE_Sum_Delta12 = Дельта 12 жирные кислоты
 
         ## Описание
 
-        Представляет собой ненасыщенные жирные кислоты, содержащие двойную связь у 12-го атома углерода от карбоксильного конца. Наиболее известным и распространенным в природе примером является линолевая кислота ($C18:2\[\\Delta9,12\]$), которая также является основной омега -6 жирной кислотой.
+        Представляет собой ненасыщенные жирные кислоты, содержащие двойную связь у 12-го атома углерода от карбоксильного конца. Наиболее известным и распространенным в природе примером является линолевая кислота ($C18:2(\Delta9,12)$), которая также является основной омега -6 жирной кислотой.
 
         {"*"}{"*"}Пищевой потенциал{"*"}{"*"}:
 
@@ -1340,7 +1374,7 @@ FAE_Sum_Delta9 = Дельта 9 жирные кислоты
     .markdown =
         # Дельта 9 жирные кислоты
 
-        $$\sum \ce{"{"}UFA\[\\Delta{"{"}9{"}"}\]{"}"}$$
+        $$\sum \ce{"{"}UFA(\Delta{"{"}9{"}"}){"}"}$$
 
         ## Сокращения
 
@@ -1349,7 +1383,7 @@ FAE_Sum_Delta9 = Дельта 9 жирные кислоты
 
         ## Описание
 
-        Represents a broad class of unsaturated fatty acids that contain a double bond at the 9th carbon from the carboxyl end. This is the most common position for a double bond in nature, introduced by the $\Delta9$-desaturase enzyme (SCD1). The most prominent member is oleic acid ($C18:1\[\\Delta9\]$), but the class also includes palmitoleic acid ($C16:1\[\\Delta9\]$) and others.
+        Представляет собой широкий класс ненасыщенных жирных кислот, содержащих двойную связь у 9-го атома углерода от карбоксильного конца. Это наиболее распространенное в природе положение двойной связи, образуемое ферментом $\Delta9$-десатуразой (SCD1). Наиболее известным представителем является олеиновая кислота ($C18:1(\Delta9)$), но в этот класс также входит пальмитолеиновая кислота ($C16:1(\Delta9)$) и другие.
 
         {"*"}{"*"}Пищевой потенциал{"*"}{"*"}:
 
@@ -1368,7 +1402,7 @@ FAE_Sum_Omega-3 = Омега -3 жирные кислоты
     .markdown =
         # Омега -3 жирные кислоты
 
-        $$\sum \ce{"{"}UFA\[\\omega-3\]{"}"}$$
+        $$\sum \ce{"{"}UFA(\omega-3){"}"}$$
 
         ## Сокращения
 
@@ -1396,7 +1430,7 @@ FAE_Sum_Omega-6 = Омега -6 жирные кислоты
     .markdown =
         # Омега -6 жирные кислоты
 
-        $$\sum \ce{"{"}UFA\[\\omega-6\]{"}"}$$
+        $$\sum \ce{"{"}UFA(\omega-6){"}"}$$
 
         ## Сокращения
 
@@ -1424,7 +1458,7 @@ FAE_Sum_Omega-9 = Омега -9 жирные кислоты
     .markdown =
         # Омега -9 жирные кислоты
 
-        $$\sum \ce{"{"}UFA\[\\omega-9\]{"}"}$$
+        $$\sum \ce{"{"}UFA(\omega-9){"}"}$$
 
         ## Сокращения
 

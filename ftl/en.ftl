@@ -65,7 +65,7 @@ FAE_Primitive_c18c9 = Oleic fatty acid
     .markdown =
         # Oleic fatty acid
 
-        $$\ce{"{"}C{"{"}18:1{"}"}[\omega-9]{"}"}$$
+        $$\ce{"{"}C{"{"}18:1{"}"}(\omega-9){"}"}$$
 
         ## Abbreviations
 
@@ -96,7 +96,7 @@ FAE_Primitive_c18c9c12 = Linoleic fatty acid
     .markdown =
         # Linoleic fatty acid
 
-        $$\ce{"{"}C{"{"}18:2{"}"}[\omega-6]{"}"}$$
+        $$\ce{"{"}C{"{"}18:2{"}"}(\omega-6){"}"}$$
 
         ## Abbreviations
 
@@ -127,7 +127,7 @@ FAE_Primitive_c18c9c12c15 = α-Linolenic fatty acid
     .markdown =
         # α-Linolenic fatty acid
 
-        $$\ce{"{"}C{"{"}18:3{"}"}[\omega-3]{"}"}$$
+        $$\ce{"{"}C{"{"}18:3{"}"}(\omega-3){"}"}$$
 
         ## Abbreviations
 
@@ -189,7 +189,7 @@ FAE_Primitive_c20c5c8c11c14c17 = Eicosapentaenoic fatty acid
     .markdown =
         # Eicosapentaenoic fatty acid
 
-        $$\ce{"{"}C{"{"}20:5{"}"}[\omega-3]{"}"}$$
+        $$\ce{"{"}C{"{"}20:5{"}"}(\omega-3){"}"}$$
 
         ## Abbreviations
 
@@ -252,7 +252,7 @@ FAE_Primitive_c22c13 = Erucic fatty acid
     .markdown =
         # Erucic fatty acid
 
-        $$\ce{"{"}C{"{"}22:1{"}"}[\omega-9]{"}"}$$
+        $$\ce{"{"}C{"{"}22:1{"}"}(\omega-9){"}"}$$
 
         ## Abbreviations
 
@@ -283,7 +283,7 @@ FAE_Primitive_c22c4c7c10c13c16c19 = Docosahexaenoic fatty acid
     .markdown =
         # Docosahexaenoic fatty acid
 
-        $$\ce{"{"}C{"{"}22:6{"}"}[\omega-3]{"}"}$$
+        $$\ce{"{"}C{"{"}22:6{"}"}(\omega-3){"}"}$$
 
         ## Abbreviations
 
@@ -345,7 +345,7 @@ FAE_Primitive_c24c15 = Nervonic fatty acid
     .markdown =
         # Nervonic fatty acid
 
-        $$\ce{"{"}C{"{"}24:1{"}"}[\omega-9]{"}"}$$
+        $$\ce{"{"}C{"{"}24:1{"}"}(\omega-9){"}"}$$
 
         ## Abbreviations
 
@@ -376,7 +376,7 @@ FAE_Sum_EicosapentaenoicAndDocosahexaenoic = Eicosapentaenoic and docosahexaenoi
     .markdown =
         # Eicosapentaenoic and docosahexaenoic fatty acids
 
-        $$\ce{"{"}C{"{"}20:5{"}"}[\omega-3]{"}"} + \ce{"{"}C{"{"}22:6{"}"}[\omega-3]{"}"}$$
+        $$\ce{"{"}C{"{"}20:5{"}"}(\omega-3){"}"} + \ce{"{"}C{"{"}22:6{"}"}(\omega-3){"}"}$$
 
         ## Abbreviations
 
@@ -540,9 +540,9 @@ FAE_Ratio_Metabolic_Delta9DesaturaseIndex = Delta 9 desaturase index
 
         `metabolic`
 
-        $$\frac{"{"}C18:1[\omega-9]{"}"}{"{"}C18:0 + C18:1[\omega-9]{"}"} \tag{"{"}1, 2, 3{"}"}$$
+        $$\frac{"{"}C18:1(\omega-9){"}"}{"{"}C18:0 + C18:1(\omega-9){"}"} \tag{"{"}1, 2, 3{"}"}$$
 
-        $$\frac{"{"}C16:1[\omega-7] + C18:1[\omega-9]{"}"}{"{"}C16:0 + C18:0 + C16:1[\omega-7] + C18:1[\omega-9]{"}"} \tag{"{"}3, 4{"}"}$$
+        $$\frac{"{"}C16:1(\omega-7) + C18:1(\omega-9){"}"}{"{"}C16:0 + C18:0 + C16:1(\omega-7) + C18:1(\omega-9){"}"} \tag{"{"}3, 4{"}"}$$
 
         > [!NOTE]
         > There are different versions of this index calculation. The first version calculates only the conversion from $\ce{"{"}C{"{"}18:0{"}"}{"}"}$ to $\ce{"{"}C{"{"}18:1{"}"}{"}"}$, while the second calculates the total conversion of $\ce{"{"}C{"{"}16:0{"}"}{"}"}$ and $\ce{"{"}C{"{"}18:0{"}"}{"}"}$.
@@ -553,7 +553,7 @@ FAE_Ratio_Metabolic_Delta9DesaturaseIndex = Delta 9 desaturase index
 
         ## Description
 
-        Represents the estimated activity of the delta 9 desaturase enzyme (also known as stearoyl-CoA desaturase) in tissues, calculated using the product/substrate ratio approach. This enzyme catalyzes the introduction of a double bond at the delta-9 position of saturated fatty acids, primarily converting palmitic acid ($\ce{"{"}C{"{"}16:0{"}"}{"}"}$) and stearic acid ($\ce{"{"}C{"{"}18:0{"}"}{"}"}$) into their corresponding monounsaturated fatty acids, palmitoleic acid ($\ce{"{"}C{"{"}16:1{"}"}[\omega-7]{"}"}$) and oleic acid ($\ce{"{"}C{"{"}18:1{"}"}[\omega-9]{"}"}$).
+        Represents the estimated activity of the delta 9 desaturase enzyme (also known as stearoyl-CoA desaturase) in tissues, calculated using the product/substrate ratio approach. This enzyme catalyzes the introduction of a double bond at the delta-9 position of saturated fatty acids, primarily converting palmitic acid ($\ce{"{"}C{"{"}16:0{"}"}{"}"}$) and stearic acid ($\ce{"{"}C{"{"}18:0{"}"}{"}"}$) into their corresponding monounsaturated fatty acids, palmitoleic acid ($\ce{"{"}C{"{"}16:1{"}"}(\omega-7){"}"}$) and oleic acid ($\ce{"{"}C{"{"}18:1{"}"}(\omega-9){"}"}$).
 
         This is a metabolic indicator used to evaluate the endogenous synthesis of monounsaturated fatty acids from saturated precursors. It is widely used in animal nutrition and meat/egg quality research to discriminate metabolic changes caused by dietary factors, genetics, age, or rearing systems. Like the elongase and thioesterase indices, it serves as a practical and cost-effective surrogate for measuring true desaturase enzyme activity in the laboratory.
 
@@ -594,7 +594,7 @@ FAE_Ratio_Metabolic_KineticActivityIndex = Kinetic activity index
 
         `metabolic`
 
-        $$\frac{"{"}\sum \ce{"{"}PUFA[\omega-3]{"}"}{"}"}{"{"}\ce{"{"}C{"{"}18:3{"}"}[\omega-3]{"}"}{"}"}$$
+        $$\frac{"{"}\sum \ce{"{"}PUFA(\omega-3){"}"}{"}"}{"{"}\ce{"{"}C{"{"}18:3{"}"}(\omega-3){"}"}{"}"}$$
 
         ## Abbreviations
 
@@ -606,7 +606,7 @@ FAE_Ratio_Metabolic_KineticActivityIndex = Kinetic activity index
 
         ## Description
 
-        Represents the activity index (also referred to as the kinetic activity index, KAI), which is based on the indirect evaluation of $\beta$-oxidation activity in muscles to estimate energy expenditure. It is calculated as the ratio of total omega-3 polyunsaturated fatty acids ($\sum PUFA[\omega-3]$) to $\alpha$-linolenic acid (ALA, $C18:3[\omega-3]$).
+        Represents the activity index (also referred to as the kinetic activity index, KAI), which is based on the indirect evaluation of $\beta$-oxidation activity in muscles to estimate energy expenditure. It is calculated as the ratio of total omega-3 polyunsaturated fatty acids ($\sum PUFA(\omega-3)$) to $\alpha$-linolenic acid (ALA, $C18:3(\omega-3)$).
 
         This index is a metabolic indicator that describes the mobilization of n-3 long-chain PUFAs used for energy production (i.e., movement) and the resulting oxidative status. The ratio serves as an indicator of energy consumption ($\beta$-oxidation) and is typically higher in oxidative muscles than in glycolytic ones, reflecting higher kinetic activity in animals. Researchers use this index as an objective tool to measure the adaptability of a genetic line to extensive rearing systems (e.g., outdoor runs), because it accounts for the physical activity exerted during the animal's life and can be used for {"*"}ex post{"*"} animal welfare assessment.
 
@@ -646,10 +646,10 @@ FAE_Ratio_Nutritional_AtherogenicIndex = Atherogenic index
 
         `nutritional`
 
-        $$\frac{"{"}\ce{"{"}C{"{"}12:0{"}"}{"}"} + 4 \times \ce{"{"}C{"{"}14:0{"}"}{"}"} + \ce{"{"}C{"{"}16:0{"}"}{"}"}{"}"}{"{"}\sum \ce{"{"}MUFA{"}"} + \sum \ce{"{"}PUFA[\omega-6]{"}"} + \sum \ce{"{"}PUFA[\omega-3]{"}"}{"}"} \tag{"{"}1, 3-5{"}"}$$
+        $$\frac{"{"}\ce{"{"}C{"{"}12:0{"}"}{"}"} + 4 \times \ce{"{"}C{"{"}14:0{"}"}{"}"} + \ce{"{"}C{"{"}16:0{"}"}{"}"}{"}"}{"{"}\sum \ce{"{"}MUFA{"}"} + \sum \ce{"{"}PUFA(\omega-6){"}"} + \sum \ce{"{"}PUFA(\omega-3){"}"}{"}"} \tag{"{"}1, 3-5{"}"}$$
 
         > [!NOTE]
-        > $$\sum \ce{"{"}MUFA{"}"} + \sum \ce{"{"}PUFA[\omega-6]{"}"} + \sum \ce{"{"}PUFA[\omega-3]{"}"} \ne \sum \ce{"{"}UFA{"}"} \tag{"{"}2{"}"}$$
+        > $$\sum \ce{"{"}MUFA{"}"} + \sum \ce{"{"}PUFA(\omega-6){"}"} + \sum \ce{"{"}PUFA(\omega-3){"}"} \ne \sum \ce{"{"}UFA{"}"} \tag{"{"}2{"}"}$$
 
         ## Abbreviations
 
@@ -681,7 +681,7 @@ FAE_Ratio_Nutritional_CholesterolIndex = Cholesterol index
 
         `nutritional`
 
-        $$\frac{"{"}\ce{"{"}C{"{"}18:1{"}"}[\omega-9]{"}"} + \sum \ce{"{"}PUFA{"}"}{"}"}{"{"}\ce{"{"}C{"{"}12:0{"}"}{"}"} + \ce{"{"}C{"{"}14:0{"}"}{"}"} + \ce{"{"}C{"{"}16:0{"}"}{"}"}{"}"}$$
+        $$\frac{"{"}\ce{"{"}C{"{"}18:1{"}"}(\omega-9){"}"} + \sum \ce{"{"}PUFA{"}"}{"}"}{"{"}\ce{"{"}C{"{"}12:0{"}"}{"}"} + \ce{"{"}C{"{"}14:0{"}"}{"}"} + \ce{"{"}C{"{"}16:0{"}"}{"}"}{"}"}$$
 
         ## Abbreviations
 
@@ -713,7 +713,7 @@ FAE_Ratio_Nutritional_FishLipidQuality = Fish lipid quality
 
         `nutritional`
 
-        $$\frac{"{"}\ce{"{"}C{"{"}20:5{"}"}[\omega-3]{"}"} + \ce{"{"}C{"{"}22:6{"}"}[\omega-3]{"}"}{"}"}{"{"}\sum \ce{"{"}FA{"}"}{"}"}$$
+        $$\frac{"{"}\ce{"{"}C{"{"}20:5{"}"}(\omega-3){"}"} + \ce{"{"}C{"{"}22:6{"}"}(\omega-3){"}"}{"}"}{"{"}\sum \ce{"{"}FA{"}"}{"}"}$$
 
         ## Abbreviations
 
@@ -725,7 +725,7 @@ FAE_Ratio_Nutritional_FishLipidQuality = Fish lipid quality
 
         ## Description
 
-        Represents the fish/flesh lipid quality index, originally used to assess the lipid quality of fish or flesh. It evaluates the proportion of the two most critical marine omega -3 long-chain polyunsaturated fatty acids: eicosapentaenoic acid (EPA, $\ce{"{"}C{"{"}20:5{"}"}[\omega-3]{"}"}$) and docosahexaenoic acid (DHA, $\ce{"{"}C{"{"}22:6{"}"}[\omega-3]{"}"}$). 
+        Represents the fish/flesh lipid quality index, originally used to assess the lipid quality of fish or flesh. It evaluates the proportion of the two most critical marine omega -3 long-chain polyunsaturated fatty acids: eicosapentaenoic acid (EPA, $\ce{"{"}C{"{"}20:5{"}"}(\omega-3){"}"}$) and docosahexaenoic acid (DHA, $\ce{"{"}C{"{"}22:6{"}"}(\omega-3){"}"}$). 
 
         From a human health perspective, a higher FLQ value is more desirable. EPA and DHA play essential roles in biological processes, including reducing the risk of cardiovascular diseases, hypertension, and inflammation. Because this index specifically highlights these two fatty acids, it is particularly suitable for evaluating marine products or foods enriched with marine lipids. Higher values indicate a better nutritional quality of the lipid fraction.
 
@@ -744,10 +744,10 @@ FAE_Ratio_Nutritional_HealthPromotingIndex = Health promoting index
 
         `nutritional`
 
-        $$\frac{"{"}\sum \ce{"{"}MUFA{"}"} + \sum \ce{"{"}PUFA[\omega-6]{"}"} + \sum \ce{"{"}PUFA[\omega-3]{"}"}{"}"}{"{"}\ce{"{"}C{"{"}12:0{"}"}{"}"} + 4 \times \ce{"{"}C{"{"}14:0{"}"}{"}"} + \ce{"{"}C{"{"}16:0{"}"}{"}"}{"}"}$$
+        $$\frac{"{"}\sum \ce{"{"}MUFA{"}"} + \sum \ce{"{"}PUFA(\omega-6){"}"} + \sum \ce{"{"}PUFA(\omega-3){"}"}{"}"}{"{"}\ce{"{"}C{"{"}12:0{"}"}{"}"} + 4 \times \ce{"{"}C{"{"}14:0{"}"}{"}"} + \ce{"{"}C{"{"}16:0{"}"}{"}"}{"}"}$$
 
         > [!NOTE]
-        > $$\sum \ce{"{"}MUFA{"}"} + \sum \ce{"{"}PUFA[\omega-6]{"}"} + \sum \ce{"{"}PUFA[\omega-3]{"}"} \ne \sum \ce{"{"}UFA{"}"}$$
+        > $$\sum \ce{"{"}MUFA{"}"} + \sum \ce{"{"}PUFA(\omega-6){"}"} + \sum \ce{"{"}PUFA(\omega-3){"}"} \ne \sum \ce{"{"}UFA{"}"}$$
 
         > [!TIP]
         > $$\frac{"{"}3 \times \sum \{"{"}1|2|3:\ce{"{"}UFA{"}"}\{"}"} + \{"{"}2:\ce{"{"}C{"{"}16:0{"}"}{"}"}\{"}"}{"}"}{"{"}3 \times \{"{"}1|2|3:\ce{"{"}C{"{"}12:0{"}"}{"}"}\{"}"} + 12 \times \{"{"}1|2|3:\ce{"{"}C{"{"}14:0{"}"}{"}"}\{"}"} + 2 \times \{"{"}1|3:\ce{"{"}C{"{"}16:0{"}"}{"}"}\{"}"}{"}"}$$
@@ -778,7 +778,7 @@ FAE_Ratio_Nutritional_LinoleicToAlphaLinolenic = Linoleic fatty acid to α-Linol
 
         `nutritional`
 
-        $$\frac{"{"}\ce{"{"}C{"{"}18:2{"}"}[\omega-6]{"}"}{"}"}{"{"}\ce{"{"}C{"{"}18:3{"}"}[\omega-3]{"}"}{"}"}$$
+        $$\frac{"{"}\ce{"{"}C{"{"}18:2{"}"}(\omega-6){"}"}{"}"}{"{"}\ce{"{"}C{"{"}18:3{"}"}(\omega-3){"}"}{"}"}$$
 
         ## Abbreviations
 
@@ -807,7 +807,7 @@ FAE_Ratio_Nutritional_NutritionalValueIndex = Nutritional value index
 
         `nutritional`
 
-        $$\frac{"{"}\ce{"{"}C{"{"}18:0{"}"}{"}"} + \ce{"{"}C{"{"}18:1{"}"}[\omega-9]{"}"}{"}"}{"{"}\ce{"{"}C{"{"}16:0{"}"}{"}"}{"}"}$$
+        $$\frac{"{"}\ce{"{"}C{"{"}18:0{"}"}{"}"} + \ce{"{"}C{"{"}18:1{"}"}(\omega-9){"}"}{"}"}{"{"}\ce{"{"}C{"{"}16:0{"}"}{"}"}{"}"}$$
 
         ## Abbreviations
 
@@ -815,9 +815,9 @@ FAE_Ratio_Nutritional_NutritionalValueIndex = Nutritional value index
 
         ## Description
 
-        Represents the nutritional value index, a metric developed to evaluate the nutritional quality of lipids, particularly in foods of animal origin where stearic, oleic, and palmitic fatty acids are dominant. It is calculated as the ratio of the sum of stearic acid ($\ce{"{"}C{"{"}18:0{"}"}{"}"}$) and oleic acid ($C18:1[\omega-9]$) to palmitic acid ($\ce{"{"}C{"{"}16:0{"}"}{"}"}$).
+        Represents the nutritional value index, a metric developed to evaluate the nutritional quality of lipids, particularly in foods of animal origin where stearic, oleic, and palmitic fatty acids are dominant. It is calculated as the ratio of the sum of stearic acid ($\ce{"{"}C{"{"}18:0{"}"}{"}"}$) and oleic acid ($C18:1(\omega-9)$) to palmitic acid ($\ce{"{"}C{"{"}16:0{"}"}{"}"}$).
 
-        From a human health perspective, a higher NVI value is considered more favorable. Palmitic acid ($\ce{"{"}C{"{"}16:0{"}"}{"}"}$) is known to be atherogenic and is associated with increased levels of LDL cholesterol. In contrast, stearic acid ($\ce{"{"}C{"{"}18:0{"}"}{"}"}$) is generally considered to have a neutral effect on blood cholesterol metabolism, while oleic acid ($C18:1[\omega-9]$), a monounsaturated fatty acid, has beneficial hypocholesterolemic properties. Therefore, a higher ratio of these neutral/beneficial fatty acids to the atherogenic palmitic acid indicates a healthier lipid profile.
+        From a human health perspective, a higher NVI value is considered more favorable. Palmitic acid ($\ce{"{"}C{"{"}16:0{"}"}{"}"}$) is known to be atherogenic and is associated with increased levels of LDL cholesterol. In contrast, stearic acid ($\ce{"{"}C{"{"}18:0{"}"}{"}"}$) is generally considered to have a neutral effect on blood cholesterol metabolism, while oleic acid ($C18:1(\omega-9)$), a monounsaturated fatty acid, has beneficial hypocholesterolemic properties. Therefore, a higher ratio of these neutral/beneficial fatty acids to the atherogenic palmitic acid indicates a healthier lipid profile.
 
         ## References
 
@@ -829,11 +829,11 @@ FAE_Ratio_Nutritional_Omega-6PolyunsaturatedToOmega-3Polyunsaturated = Omega -6 
     .markdown =
         # Omega -6 polyunsaturated fatty acids to omega -3 polyunsaturated fatty acids ratio
 
-        $$\frac{"{"}\sum \ce{"{"}PUFA[\omega-6]{"}"}{"}"}{"{"}\sum \ce{"{"}PUFA[\omega-3]{"}"}{"}"}$$
+        $$\frac{"{"}\sum \ce{"{"}PUFA(\omega-6){"}"}{"}"}{"{"}\sum \ce{"{"}PUFA(\omega-3){"}"}{"}"}$$
 
         ## Abbreviations
 
-        - $\ce{"{"}PUFA[\omega-6]{"}"}/\ce{"{"}PUFA[\omega-3]{"}"}$
+        - $\ce{"{"}PUFA(\omega-6){"}"}/\ce{"{"}PUFA(\omega-3){"}"}$
 
         ## Description
 
@@ -938,7 +938,7 @@ FAE_Ratio_Nutritional_ThrombogenicIndex = Thrombogenic index
 
         `nutritional`
 
-        $$\frac{"{"}\ce{"{"}C{"{"}14:0{"}"}{"}"} + \ce{"{"}C{"{"}16:0{"}"}{"}"} + \ce{"{"}C{"{"}18:0{"}"}{"}"}{"}"}{"{"}0.5 \times \sum \ce{"{"}MUFA{"}"} + 0.5 \times \sum \ce{"{"}PUFA[\omega-6]{"}"} + 3 \times \sum \ce{"{"}PUFA[\omega-3]{"}"} + \frac{"{"}\sum \ce{"{"}PUFA[\omega-3]{"}"}{"}"}{"{"}\sum \ce{"{"}PUFA[\omega-6]{"}"}{"}"}{"}"}$$
+        $$\frac{"{"}\ce{"{"}C{"{"}14:0{"}"}{"}"} + \ce{"{"}C{"{"}16:0{"}"}{"}"} + \ce{"{"}C{"{"}18:0{"}"}{"}"}{"}"}{"{"}0.5 \times \sum \ce{"{"}MUFA{"}"} + 0.5 \times \sum \ce{"{"}PUFA(\omega-6){"}"} + 3 \times \sum \ce{"{"}PUFA(\omega-3){"}"} + \frac{"{"}\sum \ce{"{"}PUFA(\omega-3){"}"}{"}"}{"{"}\sum \ce{"{"}PUFA(\omega-6){"}"}{"}"}{"}"}$$
 
         ## Abbreviations
 
@@ -962,6 +962,40 @@ FAE_Ratio_Nutritional_ThrombogenicIndex = Thrombogenic index
         2. [Watson _et al._, 2009](https://doi.org/10.1016/S0140-6736(09)60040-4 "Mechanisms of thrombogenesis in atrial fibrillation: Virchow's triad revisited")
         3. [Chen _et al._, 2020](https://doi.org/10.3390/ijms21165695 "Nutritional Indices for Assessing Fatty Acids: A Mini-Review")
         4. [Kralik _et al._, 2025](https://doi.org/10.18047/poljo.31.1.8 "A Fatty acid profile and THE Health Lipid Indices in Table Eggs")
+
+FAE_Ratio_Nutritional_UnsaturationIndex = Unsaturation index
+    .markdown =
+        # Unsaturation index
+
+        `nutritional`
+
+        $$\sum N \times \ce{"{"}NUFA{"}"}$$
+
+        ## Abbreviations
+
+        - UI
+
+        ## Description
+
+        Measure of the number of unsaturated bonds in fatty acids moieties of phospholipids, calculated as the fraction of each unsaturated fatty acid multiplied by the number of double bonds within that fatty acid.
+
+        ## References
+
+        1. [Labuda (2018)](https://doi.org/10.1351/goldbook.09864 "Labuda (2018)")
+
+        - [Poerschmann, _et al._, 2004](https://doi.org/10.1007/s00248-003-0144-6 "97")
+        - [Colombo, _et al._, 2006](https://doi.org/10.1007/s11130-006-0015-7 "96")
+        - [Gomes-Laranjo, _et al._, 2006](https://doi.org/10.1016/j.jplph.2005.06.020 "100")
+        - [Kumari, _et al._, 2010](https://doi.org/10.1016/j.foodchem.2009.11.006 "98")
+        - [Kumar, _et al._, 2011](https://doi.org/10.1007/s10811-010-9578-7 "27")
+        - [Realini, _et al._, 2013](https://doi.org/10.1016/j.meatsci.2013.03.007 "44")
+        - [Pandey, _et al._, 2015](https://doi.org/10.1371/journal.pone.0144469 "61")
+        - [Segura, _et al._, 2015](http://doi.org/10.1016/j.meatsci.2015.01.008 "101")
+        - [Chen, _et al._, 2016](https://doi.org/10.3390/md14040068 "29")
+        - [Chan, _et al._, 2017](https://doi.org/10.1016/j.foodchem.2016.10.066 "28")
+        - [Ghassemi-Golezani, _et al._, 2018](https://doi.org/10.1134/S1021443718020115 "99")
+        - [Rodríguez, _et al._, 2018](http://doi.org/10.1017/S1751731117003706 "102")
+        - [Dellatorre, _et al._, 2020](https://doi.org/10.1016/j.algal.2019.101726 "59")
 
 FAE_Ratio_Triacylglycerols_EnrichmentFactor = Enrichment factor
     .markdown =
@@ -1312,7 +1346,7 @@ FAE_Sum_Delta12 = Delta 12 fatty acids
     .markdown =
         # Delta 12 fatty acids
 
-        $$\sum \ce{"{"}UFA[\Delta{"{"}12{"}"}]{"}"}$$
+        $$\sum \ce{"{"}UFA(\Delta{"{"}12{"}"}){"}"}$$
 
         ## Abbreviations
 
@@ -1321,7 +1355,7 @@ FAE_Sum_Delta12 = Delta 12 fatty acids
 
         ## Description
 
-        Represents unsaturated fatty acids that contain a double bond at the 12th carbon from the carboxyl end. The most prominent and abundant example in nature is linoleic acid ($C18:2[\Delta9,12]$), which is also the primary omega -6 fatty acid.
+        Represents unsaturated fatty acids that contain a double bond at the 12th carbon from the carboxyl end. The most prominent and abundant example in nature is linoleic acid ($C18:2(\Delta9,12)$), which is also the primary omega -6 fatty acid.
 
         {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
@@ -1340,7 +1374,7 @@ FAE_Sum_Delta9 = Delta 9 fatty acids
     .markdown =
         # Delta 9 fatty acids
 
-        $$\sum \ce{"{"}UFA[\Delta{"{"}9{"}"}]{"}"}$$
+        $$\sum \ce{"{"}UFA(\Delta{"{"}9{"}"}){"}"}$$
 
         ## Abbreviations
 
@@ -1349,7 +1383,7 @@ FAE_Sum_Delta9 = Delta 9 fatty acids
 
         ## Description
 
-        Represents a broad class of unsaturated fatty acids that contain a double bond at the 9th carbon from the carboxyl end. This is the most common position for a double bond in nature, introduced by the $\Delta9$-desaturase enzyme (SCD1). The most prominent member is oleic acid ($C18:1[\Delta9]$), but the class also includes palmitoleic acid ($C16:1[\Delta9]$) and others.
+        Represents a broad class of unsaturated fatty acids that contain a double bond at the 9th carbon from the carboxyl end. This is the most common position for a double bond in nature, introduced by the $\Delta9$-desaturase enzyme (SCD1). The most prominent member is oleic acid ($C18:1(\Delta9)$), but the class also includes palmitoleic acid ($C16:1(\Delta9)$) and others.
 
         {"*"}{"*"}Nutritional potential{"*"}{"*"}:
 
@@ -1368,7 +1402,7 @@ FAE_Sum_Omega-3 = Omega -3 fatty acids
     .markdown =
         # Omega -3 fatty acids
 
-        $$\sum \ce{"{"}UFA[\omega-3]{"}"}$$
+        $$\sum \ce{"{"}UFA(\omega-3){"}"}$$
 
         ## Abbreviations
 
@@ -1396,7 +1430,7 @@ FAE_Sum_Omega-6 = Omega -6 fatty acids
     .markdown =
         # Omega -6 fatty acids
 
-        $$\sum \ce{"{"}UFA[\omega-6]{"}"}$$
+        $$\sum \ce{"{"}UFA(\omega-6){"}"}$$
 
         ## Abbreviations
 
@@ -1424,7 +1458,7 @@ FAE_Sum_Omega-9 = Omega -9 fatty acids
     .markdown =
         # Omega -9 fatty acids
 
-        $$\sum \ce{"{"}UFA[\omega-9]{"}"}$$
+        $$\sum \ce{"{"}UFA(\omega-9){"}"}$$
 
         ## Abbreviations
 
