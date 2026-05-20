@@ -1,3 +1,10 @@
+Primitive = Primitive
+    .hover = Primitive
+Ratio = Ratio
+    .hover = Ratio expressions
+Sum = Sum
+    .hover = Sum expressions
+
 Expressions = Expressions
     .hover = Fatty acid expressions
 Biodiesel = Biodiesel
