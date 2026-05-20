@@ -36,6 +36,8 @@ def escape_fluent_text(text):
             res.append('{"{"}')
         elif char == '}':
             res.append('{"}"}')
+        elif char == '*':
+            res.append('{"*"}')
         else:
             res.append(char)
     return "".join(res)
@@ -110,11 +112,11 @@ def create_ftl_from_dir(directory_path, output_file, allowed_dirs):
 
 # === ЗАПУСК ===
 for lang in LANGUAGES:
-    source_dir = f'./book/{lang}/markdown'
-    output_ftl = f'./ftl/{lang}.ftl'
+    input = f'./book/{lang}/markdown'
+    output = f'./ftl/{lang}.ftl'
     
     print(f"Обработка языка: {lang.upper()}...")
-    create_ftl_from_dir(source_dir, output_ftl, ALLOWED_DIRS)
+    create_ftl_from_dir(input, output, ALLOWED_DIRS)
 
 # # === ЗАПУСК ===
 # if not os.path.exists(SOURCE_DIR):
