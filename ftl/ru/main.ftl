@@ -1,8 +1,8 @@
 Expressions = Expressions
     .hover = Fatty acid expressions
 Biodiesel = Biodiesel
-    .hover = Biodiesel ratios
+    .hover = Biodiesel expressions
 Metabolic = Metabolic
-    .hover = Metabolic ratios
+    .hover = Metabolic expressions
 Nutritional = Nutritional
-    .hover = Nutritional ratios
+    .hover = Nutritional expressions
