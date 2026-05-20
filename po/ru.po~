@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Lipids\n"
-"POT-Creation-Date: 2026-05-20T08:15:02+03:00\n"
+"POT-Creation-Date: 2026-05-20T20:07:13+03:00\n"
 "PO-Revision-Date: 2026-05-05T10:29:57+03:00\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -23,53 +23,51 @@ msgstr "Введение"
 msgid "Primitive"
 msgstr "Примитивы"
 
-#: src/SUMMARY.md:6 src/Primitive/index.md:3 src/Primitive/c16.md:1
+#: src/SUMMARY.md:6 src/Primitive/c16.md:1
 msgid "Palmitic fatty acid"
 msgstr "Пальмитиновая жирная кислота"
 
-#: src/SUMMARY.md:7 src/Primitive/index.md:4 src/Primitive/c18.md:1
+#: src/SUMMARY.md:7 src/Primitive/c18.md:1
 msgid "Stearic fatty acid"
 msgstr "Стеариновая жирная кислота"
 
-#: src/SUMMARY.md:8 src/Primitive/index.md:5 src/Primitive/c18c9.md:1
+#: src/SUMMARY.md:8 src/Primitive/c18c9.md:1
 msgid "Oleic fatty acid"
 msgstr "Олеиновая жирная кислота"
 
-#: src/SUMMARY.md:9 src/Primitive/index.md:6 src/Primitive/c18c9c12.md:1
+#: src/SUMMARY.md:9 src/Primitive/c18c9c12.md:1
 msgid "Linoleic fatty acid"
 msgstr "Линолевая жирная кислота"
 
-#: src/SUMMARY.md:10 src/Primitive/index.md:7 src/Primitive/c18c9c12c15.md:1
+#: src/SUMMARY.md:10 src/Primitive/c18c9c12c15.md:1
 msgid "α-Linolenic fatty acid"
 msgstr "α-Линоленовая жирная кислота"
 
-#: src/SUMMARY.md:11 src/Primitive/index.md:8 src/Primitive/c20.md:1
+#: src/SUMMARY.md:11 src/Primitive/c20.md:1
 msgid "Arachidic fatty acid"
 msgstr "Арахидоновая жирная кислота"
 
-#: src/SUMMARY.md:12 src/Primitive/index.md:9
-#: src/Primitive/c20c5c8c11c14c17.md:1
+#: src/SUMMARY.md:12 src/Primitive/c20c5c8c11c14c17.md:1
 msgid "Eicosapentaenoic fatty acid"
 msgstr "Эйкозапентаеновая жирная кислота"
 
-#: src/SUMMARY.md:13 src/Primitive/index.md:10 src/Primitive/c22.md:1
+#: src/SUMMARY.md:13 src/Primitive/c22.md:1
 msgid "Behenic fatty acid"
 msgstr "Бегеновая жирная кислота"
 
-#: src/SUMMARY.md:14 src/Primitive/index.md:11
-#: src/Primitive/c22c4c7c10c13c16c19.md:1
+#: src/SUMMARY.md:14 src/Primitive/c22c4c7c10c13c16c19.md:1
 msgid "Docosahexaenoic fatty acid"
 msgstr "Докозагексаеновая жирная кислота"
 
-#: src/SUMMARY.md:15 src/Primitive/index.md:12 src/Primitive/c22c13.md:1
+#: src/SUMMARY.md:15 src/Primitive/c22c13.md:1
 msgid "Erucic fatty acid"
 msgstr "Эруковая жирная кислота"
 
-#: src/SUMMARY.md:16 src/Primitive/index.md:13 src/Primitive/c24.md:1
+#: src/SUMMARY.md:16 src/Primitive/c24.md:1
 msgid "Lignoceric fatty acid"
 msgstr "Лигноцериновая жирная кислота"
 
-#: src/SUMMARY.md:17 src/Primitive/index.md:14 src/Primitive/c24c15.md:1
+#: src/SUMMARY.md:17 src/Primitive/c24c15.md:1
 msgid "Nervonic fatty acid"
 msgstr "Нервоновая жирная кислота"
 
@@ -81,32 +79,31 @@ msgstr "Суммы"
 msgid "Eicosapentaenoic and docosahexaenoic fatty acids"
 msgstr "Эйкозапентаеновая и докозагексаеновая жирные кислоты"
 
-#: src/SUMMARY.md:21 src/Sum/index.md:3 src/Sum/ByChainLength/index.md:1
+#: src/SUMMARY.md:21 src/Sum/ByChainLength/index.md:1
 msgid "Sum by chain length"
 msgstr "Сумма по длине цепи"
 
-#: src/SUMMARY.md:22
+#: src/SUMMARY.md:22 src/Sum/ByChainLength/Short.md:1
 msgid "Short chain fatty acids"
 msgstr "Короткоцепочечные жирные кислоты"
 
-#: src/SUMMARY.md:23
+#: src/SUMMARY.md:23 src/Sum/ByChainLength/Medium.md:1
 msgid "Medium chain fatty acids"
 msgstr "Среднецепочечные жирные кислоты"
 
-#: src/SUMMARY.md:24
+#: src/SUMMARY.md:24 src/Sum/ByChainLength/Long.md:1
 msgid "Long chain fatty acids"
 msgstr "Длинноцепочечные жирные кислоты"
 
-#: src/SUMMARY.md:25
+#: src/SUMMARY.md:25 src/Sum/ByChainLength/VeryLong.md:1
 msgid "Very long chain fatty acids"
 msgstr "Очень длинноцепочечные жирные кислоты"
 
-#: src/SUMMARY.md:26 src/Sum/index.md:4 src/Sum/ByUnsaturatedBounds/index.md:1
+#: src/SUMMARY.md:26 src/Sum/ByUnsaturatedBounds/index.md:1
 msgid "Sum by unsaturated bounds"
 msgstr "Сумма по ненасыщенным связям"
 
-#: src/SUMMARY.md:27 src/Sum/ByUnsaturatedBounds/index.md:3
-#: src/Sum/ByUnsaturatedBounds/ByCount/index.md:1
+#: src/SUMMARY.md:27 src/Sum/ByUnsaturatedBounds/ByCount/index.md:1
 msgid "Sum by unsaturated bounds count"
 msgstr "Сумма по количеству ненасыщенных связей"
 
@@ -130,8 +127,7 @@ msgstr "Полинеасыщенные жирные кислоты"
 msgid "Unsaturated fatty acids"
 msgstr "Неасыщенные жирные кислоты"
 
-#: src/SUMMARY.md:33 src/Sum/ByUnsaturatedBounds/index.md:4
-#: src/Sum/ByUnsaturatedBounds/ByOffset/index.md:1
+#: src/SUMMARY.md:33 src/Sum/ByUnsaturatedBounds/ByOffset/index.md:1
 msgid "Sum by unsaturated bounds offset"
 msgstr "Сумма по смещению ненасыщенной связи"
 
@@ -155,8 +151,7 @@ msgstr "Омега -6 жирные кислоты"
 msgid "Omega -9 fatty acids"
 msgstr "Омега -9 жирные кислоты"
 
-#: src/SUMMARY.md:39 src/Sum/ByUnsaturatedBounds/index.md:5
-#: src/Sum/ByUnsaturatedBounds/ByParity/index.md:1
+#: src/SUMMARY.md:39 src/Sum/ByUnsaturatedBounds/ByParity/index.md:1
 msgid "Sum by double bounds parity"
 msgstr "Сумма по четности двойных связей"
 
@@ -164,8 +159,7 @@ msgstr "Сумма по четности двойных связей"
 msgid "Trans fatty acids"
 msgstr "Транс жирные кислоты"
 
-#: src/SUMMARY.md:41 src/Sum/ByUnsaturatedBounds/index.md:6
-#: src/Sum/ByUnsaturatedBounds/ByPattern/index.md:1
+#: src/SUMMARY.md:41 src/Sum/ByUnsaturatedBounds/ByPattern/index.md:1
 msgid "Sum by unsaturated bounds pattern"
 msgstr "Сумма по шаблону ненасыщенных связей"
 
@@ -302,6 +296,66 @@ msgstr ""
 msgid "[Ratio](Ratio/README.md)"
 msgstr ""
 
+#: src/Primitive/index.md:3
+#, fuzzy
+msgid "[Palmitic fatty acid](c16.md)"
+msgstr "Пальмитиновая жирная кислота"
+
+#: src/Primitive/index.md:4
+#, fuzzy
+msgid "[Stearic fatty acid](c18.md)"
+msgstr "Стеариновая жирная кислота"
+
+#: src/Primitive/index.md:5
+#, fuzzy
+msgid "[Oleic fatty acid](c18c9.md)"
+msgstr "Олеиновая жирная кислота"
+
+#: src/Primitive/index.md:6
+#, fuzzy
+msgid "[Linoleic fatty acid](c18c9c12.md)"
+msgstr "Линолевая жирная кислота"
+
+#: src/Primitive/index.md:7
+#, fuzzy
+msgid "[α-Linolenic fatty acid](c18c9c12c15.md)"
+msgstr "α-Линоленовая жирная кислота"
+
+#: src/Primitive/index.md:8
+#, fuzzy
+msgid "[Arachidic fatty acid](c20.md)"
+msgstr "Арахидоновая жирная кислота"
+
+#: src/Primitive/index.md:9
+#, fuzzy
+msgid "[Eicosapentaenoic fatty acid](c20c5c8c11c14c17.md)"
+msgstr "Эйкозапентаеновая жирная кислота"
+
+#: src/Primitive/index.md:10
+#, fuzzy
+msgid "[Behenic fatty acid](c22.md)"
+msgstr "Бегеновая жирная кислота"
+
+#: src/Primitive/index.md:11
+#, fuzzy
+msgid "[Docosahexaenoic fatty acid](c22c4c7c10c13c16c19.md)"
+msgstr "Докозагексаеновая жирная кислота"
+
+#: src/Primitive/index.md:12
+#, fuzzy
+msgid "[Erucic fatty acid](c22c13.md)"
+msgstr "Эруковая жирная кислота"
+
+#: src/Primitive/index.md:13
+#, fuzzy
+msgid "[Lignoceric fatty acid](c24.md)"
+msgstr "Лигноцериновая жирная кислота"
+
+#: src/Primitive/index.md:14
+#, fuzzy
+msgid "[Nervonic fatty acid](c24c15.md)"
+msgstr "Нервоновая жирная кислота"
+
 #: src/Primitive/c16.md:3
 msgid "$$\\ce{C{16:0}}$$"
 msgstr "$$\\ce{C{16:0}}$$"
@@ -312,8 +366,6 @@ msgstr "$$\\ce{C{16:0}}$$"
 #: src/Primitive/c22.md:5 src/Primitive/c22c4c7c10c13c16c19.md:5
 #: src/Primitive/c22c13.md:5 src/Primitive/c24.md:5 src/Primitive/c24c15.md:5
 #: src/Sum/EicosapentaenoicAndDocosahexaenoic.md:5
-#: src/Sum/ByChainLength/Short.md:5 src/Sum/ByChainLength/Medium.md:5
-#: src/Sum/ByChainLength/Long.md:5 src/Sum/ByChainLength/VeryLong.md:5
 #: src/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:5
 #: src/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:5
 #: src/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:5
@@ -361,7 +413,6 @@ msgstr "П"
 #: src/Primitive/c20.md:9 src/Primitive/c20c5c8c11c14c17.md:9
 #: src/Primitive/c22.md:9 src/Primitive/c22c4c7c10c13c16c19.md:9
 #: src/Primitive/c22c13.md:9 src/Primitive/c24.md:9 src/Primitive/c24c15.md:9
-#: src/Sum/ByChainLength/Short.md:10
 #: src/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:10
 #: src/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:19
 #: src/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:9
@@ -387,8 +438,6 @@ msgstr "гексадекановая кислота"
 #: src/Primitive/c22.md:13 src/Primitive/c22c4c7c10c13c16c19.md:13
 #: src/Primitive/c22c13.md:13 src/Primitive/c24.md:13
 #: src/Primitive/c24c15.md:13 src/Sum/EicosapentaenoicAndDocosahexaenoic.md:9
-#: src/Sum/ByChainLength/Short.md:14 src/Sum/ByChainLength/Medium.md:9
-#: src/Sum/ByChainLength/Long.md:9 src/Sum/ByChainLength/VeryLong.md:9
 #: src/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:9
 #: src/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:14
 #: src/Sum/ByUnsaturatedBounds/ByCount/NUnsaturated.md:43
@@ -436,9 +485,7 @@ msgstr "Представляет собой насыщенную жирную к
 #: src/Primitive/c20.md:17 src/Primitive/c20c5c8c11c14c17.md:17
 #: src/Primitive/c22.md:17 src/Primitive/c22c4c7c10c13c16c19.md:17
 #: src/Primitive/c22c13.md:17 src/Primitive/c24.md:17
-#: src/Primitive/c24c15.md:17 src/Sum/ByChainLength/Short.md:18
-#: src/Sum/ByChainLength/Medium.md:13 src/Sum/ByChainLength/Long.md:13
-#: src/Sum/ByChainLength/VeryLong.md:13
+#: src/Primitive/c24c15.md:17
 #: src/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:13
 #: src/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:18
 #: src/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:17
@@ -462,9 +509,7 @@ msgstr "В питании человека высокое потребление
 #: src/Primitive/c20.md:21 src/Primitive/c20c5c8c11c14c17.md:21
 #: src/Primitive/c22.md:21 src/Primitive/c22c4c7c10c13c16c19.md:21
 #: src/Primitive/c22c13.md:21 src/Primitive/c24.md:21
-#: src/Primitive/c24c15.md:21 src/Sum/ByChainLength/Short.md:22
-#: src/Sum/ByChainLength/Medium.md:17 src/Sum/ByChainLength/Long.md:17
-#: src/Sum/ByChainLength/VeryLong.md:17
+#: src/Primitive/c24c15.md:21
 #: src/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:17
 #: src/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:22
 #: src/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:21
@@ -489,8 +534,6 @@ msgstr "В качестве топлива пальмитиновая кисло
 #: src/Primitive/c22.md:25 src/Primitive/c22c4c7c10c13c16c19.md:25
 #: src/Primitive/c22c13.md:25 src/Primitive/c24.md:25
 #: src/Primitive/c24c15.md:25 src/Sum/EicosapentaenoicAndDocosahexaenoic.md:13
-#: src/Sum/ByChainLength/Short.md:26 src/Sum/ByChainLength/Medium.md:21
-#: src/Sum/ByChainLength/Long.md:21 src/Sum/ByChainLength/VeryLong.md:21
 #: src/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:21
 #: src/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:25
 #: src/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:21
@@ -533,9 +576,7 @@ msgstr "Ссылки"
 #: src/Primitive/c20.md:27 src/Primitive/c20c5c8c11c14c17.md:28
 #: src/Primitive/c22.md:28 src/Primitive/c22c4c7c10c13c16c19.md:28
 #: src/Primitive/c22c13.md:27 src/Primitive/c24.md:27
-#: src/Primitive/c24c15.md:27 src/Sum/ByChainLength/Short.md:29
-#: src/Sum/ByChainLength/Medium.md:24 src/Sum/ByChainLength/Long.md:23
-#: src/Sum/ByChainLength/VeryLong.md:23
+#: src/Primitive/c24c15.md:27
 #: src/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:23
 #: src/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:27
 #: src/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:24
@@ -696,7 +737,6 @@ msgid "In fuel applications, arachidic acid provides an extremely high cetane nu
 msgstr "В качестве топлива арахиновая кислота обеспечивает чрезвычайно высокое цетановое число (CN) и исключительную окислительную стабильность (OS). Однако её очень высокая температура плавления (около 75°C) делает её крайне нежелательной для эксплуатации в холодную погоду. Даже небольшие концентрации арахиновой кислоты в сырье для биодизеля могут значительно повысить предельную температуру фильтруемости (CFPP) и температуру помутнения, что приводит к сильному загустеванию (гелеобразованию) топлива и засорению фильтров при температуре окружающей среды или низких температурах."
 
 #: src/Primitive/c20.md:28 src/Primitive/c24.md:28
-#: src/Sum/ByChainLength/VeryLong.md:25
 msgid "[Liu _et al._, 2020](https://doi.org/10.3390/nu12092709 \"Circulating Very-Long-Chain Saturated Fatty Acids Were Inversely Associated with Cardiovascular Health: A Prospective Cohort Study and Meta-Analysis\")"
 msgstr "[Liu _et al._, 2020](https://doi.org/10.3390/nu12092709 \"Circulating Very-Long-Chain Saturated Fatty Acids Were Inversely Associated with Cardiovascular Health: A Prospective Cohort Study and Meta-Analysis\")"
 
@@ -869,6 +909,20 @@ msgstr "В качестве топлива очень длинная углев�
 msgid "[Lewkowicz _et al._, 2019](https://doi.org/10.3390/cells8080786 \"Naturally Occurring Nervonic Acid Ester Improves Myelin Synthesis by Human Oligodendrocytes\")"
 msgstr "[Lewkowicz _et al._, 2019](https://doi.org/10.3390/cells8080786 \"Naturally Occurring Nervonic Acid Ester Improves Myelin Synthesis by Human Oligodendrocytes\")"
 
+#: src/Sum/index.md:3
+msgid "[Sum by chain length](ByChainLength/README.md)"
+msgstr ""
+
+#: src/Sum/index.md:4
+#, fuzzy
+msgid "[Sum by unsaturated bounds](ByUnsaturatedBounds/README.md)"
+msgstr "Сумма по шаблону ненасыщенных связей"
+
+#: src/Sum/index.md:8
+#, fuzzy
+msgid "[Sum of eicosapentaenoic and docosahexaenoic fatty acids](EicosapentaenoicAndDocosahexaenoic.md)"
+msgstr "Сумма эйкозапентаеновая и докозагексаеновая жирные кислоты"
+
 #: src/Sum/EicosapentaenoicAndDocosahexaenoic.md:1
 msgid "Sum of eicosapentaenoic and docosahexaenoic fatty acids"
 msgstr "Сумма эйкозапентаеновая и докозагексаеновая жирные кислоты"
@@ -923,11 +977,12 @@ msgstr "[Rombenso _et al._, 2016](https://doi.org/10.1016/j.aquaculture.2016.03.
 msgid "[Xu _et al._, 2017](https://doi.org/10.1016/j.aquaculture.2017.07.018 \"106\")"
 msgstr "[Xu _et al._, 2017](https://doi.org/10.1016/j.aquaculture.2017.07.018 \"106\")"
 
-#: src/Sum/ByChainLength/index.md:3 src/Sum/ByChainLength/Short.md:1
-msgid "Sum of short chain fatty acids"
+#: src/Sum/ByChainLength/index.md:3
+#, fuzzy
+msgid "[Sum of short chain fatty acids](LongChain.md)"
 msgstr "Сумма короткоцепочечных жирных кислот"
 
-#: src/Sum/ByChainLength/index.md:4 src/Sum/ByChainLength/Short.md:7
+#: src/Sum/ByChainLength/index.md:4
 msgid "SCFA"
 msgstr "КЦЖК"
 
@@ -935,11 +990,12 @@ msgstr "КЦЖК"
 msgid "are fatty acids with aliphatic tails of 5 or fewer carbons"
 msgstr ""
 
-#: src/Sum/ByChainLength/index.md:6 src/Sum/ByChainLength/Medium.md:1
-msgid "Sum of medium chain fatty acids"
+#: src/Sum/ByChainLength/index.md:6
+#, fuzzy
+msgid "[Sum of medium chain fatty acids](MediumChain.md)"
 msgstr "Сумма среднецепочечных жирных кислот"
 
-#: src/Sum/ByChainLength/index.md:7 src/Sum/ByChainLength/Medium.md:7
+#: src/Sum/ByChainLength/index.md:7
 msgid "MCFA"
 msgstr "СЦЖК"
 
@@ -947,11 +1003,12 @@ msgstr "СЦЖК"
 msgid "are fatty acids with aliphatic tails of 6 to 12 carbons"
 msgstr ""
 
-#: src/Sum/ByChainLength/index.md:9 src/Sum/ByChainLength/Long.md:1
-msgid "Sum of long chain fatty acids"
+#: src/Sum/ByChainLength/index.md:9
+#, fuzzy
+msgid "[Sum of long chain fatty acids](ShortChain.md)"
 msgstr "Сумма длинноцепочечных жирных кислот"
 
-#: src/Sum/ByChainLength/index.md:10 src/Sum/ByChainLength/Long.md:7
+#: src/Sum/ByChainLength/index.md:10
 msgid "LCFA"
 msgstr "ДЦЖК"
 
@@ -959,11 +1016,12 @@ msgstr "ДЦЖК"
 msgid "are fatty acids with aliphatic tails of 13 to 21 carbons"
 msgstr ""
 
-#: src/Sum/ByChainLength/index.md:12 src/Sum/ByChainLength/VeryLong.md:1
-msgid "Sum of very long chain fatty acids"
+#: src/Sum/ByChainLength/index.md:12
+#, fuzzy
+msgid "[Sum of very long chain fatty acids](VeryLongChain.md)"
 msgstr "Сумма очень длинноцепочечных жирных кислот"
 
-#: src/Sum/ByChainLength/index.md:13 src/Sum/ByChainLength/VeryLong.md:7
+#: src/Sum/ByChainLength/index.md:13
 msgid "VLCFA"
 msgstr "ОДЦЖК"
 
@@ -971,102 +1029,29 @@ msgstr "ОДЦЖК"
 msgid "are fatty acids with aliphatic tails of 22 or more carbons"
 msgstr ""
 
-#: src/Sum/ByChainLength/Short.md:3
-msgid "$$\\sum \\ce{SCFA}$$"
-msgstr "$$\\sum \\ce{SCFA}$$"
+#: src/Sum/ByUnsaturatedBounds/index.md:3
+#, fuzzy
+msgid "[Sum by unsaturated bounds count](ByCount/README.md)"
+msgstr "Сумма по количеству ненасыщенных связей"
 
-#: src/Sum/ByChainLength/Short.md:8
-msgid "VFA"
-msgstr "VFA"
+#: src/Sum/ByUnsaturatedBounds/index.md:4
+#, fuzzy
+msgid "[Sum by unsaturated bounds offset](ByOffset/README.md)"
+msgstr "Сумма по смещению ненасыщенной связи"
 
-#: src/Sum/ByChainLength/Short.md:12
-msgid "Volatile fatty acids"
-msgstr "Летучие жирные кислоты"
+#: src/Sum/ByUnsaturatedBounds/index.md:5
+#, fuzzy
+msgid "[Sum by double bounds parity](ByParity/README.md)"
+msgstr "Сумма по четности двойных связей"
 
-#: src/Sum/ByChainLength/Short.md:16
-msgid "Represents a sub-group of fatty acids with aliphatic tails of fewer than six carbon atoms (e.g., acetic acid $\\ce{C{2:0}}$, propionic acid $\\ce{C{3:0}}$, butyric acid $\\ce{C{4:0}}$)."
-msgstr "Представляет собой подгруппу жирных кислот с алифатической цепью, содержащей менее шести атомов углерода (например, уксусная кислота $\\ce{C{2:0}}$, пропионовая кислота $\\ce{C{3:0}}$, масляная кислота $\\ce{C{4:0}}$)."
-
-#: src/Sum/ByChainLength/Short.md:20
-msgid "In human nutrition, SCFAs are primarily produced in the lower gut by anaerobic bacterial fermentation of indigestible dietary fibers and resistant starch. They are crucial for gut health; for instance, butyrate is the primary energy source for colonocytes (colon cells). SCFAs exhibit potent anti-inflammatory properties, help maintain the intestinal barrier, regulate immune function, and play a significant role in the gut-brain axis and metabolic health (improving insulin sensitivity and regulating appetite)."
-msgstr "В организме человека КЦЖК в основном вырабатываются в нижних отделах кишечника в результате анаэробной бактериальной ферментации неперевариваемых пищевых волокон и резистентного крахмала. Они критически важны для здоровья кишечника; например, масляная кислота (бутират) является основным источником энергии для колоноцитов (клеток толстой кишки). КЦЖК обладают мощными противовоспалительными свойствами, помогают поддерживать кишечный барьер, регулируют иммунную функцию и играют важную роль в оси \"кишечник-мозг\" и метаболическом здоровье (улучшая чувствительность к инсулину и регулируя аппетит)."
-
-#: src/Sum/ByChainLength/Short.md:24
-msgid "In fuel applications, SCFAs are generally not used for standard biodiesel production. Their corresponding methyl esters are highly volatile, which drastically lowers the flash point of the fuel, creating safety, transport, and storage hazards. They also have a lower energy density compared to long-chain fatty acids. While they would theoretically offer excellent cold flow properties (very low melting points), their volatility and low molecular weight make them unsuitable for conventional diesel engines."
-msgstr "В качестве топлива КЦЖК, как правило, не используются для производства стандартного биодизеля. Их метиловые эфиры обладают высокой летучестью, что радикально снижает температуру вспышки топлива, создавая угрозу безопасности при хранении и транспортировке. Они также имеют более низкую плотность энергии по сравнению с длинноцепочечными жирными кислотами. Хотя теоретически они могли бы обеспечить отличные низкотемпературные свойства (очень низкие температуры плавления), их летучесть и низкая молекулярная масса делают их непригодными для обычных дизельных двигателей."
-
-#: src/Sum/ByChainLength/Short.md:28
-msgid "[Wong _et al._, 2006](https://doi.org/10.1097/00004836-200603000-00015 \"Colonic health: fermentation and short chain fatty acids\")"
-msgstr "[Wong _et al._, 2006](https://doi.org/10.1097/00004836-200603000-00015 \"Colonic health: fermentation and short chain fatty acids\")"
-
-#: src/Sum/ByChainLength/Medium.md:3
-msgid "$$\\sum \\ce{MCFA}$$"
-msgstr "$$\\sum \\ce{MCFA}$$"
-
-#: src/Sum/ByChainLength/Medium.md:11
-msgid "Represents a sub-group of fatty acids with aliphatic tails of 6 to 12 carbon atoms (e.g., caproic acid $\\ce{C{6:0}}$, caprylic acid $\\ce{C{8:0}}$, capric acid $\\ce{C{10:0}}$, lauric acid $\\ce{C{12:0}}$)."
-msgstr "Представляет собой подгруппу жирных кислот с алифатическими цепями от 6 до 12 атомов углерода (например, капроновая кислота $\\ce{C{6:0}}$, каприловая кислота $\\ce{C{8:0}}$, каприновая кислота $\\ce{C{10:0}}$, лауриновая кислота $\\ce{C{12:0}}$)."
-
-#: src/Sum/ByChainLength/Medium.md:15
-msgid "In human nutrition, MCFAs are metabolized differently than long-chain fatty acids. Instead of being transported through the lymphatic system, they are absorbed directly into the portal vein and sent to the liver, where they are rapidly oxidized for immediate energy or converted into ketone bodies. They are widely studied for their health benefits, which include promoting weight management (by increasing energy expenditure and satiety), improving cognitive function in neurodegenerative conditions (such as Alzheimer's disease), and exhibiting potent antimicrobial and antiviral properties (particularly lauric acid and its derivatives)."
-msgstr "В питании человека среднецепочечные жирные кислоты (MCFA) метаболизируются иначе, чем длинноцепочечные. Вместо того чтобы транспортироваться через лимфатическую систему, они всасываются непосредственно в воротную вену и направляются в печень, где быстро окисляются для получения немедленной энергии или превращаются в кетоновые тела. Они широко изучаются на предмет их пользы для здоровья, которая включает содействие контролю веса (за счет увеличения расхода энергии и чувства сытости), улучшение когнитивных функций при нейродегенеративных заболеваниях (таких как болезнь Альцгеймера), а также проявление мощных антимикробных и противовирусных свойств (особенно лауриновая кислота и её производные)."
-
-#: src/Sum/ByChainLength/Medium.md:19
-msgid "In fuel applications, MCFAs offer a unique compromise of properties. Because they are typically saturated, they provide excellent oxidation stability (OS). Unlike long-chain saturated fats, their shorter carbon chains result in significantly lower melting points, which greatly improves cold-weather operability by lowering the cold filter plugging point (CFPP) and cloud point. However, MCFAs have a lower energy density (heating value) and a lower cetane number (CN) compared to longer-chain fatty acids. While largely absent in traditional feedstocks like soybean or rapeseed oil, oils rich in MCFAs (such as coconut and palm kernel oil) are highly valued for blending to improve the cold flow properties of biodiesel."
-msgstr "В качестве топлива MCFA предлагают уникальный компромисс свойств. Поскольку они, как правило, насыщенные, они обеспечивают отличную окислительную стабильность (OS). В отличие от длинноцепочечных насыщенных жиров, их более короткие углеродные цепи приводят к значительно более низким температурам плавления, что существенно улучшает характеристики в холодную погоду за счет снижения предельной температуры фильтруемости (CFPP) и температуры помутнения. Однако MCFA имеют более низкую плотность энергии (теплотворную способность) и более низкое цетановое число (CN) по сравнению с длинноцепочечными жирными кислотами. Хотя они практически отсутствуют в традиционном сырье, таком как соевое или рапсовое масло, масла, богатые MCFA (такие как кокосовое и пальмоядровое), высоко ценятся для купажирования с целью улучшения низкотемпературных свойств биодизеля."
-
-#: src/Sum/ByChainLength/Medium.md:23 src/Ratio/Triacylglycerols/index.md:10
-msgid "[St-Onge _et al._, 2002](https://doi.org/10.1093/jn/132.3.329 \"Physiological effects of medium-chain triglycerides: potential agents in the prevention of obesity\")"
-msgstr "[St-Onge _et al._, 2002](https://doi.org/10.1093/jn/132.3.329 \"Physiological effects of medium-chain triglycerides: potential agents in the prevention of obesity\")"
-
-#: src/Sum/ByChainLength/Medium.md:25
-msgid "[Jadhav _et al._, 2022](https://doi.org/10.1007/s13197-022-05499-w \"Triglycerides of medium-chain fatty acids: a concise review\")"
-msgstr "[Jadhav _et al._, 2022](https://doi.org/10.1007/s13197-022-05499-w \"Triglycerides of medium-chain fatty acids: a concise review\")"
-
-#: src/Sum/ByChainLength/Long.md:3
-msgid "$$\\sum \\ce{LCFA}$$"
-msgstr "$$\\sum \\ce{LCFA}$$"
-
-#: src/Sum/ByChainLength/Long.md:11
-msgid "Represents a broad group of fatty acids with aliphatic tails of 13 to 21 carbon atoms. This group encompasses the vast majority of naturally occurring fatty acids in human diets and commercial oils, including saturated (e.g., myristic C14:0, palmitic C16:0, stearic C18:0) and unsaturated forms (e.g., oleic C18:1, linoleic C18:2)."
-msgstr "Представляет собой обширную группу жирных кислот с алифатическими цепями от 13 до 21 атома углерода. Эта группа охватывает подавляющее большинство природных жирных кислот в рационе человека и коммерческих маслах, включая насыщенные (например, миристиновая C14:0, пальмитиновая C16:0, стеариновая C18:0) и ненасыщенные формы (например, олеиновая C18:1, линолевая C18:2)."
-
-#: src/Sum/ByChainLength/Long.md:15
-msgid "In human nutrition, LCFAs are the primary source of dietary fat. Unlike short- and medium-chain fatty acids, LCFAs require bile salts for digestion and are absorbed via the lymphatic system, packaged into chylomicrons before entering the bloodstream. Their health impacts vary drastically depending on their degree of unsaturation: saturated LCFAs are often linked to increased cardiovascular risk, while monounsaturated and polyunsaturated LCFAs are generally considered heart-healthy. They are essential for energy storage, hormone production, and forming the lipid bilayer of cell membranes."
-msgstr "В питании человека длинноцепочечные жирные кислоты (LCFA) являются основным источником пищевых жиров. В отличие от коротко- и среднецепочечных жирных кислот, для переваривания LCFA требуются желчные соли, и они всасываются через лимфатическую систему, упаковываясь в хиломикроны перед попаданием в кровоток. Их влияние на здоровье сильно варьируется в зависимости от степени ненасыщенности: насыщенные LCFA часто связывают с повышенным сердечно-сосудистым риском, тогда как мононенасыщенные и полиненасыщенные LCFA обычно считаются полезными для сердца. Они необходимы для накопления энергии, выработки гормонов и формирования липидного бислоя клеточных мембран."
-
-#: src/Sum/ByChainLength/Long.md:19
-msgid "In fuel applications, LCFAs are the standard building blocks of conventional biodiesel, as they make up the bulk of common feedstocks like soybean, rapeseed, palm, and animal tallows. Their specific properties depend heavily on the degree of unsaturation. Generally, LCFAs provide the ideal energy density (heating value) and kinematic viscosity required for diesel engines. Saturated LCFAs offer a high cetane number (CN) and oxidation stability (OS) but poor cold flow properties, whereas unsaturated LCFAs improve cold-weather operability at the cost of oxidative stability."
-msgstr "В качестве топлива LCFA являются стандартными строительными блоками традиционного биодизеля, поскольку они составляют основную часть распространенного сырья, такого как соевое, рапсовое, пальмовое масла и животные жиры. Их конкретные свойства сильно зависят от степени ненасыщенности. В целом, LCFA обеспечивают идеальную плотность энергии (теплотворную способность) и кинематическую вязкость, необходимые для дизельных двигателей. Насыщенные LCFA обеспечивают высокое цетановое число (CN) и окислительную стабильность (OS), но плохие низкотемпературные свойства, тогда как ненасыщенные LCFA улучшают характеристики в холодную погоду за счет снижения окислительной стабильности."
-
-#: src/Sum/ByChainLength/Long.md:24
-#: src/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:28
-msgid "[Mozaffarian _et al._, 2010](https://doi.org/10.1371/journal.pmed.1000252 \"Effects on Coronary Heart Disease of Increasing Polyunsaturated Fat in Place of Saturated Fat: A Systematic Review and Meta-Analysis of Randomized Controlled Trials\")"
-msgstr "[Mozaffarian _et al._, 2010](https://doi.org/10.1371/journal.pmed.1000252 \"Effects on Coronary Heart Disease of Increasing Polyunsaturated Fat in Place of Saturated Fat: A Systematic Review and Meta-Analysis of Randomized Controlled Trials\")"
-
-#: src/Sum/ByChainLength/VeryLong.md:3
-msgid "$$\\sum \\ce{VLCFA}$$"
-msgstr "$$\\sum \\ce{VLCFA}$$"
-
-#: src/Sum/ByChainLength/VeryLong.md:11
-msgid "Represents a sub-group of fatty acids with aliphatic tails of 22 or more carbon atoms (e.g., behenic acid $\\ce{C{22:0}}$, lignoceric acid $\\ce{C{24:0}}$, erucic acid $\\ce{C{22:1}}$, docosahexaenoic acid $\\ce{C{22:6}}$)."
-msgstr "Представляет собой подгруппу жирных кислот с алифатическими цепями, содержащими 22 и более атомов углерода (например, бегеновая кислота $\\ce{C{22:0}}$, лигноцериновая кислота $\\ce{C{24:0}}$, эруковая кислота $\\ce{C{22:1}}$, докозагексаеновая кислота $\\ce{C{22:6}}$)."
-
-#: src/Sum/ByChainLength/VeryLong.md:15
-msgid "In human nutrition, VLCFAs are consumed in relatively small amounts compared to standard long-chain fatty acids. They are biologically unique because their carbon chains are too long to be metabolized directly by mitochondria; instead, they must first undergo initial beta-oxidation in cellular organelles called peroxisomes. While they are essential for the formation of sphingolipids and the myelin sheath in the nervous system, the inability to metabolize them due to genetic peroxisomal disorders (such as X-linked adrenoleukodystrophy) leads to their toxic accumulation in the brain and adrenal glands. Conversely, in healthy populations, higher circulating levels of naturally occurring saturated VLCFAs are associated with favorable metabolic health and a reduced risk of cardiovascular disease and type 2 diabetes."
-msgstr "В питании человека очень длинноцепочечные жирные кислоты (VLCFA) потребляются в относительно небольших количествах по сравнению со стандартными длинноцепочечными жирными кислотами. Они биологически уникальны тем, что их углеродные цепи слишком длинны для прямого метаболизма в митохондриях; вместо этого они должны сначала пройти первичное бета-окисление в клеточных органеллах, называемых пероксисомами. Хотя они необходимы для образования сфинголипидов и миелиновой оболочки в нервной системе, неспособность их метаболизировать из-за генетических пероксисомных нарушений (таких как Х-сцепленная адренолейкодистрофия) приводит к их токсичному накоплению в мозге и надпочечниках. С другой стороны, у здоровых людей более высокие уровни циркулирующих природных насыщенных VLCFA связаны с хорошим метаболическим здоровьем и сниженным риском сердечно-сосудистых заболеваний и диабета 2 типа."
-
-#: src/Sum/ByChainLength/VeryLong.md:19
-msgid "In fuel applications, the presence of VLCFAs significantly increases the kinematic viscosity and boiling point of the biodiesel, which can negatively impact fuel atomization and combustion efficiency in the engine. Saturated VLCFAs (like behenic and lignoceric acids) have extremely high melting points, meaning even trace amounts can drastically raise the cold filter plugging point (CFPP) and cloud point, causing severe fuel gelling and filter clogging at ambient temperatures. While unsaturated VLCFAs (like erucic acid) have lower melting points, feedstocks rich in VLCFAs (such as traditional rapeseed, mustard, or high-erucic oils) generally produce biodiesel with poorer cold flow properties and higher viscosity compared to feedstocks dominated by standard 18-carbon fatty acids."
-msgstr "В качестве топлива присутствие VLCFA значительно увеличивает кинематическую вязкость и температуру кипения биодизеля, что может негативно сказаться на распылении топлива и эффективности сгорания в двигателе. Насыщенные VLCFA (такие как бегеновая и лигноцериновая кислоты) имеют чрезвычайно высокие температуры плавления, а это означает, что даже их следовые количества могут резко повысить предельную температуру фильтруемости (CFPP) и температуру помутнения, вызывая серьезное загустевание топлива и засорение фильтров при температурах окружающей среды. Хотя ненасыщенные VLCFA (такие как эруковая кислота) имеют более низкие температуры плавления, сырье, богатое VLCFA (например, традиционное рапсовое, горчичное или высокоэруковое масла), как правило, дает биодизель с худшими низкотемпературными свойствами и более высокой вязкостью по сравнению с сырьем, в котором преобладают стандартные 18-углеродные жирные кислоты."
-
-#: src/Sum/ByChainLength/VeryLong.md:24
-msgid "[Wanders _et al._, 2010](https://doi.org/10.1016/j.ymgme.2004.08.016 \"Peroxisomes, lipid metabolism, and peroxisomal disorders\")"
-msgstr "[Wanders _et al._, 2010](https://doi.org/10.1016/j.ymgme.2004.08.016 \"Peroxisomes, lipid metabolism, and peroxisomal disorders\")"
+#: src/Sum/ByUnsaturatedBounds/index.md:6
+#, fuzzy
+msgid "[Sum by unsaturated bounds pattern](ByPattern/README.md)"
+msgstr "Сумма по шаблону ненасыщенных связей"
 
 #: src/Sum/ByUnsaturatedBounds/ByCount/index.md:3
-#: src/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:1
-msgid "Sum of saturated fatty acids"
+#, fuzzy
+msgid "[Sum of saturated fatty acids](Saturated.md)"
 msgstr "Сумма насыщенных жирных кислот"
 
 #: src/Sum/ByUnsaturatedBounds/ByCount/index.md:4
@@ -1079,8 +1064,8 @@ msgid "exactly 0 unsaturated bounds"
 msgstr "ровно 0 неасыщенных связей"
 
 #: src/Sum/ByUnsaturatedBounds/ByCount/index.md:6
-#: src/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:1
-msgid "Sum of monounsaturated fatty acids"
+#, fuzzy
+msgid "[Sum of monounsaturated fatty acids](MonoUnsaturated.md)"
 msgstr "Сумма мононеасыщенных жирных кислот"
 
 #: src/Sum/ByUnsaturatedBounds/ByCount/index.md:7
@@ -1093,7 +1078,8 @@ msgid "exactly 1 unsaturated bounds"
 msgstr "ровно 1 неасыщенная связь"
 
 #: src/Sum/ByUnsaturatedBounds/ByCount/index.md:9
-msgid "Sum of n unsaturated fatty acids"
+#, fuzzy
+msgid "[Sum of n unsaturated fatty acids](NUnsaturated.md)"
 msgstr "Сумма N неасыщенных жирных кислот"
 
 #: src/Sum/ByUnsaturatedBounds/ByCount/index.md:10
@@ -1118,8 +1104,8 @@ msgid "0 or more unsaturated bounds"
 msgstr "0 или более неасыщенных связей"
 
 #: src/Sum/ByUnsaturatedBounds/ByCount/index.md:16
-#: src/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:1
-msgid "Sum of unsaturated fatty acids"
+#, fuzzy
+msgid "[Sum of unsaturated fatty acids](Unsaturated.md)"
 msgstr "Сумма неасыщенных жирных кислот"
 
 #: src/Sum/ByUnsaturatedBounds/ByCount/index.md:17
@@ -1132,8 +1118,8 @@ msgid "1 or more unsaturated bounds"
 msgstr "1 или более неасыщенных связей"
 
 #: src/Sum/ByUnsaturatedBounds/ByCount/index.md:19
-#: src/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:1
-msgid "Sum of polyunsaturated fatty acids"
+#, fuzzy
+msgid "[Sum of polyunsaturated fatty acids](PolyUnsaturated.md)"
 msgstr "Сумма полинеасыщенных жирных кислот"
 
 #: src/Sum/ByUnsaturatedBounds/ByCount/index.md:20
@@ -1144,6 +1130,10 @@ msgstr "ПНЖК"
 #: src/Sum/ByUnsaturatedBounds/ByCount/index.md:21
 msgid "2 or more unsaturated bounds"
 msgstr "2 или более неасыщенных связей"
+
+#: src/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:1
+msgid "Sum of saturated fatty acids"
+msgstr "Сумма насыщенных жирных кислот"
 
 #: src/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:3
 msgid "$$\\sum \\ce{SFA}$$"
@@ -1164,6 +1154,10 @@ msgstr "В топливных применениях более высокая �
 #: src/Sum/ByUnsaturatedBounds/ByCount/Saturated.md:24
 msgid "[who.int, 2023](https://www.who.int/news/item/17-07-2023-who-updates-guidelines-on-fats-and-carbohydrates \"WHO updates guidelines on fats and carbohydrates\")"
 msgstr "[who.int, 2023](https://www.who.int/news/item/17-07-2023-who-updates-guidelines-on-fats-and-carbohydrates \"WHO updates guidelines on fats and carbohydrates\")"
+
+#: src/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:1
+msgid "Sum of monounsaturated fatty acids"
+msgstr "Сумма мононеасыщенных жирных кислот"
 
 #: src/Sum/ByUnsaturatedBounds/ByCount/MonoUnsaturated.md:3
 msgid "$$\\sum \\ce{MUFA}$$"
@@ -1315,6 +1309,10 @@ msgstr "декаены, если присутствуют только двой�
 msgid "Represents the sum of all fatty acids that contain exactly N unsaturated bond in their hydrocarbon chain."
 msgstr "Представляет собой сумму всех жирных кислот, содержащих ровно N двойных связей в своей углеводородной цепи."
 
+#: src/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:1
+msgid "Sum of polyunsaturated fatty acids"
+msgstr "Сумма полинеасыщенных жирных кислот"
+
 #: src/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:3
 msgid "$$\\sum \\ce{PUFA}$$"
 msgstr "$$\\sum \\ce{PUFA}$$"
@@ -1334,6 +1332,14 @@ msgstr "В питании человека ПНЖК являются незам�
 #: src/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:23
 msgid "In fuel applications, a high PUFA content is generally undesirable for fuel stability. The multiple double bonds are highly reactive, making the biodiesel highly susceptible to oxidation, degradation, and polymerization (poor oxidation stability, OS). They also lower the cetane number (CN), which decreases ignition quality. On the positive side, PUFAs have very low melting points, which significantly improves cold-weather performance by lowering the cold filter plugging point (CFPP)."
 msgstr "В качестве топлива высокое содержание ПНЖК, как правило, нежелательно из-за снижения стабильности. Множественные двойные связи обладают высокой реакционной способностью, что делает биодизель крайне уязвимым к окислению, деградации и полимеризации (низкая окислительная стабильность, OS). Они также снижают цетановое число (CN), что ухудшает качество воспламенения. С положительной стороны, ПНЖК имеют очень низкие температуры плавления, что значительно улучшает характеристики топлива в холодную погоду за счет снижения предельной температуры фильтруемости (CFPP)."
+
+#: src/Sum/ByUnsaturatedBounds/ByCount/PolyUnsaturated.md:28
+msgid "[Mozaffarian _et al._, 2010](https://doi.org/10.1371/journal.pmed.1000252 \"Effects on Coronary Heart Disease of Increasing Polyunsaturated Fat in Place of Saturated Fat: A Systematic Review and Meta-Analysis of Randomized Controlled Trials\")"
+msgstr "[Mozaffarian _et al._, 2010](https://doi.org/10.1371/journal.pmed.1000252 \"Effects on Coronary Heart Disease of Increasing Polyunsaturated Fat in Place of Saturated Fat: A Systematic Review and Meta-Analysis of Randomized Controlled Trials\")"
+
+#: src/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:1
+msgid "Sum of unsaturated fatty acids"
+msgstr "Сумма неасыщенных жирных кислот"
 
 #: src/Sum/ByUnsaturatedBounds/ByCount/Unsaturated.md:3
 msgid "$$\\sum \\ce{UFA}$$"
@@ -1356,29 +1362,33 @@ msgid "[Mensink _et al._, 2003](https://doi.org/10.1093/ajcn/77.5.1146 \"Effects
 msgstr "[Mensink _et al._, 2003](https://doi.org/10.1093/ajcn/77.5.1146 \"Effects of dietary fatty acids and carbohydrates on the ratio of serum total to HDL cholesterol and on serum lipids and apolipoproteins: a meta-analysis of 60 controlled trials\")"
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/index.md:3
-#: src/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:1
-msgid "Sum of delta 9 fatty acids"
+#, fuzzy
+msgid "[Sum of delta 9 fatty acids](Delta9.md)"
 msgstr "Сумма дельта 9 жирных кислот"
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/index.md:4
-#: src/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:1
-msgid "Sum of delta 12 fatty acids"
+#, fuzzy
+msgid "[Sum of delta 12 fatty acids](Delta12.md)"
 msgstr "Сумма дельта 12 жирных кислот"
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/index.md:5
-#: src/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:1
-msgid "Sum of omega -3 fatty acids"
+#, fuzzy
+msgid "[Sum of omega -3 fatty acids](Omega-3.md)"
 msgstr "Сумма омега -3 жирных кислот"
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/index.md:6
-#: src/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:1
-msgid "Sum of omega -6 fatty acids"
+#, fuzzy
+msgid "[Sum of omega -6 fatty acids](Omega-6.md)"
 msgstr "Сумма омега -6 жирных кислот"
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/index.md:7
-#: src/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:1
-msgid "Sum of omega -9 fatty acids"
+#, fuzzy
+msgid "[Sum of omega -9 fatty acids](Omega-9.md)"
 msgstr "Сумма омега -9 жирных кислот"
+
+#: src/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:1
+msgid "Sum of delta 9 fatty acids"
+msgstr "Сумма дельта 9 жирных кислот"
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Delta9.md:3
 msgid "$$\\sum \\ce{UFA(\\Delta{9})}$$"
@@ -1408,6 +1418,10 @@ msgstr "Сырье, богатое мононенасыщенными жирны
 msgid "[Ntambi _et al._, 2004](https://doi.org/10.1016/j.plipres.2003.10.001 \"Role of stearoyl-CoA desaturase in lipid metabolism\")"
 msgstr "[Ntambi _et al._, 2004](https://doi.org/10.1016/j.plipres.2003.10.001 \"Role of stearoyl-CoA desaturase in lipid metabolism\")"
 
+#: src/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:1
+msgid "Sum of delta 12 fatty acids"
+msgstr "Сумма дельта 12 жирных кислот"
+
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Delta12.md:3
 msgid "$$\\sum \\ce{UFA(\\Delta{12})}$$"
 msgstr "$$\\sum \\ce{UFA(\\Delta{12})}$$"
@@ -1436,6 +1450,10 @@ msgstr "Поскольку дельта 12 жирные кислоты в при
 msgid "[Okuley _et al._, 1994](https://doi.org/10.1105/tpc.6.1.147 \"Arabidopsis FAD2 gene encodes the enzyme that is essential for polyunsaturated lipid synthesis\")"
 msgstr "[Okuley _et al._, 1994](https://doi.org/10.1105/tpc.6.1.147 \"Arabidopsis FAD2 gene encodes the enzyme that is essential for polyunsaturated lipid synthesis\")"
 
+#: src/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:1
+msgid "Sum of omega -3 fatty acids"
+msgstr "Сумма омега -3 жирных кислот"
+
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:3
 msgid "$$\\sum \\ce{UFA(\\omega-3)}$$"
 msgstr "$$\\sum \\ce{UFA(\\omega-3)}$$"
@@ -1459,6 +1477,10 @@ msgstr "Омега -3 жирные кислоты являются незаме�
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Omega-3.md:20
 msgid "Due to their high degree of polyunsaturation, omega -3 fatty acids present significant challenges for biodiesel production. While they drastically improve cold-weather performance by lowering the cold filter plugging point (CFPP), their multiple double bonds make them extremely susceptible to rapid oxidation, degradation, and polymerization (very poor oxidation stability, OS). Furthermore, they significantly lower the cetane number (CN), leading to poor ignition quality. Therefore, feedstocks with high omega -3 content (like fish oil or linseed oil) are generally less desirable or require blending and antioxidant treatments for standard biodiesel use."
 msgstr "Из-за высокой степени полиненасыщенности омега -3 жирные кислоты создают серьезные проблемы при производстве биодизеля. Хотя они радикально улучшают характеристики в холодную погоду за счет снижения предельной температуры фильтруемости (CFPP), их множественные двойные связи делают топливо крайне уязвимым к быстрому окислению, деградации и полимеризации (очень низкая окислительная стабильность, OS). Кроме того, они значительно снижают цетановое число (CN), что приводит к ухудшению качества воспламенения. Поэтому сырье с высоким содержанием омега -3 (например, рыбий жир или льняное масло), как правило, менее предпочтительно или требует смешивания и добавления антиоксидантов для использования в качестве стандартного биодизеля."
+
+#: src/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:1
+msgid "Sum of omega -6 fatty acids"
+msgstr "Сумма омега -6 жирных кислот"
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:3
 msgid "$$\\sum \\ce{UFA(\\omega-6)}$$"
@@ -1487,6 +1509,10 @@ msgstr "Поскольку омега -6 жирные кислоты являю�
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Omega-6.md:24
 msgid "[Simopoulos _et al._, 2002](https://doi.org/10.1016/S0753-3322(02)00253-6 \"The importance of the ratio of omega-6/omega-3 essential fatty acids\")"
 msgstr "[Simopoulos _et al._, 2002](https://doi.org/10.1016/S0753-3322(02)00253-6 \"The importance of the ratio of omega-6/omega-3 essential fatty acids\")"
+
+#: src/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:1
+msgid "Sum of omega -9 fatty acids"
+msgstr "Сумма омега -9 жирных кислот"
 
 #: src/Sum/ByUnsaturatedBounds/ByOffset/Omega-9.md:3
 msgid "$$\\sum \\ce{UFA(\\omega-9)}$$"
@@ -1517,14 +1543,18 @@ msgid "[Mohamed _et al._, 2022](https://doi.org/10.1186/s43141-022-00329-0 \"Ome
 msgstr "[Mohamed _et al._, 2022](https://doi.org/10.1186/s43141-022-00329-0 \"Omega-9 fatty acids: potential roles in inflammation and cancer management\")"
 
 #: src/Sum/ByUnsaturatedBounds/ByParity/index.md:3
-#: src/Sum/ByUnsaturatedBounds/ByParity/Trans.md:1
-msgid "Sum of trans fatty acids"
+#, fuzzy
+msgid "[Sum of trans fatty acids](Trans.md)"
 msgstr "Сумма транс жирных кислот"
 
 #: src/Sum/ByUnsaturatedBounds/ByParity/index.md:4
 #: src/Sum/ByUnsaturatedBounds/ByParity/Trans.md:7
 msgid "TFA"
 msgstr "ТЖК"
+
+#: src/Sum/ByUnsaturatedBounds/ByParity/Trans.md:1
+msgid "Sum of trans fatty acids"
+msgstr "Сумма транс жирных кислот"
 
 #: src/Sum/ByUnsaturatedBounds/ByParity/Trans.md:3
 msgid "$$\\sum \\ce{TFA}$$"
@@ -1579,14 +1609,18 @@ msgid "[Ivanova _et al._, 2017](https://doi.org/10.11648/j.mc.20170506.11 \"Ivan
 msgstr "[Ivanova _et al._, 2017](https://doi.org/10.11648/j.mc.20170506.11 \"Ivanova (2017)\")"
 
 #: src/Sum/ByUnsaturatedBounds/ByPattern/index.md:3
-#: src/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:1
-msgid "Sum of conjugated fatty acids"
+#, fuzzy
+msgid "[Sum of conjugated fatty acids](Conjugated.md)"
 msgstr "Сумма сопряжённых жирных кислот"
 
 #: src/Sum/ByUnsaturatedBounds/ByPattern/index.md:4
 #: src/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:7
 msgid "CFA"
 msgstr "СЖК"
+
+#: src/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:1
+msgid "Sum of conjugated fatty acids"
+msgstr "Сумма сопряжённых жирных кислот"
 
 #: src/Sum/ByUnsaturatedBounds/ByPattern/Conjugated.md:3
 msgid "$$\\sum \\ce{CFA}$$"
@@ -2546,6 +2580,10 @@ msgstr ""
 msgid "[Selectivity factor](SelectivityFactor.md)"
 msgstr "[Фактор селективности](SelectivityFactor.md)"
 
+#: src/Ratio/Triacylglycerols/index.md:10
+msgid "[St-Onge _et al._, 2002](https://doi.org/10.1093/jn/132.3.329 \"Physiological effects of medium-chain triglycerides: potential agents in the prevention of obesity\")"
+msgstr "[St-Onge _et al._, 2002](https://doi.org/10.1093/jn/132.3.329 \"Physiological effects of medium-chain triglycerides: potential agents in the prevention of obesity\")"
+
 #: src/Ratio/Triacylglycerols/index.md:12
 msgid "\\[!NOTE\\] Все эффекты $\\ce{C{16:0}}$ в индесксах негативные, но $X\\_{{2:C16:0}}$ жизненно необходим для младенцев в перод вскармливания, так и для взрослых людей. Поэтому нутрицевтические индексы должны быть уточнены путем разбиения $X\\_{{C16:0}}$ на $X\\_{{1:C16:0 | 3:C16:0}}$ и $X\\_{{2:C16:0}}$"
 msgstr ""
@@ -2607,6 +2645,69 @@ msgstr "Фактор селективности (SF) количественно 
 #: src/Ratio/Triacylglycerols/SelectivityFactor.md:15
 msgid "It provides a comparative measure of how strongly a specific fatty acid competes for the sn-2 position relative to other fatty acids that show a preference for it."
 msgstr "Он обеспечивает сравнительную оценку того, насколько сильно конкретная жирная кислота конкурирует за положение sn-2 по сравнению с другими жирными кислотами, которые проявляют предпочтение к нему."
+
+#~ msgid "$$\\sum \\ce{SCFA}$$"
+#~ msgstr "$$\\sum \\ce{SCFA}$$"
+
+#~ msgid "VFA"
+#~ msgstr "VFA"
+
+#~ msgid "Volatile fatty acids"
+#~ msgstr "Летучие жирные кислоты"
+
+#~ msgid "Represents a sub-group of fatty acids with aliphatic tails of fewer than six carbon atoms (e.g., acetic acid $\\ce{C{2:0}}$, propionic acid $\\ce{C{3:0}}$, butyric acid $\\ce{C{4:0}}$)."
+#~ msgstr "Представляет собой подгруппу жирных кислот с алифатической цепью, содержащей менее шести атомов углерода (например, уксусная кислота $\\ce{C{2:0}}$, пропионовая кислота $\\ce{C{3:0}}$, масляная кислота $\\ce{C{4:0}}$)."
+
+#~ msgid "In human nutrition, SCFAs are primarily produced in the lower gut by anaerobic bacterial fermentation of indigestible dietary fibers and resistant starch. They are crucial for gut health; for instance, butyrate is the primary energy source for colonocytes (colon cells). SCFAs exhibit potent anti-inflammatory properties, help maintain the intestinal barrier, regulate immune function, and play a significant role in the gut-brain axis and metabolic health (improving insulin sensitivity and regulating appetite)."
+#~ msgstr "В организме человека КЦЖК в основном вырабатываются в нижних отделах кишечника в результате анаэробной бактериальной ферментации неперевариваемых пищевых волокон и резистентного крахмала. Они критически важны для здоровья кишечника; например, масляная кислота (бутират) является основным источником энергии для колоноцитов (клеток толстой кишки). КЦЖК обладают мощными противовоспалительными свойствами, помогают поддерживать кишечный барьер, регулируют иммунную функцию и играют важную роль в оси \"кишечник-мозг\" и метаболическом здоровье (улучшая чувствительность к инсулину и регулируя аппетит)."
+
+#~ msgid "In fuel applications, SCFAs are generally not used for standard biodiesel production. Their corresponding methyl esters are highly volatile, which drastically lowers the flash point of the fuel, creating safety, transport, and storage hazards. They also have a lower energy density compared to long-chain fatty acids. While they would theoretically offer excellent cold flow properties (very low melting points), their volatility and low molecular weight make them unsuitable for conventional diesel engines."
+#~ msgstr "В качестве топлива КЦЖК, как правило, не используются для производства стандартного биодизеля. Их метиловые эфиры обладают высокой летучестью, что радикально снижает температуру вспышки топлива, создавая угрозу безопасности при хранении и транспортировке. Они также имеют более низкую плотность энергии по сравнению с длинноцепочечными жирными кислотами. Хотя теоретически они могли бы обеспечить отличные низкотемпературные свойства (очень низкие температуры плавления), их летучесть и низкая молекулярная масса делают их непригодными для обычных дизельных двигателей."
+
+#~ msgid "[Wong _et al._, 2006](https://doi.org/10.1097/00004836-200603000-00015 \"Colonic health: fermentation and short chain fatty acids\")"
+#~ msgstr "[Wong _et al._, 2006](https://doi.org/10.1097/00004836-200603000-00015 \"Colonic health: fermentation and short chain fatty acids\")"
+
+#~ msgid "$$\\sum \\ce{MCFA}$$"
+#~ msgstr "$$\\sum \\ce{MCFA}$$"
+
+#~ msgid "Represents a sub-group of fatty acids with aliphatic tails of 6 to 12 carbon atoms (e.g., caproic acid $\\ce{C{6:0}}$, caprylic acid $\\ce{C{8:0}}$, capric acid $\\ce{C{10:0}}$, lauric acid $\\ce{C{12:0}}$)."
+#~ msgstr "Представляет собой подгруппу жирных кислот с алифатическими цепями от 6 до 12 атомов углерода (например, капроновая кислота $\\ce{C{6:0}}$, каприловая кислота $\\ce{C{8:0}}$, каприновая кислота $\\ce{C{10:0}}$, лауриновая кислота $\\ce{C{12:0}}$)."
+
+#~ msgid "In human nutrition, MCFAs are metabolized differently than long-chain fatty acids. Instead of being transported through the lymphatic system, they are absorbed directly into the portal vein and sent to the liver, where they are rapidly oxidized for immediate energy or converted into ketone bodies. They are widely studied for their health benefits, which include promoting weight management (by increasing energy expenditure and satiety), improving cognitive function in neurodegenerative conditions (such as Alzheimer's disease), and exhibiting potent antimicrobial and antiviral properties (particularly lauric acid and its derivatives)."
+#~ msgstr "В питании человека среднецепочечные жирные кислоты (MCFA) метаболизируются иначе, чем длинноцепочечные. Вместо того чтобы транспортироваться через лимфатическую систему, они всасываются непосредственно в воротную вену и направляются в печень, где быстро окисляются для получения немедленной энергии или превращаются в кетоновые тела. Они широко изучаются на предмет их пользы для здоровья, которая включает содействие контролю веса (за счет увеличения расхода энергии и чувства сытости), улучшение когнитивных функций при нейродегенеративных заболеваниях (таких как болезнь Альцгеймера), а также проявление мощных антимикробных и противовирусных свойств (особенно лауриновая кислота и её производные)."
+
+#~ msgid "In fuel applications, MCFAs offer a unique compromise of properties. Because they are typically saturated, they provide excellent oxidation stability (OS). Unlike long-chain saturated fats, their shorter carbon chains result in significantly lower melting points, which greatly improves cold-weather operability by lowering the cold filter plugging point (CFPP) and cloud point. However, MCFAs have a lower energy density (heating value) and a lower cetane number (CN) compared to longer-chain fatty acids. While largely absent in traditional feedstocks like soybean or rapeseed oil, oils rich in MCFAs (such as coconut and palm kernel oil) are highly valued for blending to improve the cold flow properties of biodiesel."
+#~ msgstr "В качестве топлива MCFA предлагают уникальный компромисс свойств. Поскольку они, как правило, насыщенные, они обеспечивают отличную окислительную стабильность (OS). В отличие от длинноцепочечных насыщенных жиров, их более короткие углеродные цепи приводят к значительно более низким температурам плавления, что существенно улучшает характеристики в холодную погоду за счет снижения предельной температуры фильтруемости (CFPP) и температуры помутнения. Однако MCFA имеют более низкую плотность энергии (теплотворную способность) и более низкое цетановое число (CN) по сравнению с длинноцепочечными жирными кислотами. Хотя они практически отсутствуют в традиционном сырье, таком как соевое или рапсовое масло, масла, богатые MCFA (такие как кокосовое и пальмоядровое), высоко ценятся для купажирования с целью улучшения низкотемпературных свойств биодизеля."
+
+#~ msgid "[Jadhav _et al._, 2022](https://doi.org/10.1007/s13197-022-05499-w \"Triglycerides of medium-chain fatty acids: a concise review\")"
+#~ msgstr "[Jadhav _et al._, 2022](https://doi.org/10.1007/s13197-022-05499-w \"Triglycerides of medium-chain fatty acids: a concise review\")"
+
+#~ msgid "$$\\sum \\ce{LCFA}$$"
+#~ msgstr "$$\\sum \\ce{LCFA}$$"
+
+#~ msgid "Represents a broad group of fatty acids with aliphatic tails of 13 to 21 carbon atoms. This group encompasses the vast majority of naturally occurring fatty acids in human diets and commercial oils, including saturated (e.g., myristic C14:0, palmitic C16:0, stearic C18:0) and unsaturated forms (e.g., oleic C18:1, linoleic C18:2)."
+#~ msgstr "Представляет собой обширную группу жирных кислот с алифатическими цепями от 13 до 21 атома углерода. Эта группа охватывает подавляющее большинство природных жирных кислот в рационе человека и коммерческих маслах, включая насыщенные (например, миристиновая C14:0, пальмитиновая C16:0, стеариновая C18:0) и ненасыщенные формы (например, олеиновая C18:1, линолевая C18:2)."
+
+#~ msgid "In human nutrition, LCFAs are the primary source of dietary fat. Unlike short- and medium-chain fatty acids, LCFAs require bile salts for digestion and are absorbed via the lymphatic system, packaged into chylomicrons before entering the bloodstream. Their health impacts vary drastically depending on their degree of unsaturation: saturated LCFAs are often linked to increased cardiovascular risk, while monounsaturated and polyunsaturated LCFAs are generally considered heart-healthy. They are essential for energy storage, hormone production, and forming the lipid bilayer of cell membranes."
+#~ msgstr "В питании человека длинноцепочечные жирные кислоты (LCFA) являются основным источником пищевых жиров. В отличие от коротко- и среднецепочечных жирных кислот, для переваривания LCFA требуются желчные соли, и они всасываются через лимфатическую систему, упаковываясь в хиломикроны перед попаданием в кровоток. Их влияние на здоровье сильно варьируется в зависимости от степени ненасыщенности: насыщенные LCFA часто связывают с повышенным сердечно-сосудистым риском, тогда как мононенасыщенные и полиненасыщенные LCFA обычно считаются полезными для сердца. Они необходимы для накопления энергии, выработки гормонов и формирования липидного бислоя клеточных мембран."
+
+#~ msgid "In fuel applications, LCFAs are the standard building blocks of conventional biodiesel, as they make up the bulk of common feedstocks like soybean, rapeseed, palm, and animal tallows. Their specific properties depend heavily on the degree of unsaturation. Generally, LCFAs provide the ideal energy density (heating value) and kinematic viscosity required for diesel engines. Saturated LCFAs offer a high cetane number (CN) and oxidation stability (OS) but poor cold flow properties, whereas unsaturated LCFAs improve cold-weather operability at the cost of oxidative stability."
+#~ msgstr "В качестве топлива LCFA являются стандартными строительными блоками традиционного биодизеля, поскольку они составляют основную часть распространенного сырья, такого как соевое, рапсовое, пальмовое масла и животные жиры. Их конкретные свойства сильно зависят от степени ненасыщенности. В целом, LCFA обеспечивают идеальную плотность энергии (теплотворную способность) и кинематическую вязкость, необходимые для дизельных двигателей. Насыщенные LCFA обеспечивают высокое цетановое число (CN) и окислительную стабильность (OS), но плохие низкотемпературные свойства, тогда как ненасыщенные LCFA улучшают характеристики в холодную погоду за счет снижения окислительной стабильности."
+
+#~ msgid "$$\\sum \\ce{VLCFA}$$"
+#~ msgstr "$$\\sum \\ce{VLCFA}$$"
+
+#~ msgid "Represents a sub-group of fatty acids with aliphatic tails of 22 or more carbon atoms (e.g., behenic acid $\\ce{C{22:0}}$, lignoceric acid $\\ce{C{24:0}}$, erucic acid $\\ce{C{22:1}}$, docosahexaenoic acid $\\ce{C{22:6}}$)."
+#~ msgstr "Представляет собой подгруппу жирных кислот с алифатическими цепями, содержащими 22 и более атомов углерода (например, бегеновая кислота $\\ce{C{22:0}}$, лигноцериновая кислота $\\ce{C{24:0}}$, эруковая кислота $\\ce{C{22:1}}$, докозагексаеновая кислота $\\ce{C{22:6}}$)."
+
+#~ msgid "In human nutrition, VLCFAs are consumed in relatively small amounts compared to standard long-chain fatty acids. They are biologically unique because their carbon chains are too long to be metabolized directly by mitochondria; instead, they must first undergo initial beta-oxidation in cellular organelles called peroxisomes. While they are essential for the formation of sphingolipids and the myelin sheath in the nervous system, the inability to metabolize them due to genetic peroxisomal disorders (such as X-linked adrenoleukodystrophy) leads to their toxic accumulation in the brain and adrenal glands. Conversely, in healthy populations, higher circulating levels of naturally occurring saturated VLCFAs are associated with favorable metabolic health and a reduced risk of cardiovascular disease and type 2 diabetes."
+#~ msgstr "В питании человека очень длинноцепочечные жирные кислоты (VLCFA) потребляются в относительно небольших количествах по сравнению со стандартными длинноцепочечными жирными кислотами. Они биологически уникальны тем, что их углеродные цепи слишком длинны для прямого метаболизма в митохондриях; вместо этого они должны сначала пройти первичное бета-окисление в клеточных органеллах, называемых пероксисомами. Хотя они необходимы для образования сфинголипидов и миелиновой оболочки в нервной системе, неспособность их метаболизировать из-за генетических пероксисомных нарушений (таких как Х-сцепленная адренолейкодистрофия) приводит к их токсичному накоплению в мозге и надпочечниках. С другой стороны, у здоровых людей более высокие уровни циркулирующих природных насыщенных VLCFA связаны с хорошим метаболическим здоровьем и сниженным риском сердечно-сосудистых заболеваний и диабета 2 типа."
+
+#~ msgid "In fuel applications, the presence of VLCFAs significantly increases the kinematic viscosity and boiling point of the biodiesel, which can negatively impact fuel atomization and combustion efficiency in the engine. Saturated VLCFAs (like behenic and lignoceric acids) have extremely high melting points, meaning even trace amounts can drastically raise the cold filter plugging point (CFPP) and cloud point, causing severe fuel gelling and filter clogging at ambient temperatures. While unsaturated VLCFAs (like erucic acid) have lower melting points, feedstocks rich in VLCFAs (such as traditional rapeseed, mustard, or high-erucic oils) generally produce biodiesel with poorer cold flow properties and higher viscosity compared to feedstocks dominated by standard 18-carbon fatty acids."
+#~ msgstr "В качестве топлива присутствие VLCFA значительно увеличивает кинематическую вязкость и температуру кипения биодизеля, что может негативно сказаться на распылении топлива и эффективности сгорания в двигателе. Насыщенные VLCFA (такие как бегеновая и лигноцериновая кислоты) имеют чрезвычайно высокие температуры плавления, а это означает, что даже их следовые количества могут резко повысить предельную температуру фильтруемости (CFPP) и температуру помутнения, вызывая серьезное загустевание топлива и засорение фильтров при температурах окружающей среды. Хотя ненасыщенные VLCFA (такие как эруковая кислота) имеют более низкие температуры плавления, сырье, богатое VLCFA (например, традиционное рапсовое, горчичное или высокоэруковое масла), как правило, дает биодизель с худшими низкотемпературными свойствами и более высокой вязкостью по сравнению с сырьем, в котором преобладают стандартные 18-углеродные жирные кислоты."
+
+#~ msgid "[Wanders _et al._, 2010](https://doi.org/10.1016/j.ymgme.2004.08.016 \"Peroxisomes, lipid metabolism, and peroxisomal disorders\")"
+#~ msgstr "[Wanders _et al._, 2010](https://doi.org/10.1016/j.ymgme.2004.08.016 \"Peroxisomes, lipid metabolism, and peroxisomal disorders\")"
 
 #~ msgid "Fatty acids"
 #~ msgstr "Жирные кислоты"
