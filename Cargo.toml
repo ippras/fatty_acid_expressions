@@ -1,17 +1,14 @@
 [package]
 edition = "2024"
 name = "fatty_acid_expressions"
-version = "0.1.0"
+version = "0.2.0"
 
 [dependencies]
 const_format = "0.2.36"
-icu = "2.2.0"
-# icu = { git = "https://github.com/JustFly1984/icu4x", branch = "feature/messageformat-v2", features = [
-#     "unstable",
-# ] }
-# icu = { version = "2.2.0", features = ["unstable"] }
-# icu_provider = "2.2.0"
-# icu_provider_adapters = "2.2.0"
+
+egui_l10n = { git = "https://github.com/ippras/egui_l10n", branch = "0.6", features = [
+    "macros",
+] }
 
 [features]
 default = ["en", "ru"]

@@ -1,18 +1,9 @@
-use icu::locale::subtags::{Language, language};
+pub mod l10n {
+    use egui_l10n::ftl;
 
-pub const EN: Language = language!("en");
-pub const RU: Language = language!("ru");
+    pub const EN: &[&str] = &[ftl!("en/generated.ftl"), ftl!("en/main.ftl")];
 
-pub const fn sources(language: Language) -> &'static [&'static str] {
-    match language {
-        #[cfg(feature = "en")]
-        EN => &[ftl!("en/generated.ftl"), ftl!("en/main.ftl")],
-        #[cfg(feature = "ru")]
-        RU => &[ftl!("ru/generated.ftl"), ftl!("ru/main.ftl")],
-        _ => &[ftl!("en/generated.ftl"), ftl!("en/main.ftl")],
-    }
+    pub const RU: &[&str] = &[ftl!("ru/generated.ftl"), ftl!("ru/main.ftl")];
 }
 
 pub mod r#const;
-
-mod macros;
