@@ -1,7 +1,5 @@
 FAE_Biodiesel = Biodiesel
     .hover = Biodiesel expressions
-FAE_Expressions = Expressions
-    .hover = Fatty acid expressions
 FAE_Metabolic = Metabolic
     .hover = Metabolic expressions
 FAE_Nutritional = Nutritional

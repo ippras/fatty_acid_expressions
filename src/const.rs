@@ -1,7 +1,8 @@
 use const_format::formatcp;
 
-pub const FAE: &str = "FAE";
-pub const PREFIX: &str = FAE;
+pub const PREFIX: &str = "FAE";
+
+pub const EXPRESSION: &str = "Expression";
 
 pub const PRIMITIVE: &str = "Primitive";
 pub const RATIO: &str = "Ratio";
