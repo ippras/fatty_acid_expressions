@@ -1,15 +1,14 @@
-Primitive = Primitive
-    .hover = Primitive
-Ratio = Ratio
-    .hover = Ratio expressions
-Sum = Sum
-    .hover = Sum expressions
-
-Expressions = Expressions
-    .hover = Fatty acid expressions
-Biodiesel = Biodiesel
+FAE_Biodiesel = Biodiesel
     .hover = Biodiesel expressions
-Metabolic = Metabolic
+FAE_Expressions = Expressions
+    .hover = Fatty acid expressions
+FAE_Metabolic = Metabolic
     .hover = Metabolic expressions
-Nutritional = Nutritional
+FAE_Nutritional = Nutritional
     .hover = Nutritional expressions
+FAE_Primitive = Primitive
+    .hover = Primitive
+FAE_Ratio = Ratio
+    .hover = Ratio expressions
+FAE_Sum = Sum
+    .hover = Sum expressions
