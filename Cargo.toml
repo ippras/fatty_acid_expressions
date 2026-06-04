@@ -1,7 +1,8 @@
 [package]
-edition = "2024"
 name = "fatty_acid_expressions"
 version = "0.2.0"
+authors = ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"]
+edition = "2024"
 
 [dependencies]
 const_format = "0.2.36"
