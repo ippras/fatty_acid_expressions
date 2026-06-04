@@ -117,8 +117,9 @@ pub mod ratio {
 
         pub const LA_TO_ALA: &str =
             formatcp!("{PREFIX}_{RATIO}_{NUTRITIONAL}_LinoleicToAlphaLinolenic");
-        pub const O6PUFA_TO_O3PUFA: &str =
-            "FAE_{RATIO}_{NUTRITIONAL}_Omega-6PolyunsaturatedToOmega-3Polyunsaturated";
+        pub const O6PUFA_TO_O3PUFA: &str = formatcp!(
+            "{PREFIX}_{RATIO}_{NUTRITIONAL}_Omega-6PolyunsaturatedToOmega-3Polyunsaturated"
+        );
         pub const PUFA_TO_SFA: &str =
             formatcp!("{PREFIX}_{RATIO}_{NUTRITIONAL}_PolyunsaturatedToSaturated");
     }
