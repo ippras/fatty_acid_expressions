@@ -1,4 +1,4 @@
-book
-messages.mo
-po/messages.pot
-target
+/book
+/messages.mo
+/po/messages.pot
+/target
