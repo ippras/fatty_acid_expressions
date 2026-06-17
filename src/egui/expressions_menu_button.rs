@@ -23,7 +23,7 @@ pub struct ExpressionsMenuButton<'a> {
 }
 
 impl Widget for ExpressionsMenuButton<'_> {
-    fn ui(self, ui: &mut Ui) -> Response {
+    fn ui(mut self, ui: &mut Ui) -> Response {
         ui.menu_button(
             (
                 RichText::new(SIGMA).heading(),
@@ -31,7 +31,7 @@ impl Widget for ExpressionsMenuButton<'_> {
                     .heading(),
             ),
             |ui| {
-                if let Some(selected) = self.sum {
+                if let Some(selected) = &mut self.sum {
                     SumButton::builder()
                         .selected(selected)
                         .atom(SUM)
@@ -45,7 +45,7 @@ impl Widget for ExpressionsMenuButton<'_> {
                         RichText::new(ui.localize(RATIO)).heading(),
                     ),
                     |ui| {
-                        if let Some(selected) = self.biodiesel_ratio {
+                        if let Some(selected) = &mut self.biodiesel_ratio {
                             SumButton::builder()
                                 .selected(selected)
                                 .atom(BIODIESEL)
@@ -53,7 +53,7 @@ impl Widget for ExpressionsMenuButton<'_> {
                                 .build()
                                 .ui(ui);
                         }
-                        if let Some(selected) = self.biodiesel_ratio {
+                        if let Some(selected) = &mut self.biodiesel_ratio {
                             SumButton::builder()
                                 .selected(selected)
                                 .atom(METABOLIC)
@@ -61,7 +61,7 @@ impl Widget for ExpressionsMenuButton<'_> {
                                 .build()
                                 .ui(ui);
                         }
-                        if let Some(selected) = self.nutritional_ratio {
+                        if let Some(selected) = &mut self.nutritional_ratio {
                             SumButton::builder()
                                 .selected(selected)
                                 .atom(NUTRITIONAL)
