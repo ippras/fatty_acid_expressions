@@ -53,7 +53,7 @@ impl Widget for ExpressionsMenuButton<'_> {
                                 .build()
                                 .ui(ui);
                         }
-                        if let Some(selected) = &mut self.biodiesel_ratio {
+                        if let Some(selected) = &mut self.metabolic_ratio {
                             SumButton::builder()
                                 .selected(selected)
                                 .atom(METABOLIC)
@@ -72,11 +72,15 @@ impl Widget for ExpressionsMenuButton<'_> {
                     },
                 )
                 .response
-                .on_hover_text(formatcp!("{RATIO}.hover"));
+                .on_hover_ui(|ui| {
+                    ui.label(ui.localize(formatcp!("{RATIO}.hover")));
+                });
             },
         )
         .response
-        .on_hover_text(formatcp!("{RATIO}.hover?PluralCategory=other"))
+        .on_hover_ui(|ui| {
+            ui.label(ui.localize(formatcp!("{RATIO}.hover?PluralCategory=other")));
+        })
         // let mut atoms = (RichText::new(SIGMA), RichText::new(ui.localize(self.atom)));
         // atoms = if let Some(size) = self.size {
         //     (atoms.0.size(size), atoms.1.size(size))
