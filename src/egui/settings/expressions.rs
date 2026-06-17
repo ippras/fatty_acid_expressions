@@ -41,7 +41,8 @@ impl Expressions {
 }
 
 /// Ratio
-#[derive(Clone, Debug, Deserialize, Hash, PartialEq, Serialize)]
+#[derive(Clone, Debug, Hash, PartialEq)]
+#[cfg_attr(feature = "serde", derive(serde::Serialize, serde::Deserialize))]
 pub struct Ratio {
     pub biodiesel: Array,
     pub metabolic: Array,
