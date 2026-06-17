@@ -14,7 +14,6 @@ egui_l10n = { git = "https://github.com/ippras/egui_l10n", branch = "0.6", featu
 ] }
 typed-builder = { version = "0.23.2", optional = true }
 widgets = { git = "https://github.com/ippras/widgets", branch = "0.52", features = [
-    "fatty_acids",
     "polars",
 ], optional = true }
 
