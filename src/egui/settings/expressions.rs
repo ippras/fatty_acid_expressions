@@ -1,8 +1,4 @@
-use crate::settings::Array;
-use const_format::formatcp;
-use egui::Ui;
-use egui_l10n::ContextExt as _;
-use fatty_acid_expressions::r#const::{
+use crate::r#const::{
     RATIO, SUM,
     ratio::{
         BIODIESEL, METABOLIC, NUTRITIONAL, biodiesel::RATIOS as BIODIESEL_RATIOS,
@@ -10,7 +6,11 @@ use fatty_acid_expressions::r#const::{
     },
     sum,
 };
+use const_format::formatcp;
+use egui::Ui;
+use egui_l10n::ContextExt as _;
 use serde::{Deserialize, Serialize};
+use widgets::settings::Array;
 
 /// Expressions
 #[derive(Clone, Debug, Deserialize, Hash, PartialEq, Serialize)]
