@@ -9,7 +9,7 @@ use egui_phosphor::regular::SIGMA;
 use typed_builder::TypedBuilder;
 use widgets::buttons::SumButton;
 
-/// Sum button widget
+/// Expressions menu button widget
 #[derive(Debug, TypedBuilder)]
 pub struct ExpressionsMenuButton<'a> {
     #[builder(default, setter(strip_option))]
