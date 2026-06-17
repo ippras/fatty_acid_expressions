@@ -2,15 +2,11 @@ use const_format::formatcp;
 
 pub const PREFIX: &str = "FAE";
 
-pub const EXPRESSION: &str = "Expression";
+pub const EXPRESSION: &str = formatcp!("{PREFIX}_Expression");
 
-pub const PRIMITIVE: &str = "Primitive";
-pub const RATIO: &str = "Ratio";
-pub const SUM: &str = "Sum";
-
-pub const BIODIESEL: &str = "Biodiesel";
-pub const METABOLIC: &str = "Metabolic";
-pub const NUTRITIONAL: &str = "Nutritional";
+pub const PRIMITIVE: &str = formatcp!("{PREFIX}_Primitive");
+pub const RATIO: &str = formatcp!("{PREFIX}_Ratio");
+pub const SUM: &str = formatcp!("{PREFIX}_Sum");
 
 pub mod sum {
     use super::*;
@@ -40,39 +36,43 @@ pub mod sum {
         TFA,
     ];
 
-    pub const CFA: &str = formatcp!("{PREFIX}_{SUM}_Conjugated");
-    pub const D12: &str = formatcp!("{PREFIX}_{SUM}_Delta12");
-    pub const D9: &str = formatcp!("{PREFIX}_{SUM}_Delta9");
-    pub const EPA_AND_DHA: &str = formatcp!("{PREFIX}_{SUM}_EicosapentaenoicAndDocosahexaenoic");
-    pub const LCFA: &str = formatcp!("{PREFIX}_{SUM}_LongChain");
-    pub const MCFA: &str = formatcp!("{PREFIX}_{SUM}_MediumChain");
-    pub const MUFA: &str = formatcp!("{PREFIX}_{SUM}_MonoUnsaturated");
-    pub const NUFA: &str = formatcp!("{PREFIX}_{SUM}_NUnsaturated");
-    pub const O3: &str = formatcp!("{PREFIX}_{SUM}_Omega-3");
-    pub const O6: &str = formatcp!("{PREFIX}_{SUM}_Omega-6");
-    pub const O9: &str = formatcp!("{PREFIX}_{SUM}_Omega-9");
-    pub const PUFA: &str = formatcp!("{PREFIX}_{SUM}_PolyUnsaturated");
-    pub const SCFA: &str = formatcp!("{PREFIX}_{SUM}_ShortChain");
-    pub const SFA: &str = formatcp!("{PREFIX}_{SUM}_Saturated");
-    pub const TFA: &str = formatcp!("{PREFIX}_{SUM}_Trans");
-    pub const UFA: &str = formatcp!("{PREFIX}_{SUM}_Unsaturated");
-    pub const VLCFA: &str = formatcp!("{PREFIX}_{SUM}_VeryLongChain");
+    pub const CFA: &str = formatcp!("{SUM}_Conjugated");
+    pub const D12: &str = formatcp!("{SUM}_Delta12");
+    pub const D9: &str = formatcp!("{SUM}_Delta9");
+    pub const EPA_AND_DHA: &str = formatcp!("{SUM}_EicosapentaenoicAndDocosahexaenoic");
+    pub const LCFA: &str = formatcp!("{SUM}_LongChain");
+    pub const MCFA: &str = formatcp!("{SUM}_MediumChain");
+    pub const MUFA: &str = formatcp!("{SUM}_MonoUnsaturated");
+    pub const NUFA: &str = formatcp!("{SUM}_NUnsaturated");
+    pub const O3: &str = formatcp!("{SUM}_Omega-3");
+    pub const O6: &str = formatcp!("{SUM}_Omega-6");
+    pub const O9: &str = formatcp!("{SUM}_Omega-9");
+    pub const PUFA: &str = formatcp!("{SUM}_PolyUnsaturated");
+    pub const SCFA: &str = formatcp!("{SUM}_ShortChain");
+    pub const SFA: &str = formatcp!("{SUM}_Saturated");
+    pub const TFA: &str = formatcp!("{SUM}_Trans");
+    pub const UFA: &str = formatcp!("{SUM}_Unsaturated");
+    pub const VLCFA: &str = formatcp!("{SUM}_VeryLongChain");
 }
 
 pub mod ratio {
     use super::*;
+
+    pub const BIODIESEL: &str = formatcp!("{RATIO}_Biodiesel");
+    pub const METABOLIC: &str = formatcp!("{RATIO}_Metabolic");
+    pub const NUTRITIONAL: &str = formatcp!("{RATIO}_Nutritional");
 
     pub mod biodiesel {
         use super::*;
 
         pub const RATIOS: [&str; 6] = [CN, CFPP, DU, IV, LCSF, OS];
 
-        pub const CFPP: &str = formatcp!("{PREFIX}_{RATIO}_{BIODIESEL}_ColdFilterPluggingPoint");
-        pub const CN: &str = formatcp!("{PREFIX}_{RATIO}_{BIODIESEL}_CetaneNumber");
-        pub const DU: &str = formatcp!("{PREFIX}_{RATIO}_{BIODIESEL}_DegreeOfUnsaturation");
-        pub const IV: &str = formatcp!("{PREFIX}_{RATIO}_{BIODIESEL}_IodineValue");
-        pub const LCSF: &str = formatcp!("{PREFIX}_{RATIO}_{BIODIESEL}_LongChainSaturatedFactor");
-        pub const OS: &str = formatcp!("{PREFIX}_{RATIO}_{BIODIESEL}_OxidationStability");
+        pub const CFPP: &str = formatcp!("{BIODIESEL}_ColdFilterPluggingPoint");
+        pub const CN: &str = formatcp!("{BIODIESEL}_CetaneNumber");
+        pub const DU: &str = formatcp!("{BIODIESEL}_DegreeOfUnsaturation");
+        pub const IV: &str = formatcp!("{BIODIESEL}_IodineValue");
+        pub const LCSF: &str = formatcp!("{BIODIESEL}_LongChainSaturatedFactor");
+        pub const OS: &str = formatcp!("{BIODIESEL}_OxidationStability");
     }
 
     pub mod metabolic {
@@ -80,10 +80,10 @@ pub mod ratio {
 
         pub const RATIOS: [&str; 4] = [D9DI, EI, KAI, TI];
 
-        pub const D9DI: &str = formatcp!("{PREFIX}_{RATIO}_{METABOLIC}_Delta9DesaturaseIndex");
-        pub const EI: &str = formatcp!("{PREFIX}_{RATIO}_{METABOLIC}_ElongaseIndex");
-        pub const KAI: &str = formatcp!("{PREFIX}_{RATIO}_{METABOLIC}_KineticActivityIndex");
-        pub const TI: &str = formatcp!("{PREFIX}_{RATIO}_{METABOLIC}_ThioesteraseIndex");
+        pub const D9DI: &str = formatcp!("{METABOLIC}_Delta9DesaturaseIndex");
+        pub const EI: &str = formatcp!("{METABOLIC}_ElongaseIndex");
+        pub const KAI: &str = formatcp!("{METABOLIC}_KineticActivityIndex");
+        pub const TI: &str = formatcp!("{METABOLIC}_ThioesteraseIndex");
     }
 
     pub mod nutritional {
@@ -103,24 +103,21 @@ pub mod ratio {
             PUFA_TO_SFA,
         ];
 
-        pub const AI: &str = formatcp!("{PREFIX}_{RATIO}_{NUTRITIONAL}_AtherogenicIndex");
-        pub const CI: &str = formatcp!("{PREFIX}_{RATIO}_{NUTRITIONAL}_CholesterolIndex");
-        pub const FLQ: &str = formatcp!("{PREFIX}_{RATIO}_{NUTRITIONAL}_FishLipidQuality");
-        pub const HPI: &str = formatcp!("{PREFIX}_{RATIO}_{NUTRITIONAL}_HealthPromotingIndex");
-        pub const NVI: &str = formatcp!("{PREFIX}_{RATIO}_{NUTRITIONAL}_NutritionalValueIndex");
-        pub const SI: &str = formatcp!("{PREFIX}_{RATIO}_{NUTRITIONAL}_SaturationIndex");
-        pub const TI: &str = formatcp!("{PREFIX}_{RATIO}_{NUTRITIONAL}_ThrombogenicIndex");
-        pub const UI: &str = formatcp!("{PREFIX}_{RATIO}_{NUTRITIONAL}_UnsaturationIndex");
+        pub const AI: &str = formatcp!("{NUTRITIONAL}_AtherogenicIndex");
+        pub const CI: &str = formatcp!("{NUTRITIONAL}_CholesterolIndex");
+        pub const FLQ: &str = formatcp!("{NUTRITIONAL}_FishLipidQuality");
+        pub const HPI: &str = formatcp!("{NUTRITIONAL}_HealthPromotingIndex");
+        pub const NVI: &str = formatcp!("{NUTRITIONAL}_NutritionalValueIndex");
+        pub const SI: &str = formatcp!("{NUTRITIONAL}_SaturationIndex");
+        pub const TI: &str = formatcp!("{NUTRITIONAL}_ThrombogenicIndex");
+        pub const UI: &str = formatcp!("{NUTRITIONAL}_UnsaturationIndex");
 
         pub const HH: &str = CI;
         pub const HHI: &str = CI;
 
-        pub const LA_TO_ALA: &str =
-            formatcp!("{PREFIX}_{RATIO}_{NUTRITIONAL}_LinoleicToAlphaLinolenic");
-        pub const O6PUFA_TO_O3PUFA: &str = formatcp!(
-            "{PREFIX}_{RATIO}_{NUTRITIONAL}_Omega-6PolyunsaturatedToOmega-3Polyunsaturated"
-        );
-        pub const PUFA_TO_SFA: &str =
-            formatcp!("{PREFIX}_{RATIO}_{NUTRITIONAL}_PolyunsaturatedToSaturated");
+        pub const LA_TO_ALA: &str = formatcp!("{NUTRITIONAL}_LinoleicToAlphaLinolenic");
+        pub const O6PUFA_TO_O3PUFA: &str =
+            formatcp!("{NUTRITIONAL}_Omega-6PolyunsaturatedToOmega-3Polyunsaturated");
+        pub const PUFA_TO_SFA: &str = formatcp!("{NUTRITIONAL}_PolyunsaturatedToSaturated");
     }
 }
