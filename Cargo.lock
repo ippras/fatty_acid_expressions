@@ -1109,6 +1109,7 @@ dependencies = [
  "egui",
  "egui-phosphor",
  "egui_l10n",
+ "serde",
  "typed-builder",
  "widgets",
 ]

@@ -9,11 +9,11 @@ use crate::r#const::{
 use const_format::formatcp;
 use egui::Ui;
 use egui_l10n::ContextExt as _;
-use serde::{Deserialize, Serialize};
 use widgets::settings::Array;
 
 /// Expressions
-#[derive(Clone, Debug, Deserialize, Hash, PartialEq, Serialize)]
+#[derive(Clone, Debug, Hash, PartialEq)]
+#[cfg_attr(feature = "serde", derive(serde::Serialize, serde::Deserialize))]
 pub struct Expressions {
     pub sum: Array,
     pub ratio: Ratio,
